@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=5V Pin=C45-1
+Removed Pin From Net: NetName=GND Pin=C45-2
+Removed Pin From Net: NetName=5V Pin=C46-1
+Removed Pin From Net: NetName=GND Pin=C46-2
+Removed Pin From Net: NetName=GND Pin=C47-2
+Removed Pin From Net: NetName=GND Pin=C48-2
+Removed Pin From Net: NetName=GND Pin=C49-2
+Removed Pin From Net: NetName=5V Pin=D24-2
+Removed Pin From Net: NetName=GND Pin=LR2-1
+Removed Pin From Net: NetName=GND Pin=R55-1
+Removed Pin From Net: NetName=GND Pin=U1-37
+Removed Pin From Net: NetName=KEY_ESC Pin=U1-61
+Removed Pin From Net: NetName=KEY_ENTER Pin=U1-62
+Removed Pin From Net: NetName=KEY_INT Pin=U1-90
+Removed Pin From Net: NetName=USART1_RS485_LINK Pin=U1-96
+Removed Pin From Net: NetName=GND Pin=U7-6
+Removed Pin From Net: NetName=GND Pin=U8-2
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Member From Class: ClassName=cpuinterface Member=LR2
+Added Component: Designator=R3(RESC2012M)
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=KEY_ENTER Pin=U1-61
+Added Pin To Net: NetName=KEY_INT Pin=U1-62
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=BOOT1 Pin=R3-1
+Added Pin To Net: NetName=BOOT1 Pin=U1-37
+Added Net: Name=BOOT1
+Added Pin To Net: NetName=USART1_PC_RX Pin=R60-2
+Added Pin To Net: NetName=USART1_PC_RX Pin=U1-69
+Added Net: Name=USART1_PC_RX
+Added Pin To Net: NetName=USART1_PC_TX Pin=R59-1
+Added Pin To Net: NetName=USART1_PC_TX Pin=U1-68
+Added Net: Name=USART1_PC_TX
+Added Pin To Net: NetName=USART3_DP_LINK Pin=U1-96
+Added Net: Name=USART3_DP_LINK
+Added Pin To Net: NetName=USART_DP_RX Pin=P1-16
+Added Pin To Net: NetName=USART_DP_RX Pin=U1-56
+Added Net: Name=USART_DP_RX
+Added Pin To Net: NetName=USART_DP_TX Pin=P1-15
+Added Pin To Net: NetName=USART_DP_TX Pin=U1-55
+Added Net: Name=USART_DP_TX
+Added Member To Class: ClassName=cpuinterface Member=Component R3 10K

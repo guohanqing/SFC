@@ -1,0 +1,3 @@
+Change Component Comment : Designator=R5 Old Comment=10K New Comment=100K
+Added Pin To Net: NetName=SUB_SYS_BOOTSEL Pin=R5-2
+Added Pin To Net: NetName=SUB_SYS_BOOTSEL Pin=U2-60

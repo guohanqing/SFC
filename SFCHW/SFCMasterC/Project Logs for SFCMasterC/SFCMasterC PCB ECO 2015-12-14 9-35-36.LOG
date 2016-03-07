@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GNDA Pin=P3-1
+Removed Pin From Net: NetName=24V Pin=P3-2
+Removed Pin From Net: NetName=5V Pin=P3-3
+Removed Pin From Net: NetName=RS232_EXT_TXD1 Pin=P3-4
+Removed Pin From Net: NetName=RS232_EXT_RXD1 Pin=P3-5
+Removed Pin From Net: NetName=GND Pin=P3-6
+Removed Pin From Net: NetName=RS232_PC_TXD2 Pin=P6-1
+Removed Pin From Net: NetName=GND Pin=P6-3
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=RS232_EXT_RXD1 Pin=P3-2
+Added Pin To Net: NetName=RS232_EXT_TXD1 Pin=P3-3
+Added Pin To Net: NetName=5V Pin=P3-4
+Added Pin To Net: NetName=24V Pin=P3-5
+Added Pin To Net: NetName=GNDA Pin=P3-6
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=RS232_PC_TXD2 Pin=P6-3

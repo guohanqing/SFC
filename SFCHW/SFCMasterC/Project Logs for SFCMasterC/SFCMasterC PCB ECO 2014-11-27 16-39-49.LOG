@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=D22 Old Footprint=CD2012-0805 New Footprint=LED254A
+Change Component Footprint: Designator=D23 Old Footprint=CD2012-0805 New Footprint=LED254A
+Added Member To Class: ClassName=cpuinterface Member=Component C24 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C25 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C27 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C28 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C29 1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C30 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C31 1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C32 20pF
+Added Member To Class: ClassName=cpuinterface Member=Component U4 REF3025
+Added Member To Class: ClassName=cpuinterface Member=Component U5 MIC811TU

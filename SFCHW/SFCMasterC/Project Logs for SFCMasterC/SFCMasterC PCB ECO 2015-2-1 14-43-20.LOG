@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=WIFI_USART6_LINK_OUT Pin=U16-2
+Removed Pin From Net: NetName=WIFI_USART6_TRANS_OUT Pin=U16-3
+Removed Pin From Net: NetName=USART2_LINK_OUT Pin=U17-8

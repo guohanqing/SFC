@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=DP_CHECK_IN Pin=RV1-1
+Added Pin To Net: NetName=DP_CHECK_IN Pin=RV1-3

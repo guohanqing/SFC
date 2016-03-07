@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=HSE_CLK Pin=R11-1
+Removed Member From Class: ClassName=drveth Member=R10
+Removed Member From Class: ClassName=drveth Member=R11
+Added Pin To Net: NetName=HSE_CLK Pin=U6-43
+Change Net Name : Old Net Name=MCU_RST New Net Name=SUB_SYS_RST

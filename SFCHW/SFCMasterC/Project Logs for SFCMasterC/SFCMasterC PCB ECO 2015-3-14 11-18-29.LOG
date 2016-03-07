@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=LR1 Old Footprint=INDC3216M New Footprint=INDC2012M
+Change Component Footprint: Designator=LR2 Old Footprint=INDC3216M New Footprint=INDC2012M
+Change Component Footprint: Designator=LR3 Old Footprint=INDC3216M New Footprint=INDC2012M
+Change Component Comment : Designator=LR1 Old Comment=CBW321609U101T New Comment=CBW201209U102T
+Change Component Comment : Designator=LR2 Old Comment=CBW321609U101T New Comment=CBW201209U102T
+Change Component Comment : Designator=LR3 Old Comment=CBW321609U101T New Comment=CBW201209U102T

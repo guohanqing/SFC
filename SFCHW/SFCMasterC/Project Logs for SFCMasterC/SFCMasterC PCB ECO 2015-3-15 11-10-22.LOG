@@ -1,0 +1,25 @@
+Added Component: Designator=D27(CD3216-1206)
+Added Component: Designator=D28(CD3216-1206)
+Added Component: Designator=D29(CD3216-1206)
+Added Component: Designator=D30(CD3216-1206)
+Added Component: Designator=D31(CD3216-1206)
+Added Component: Designator=D32(CD3216-1206)
+Added Pin To Net: NetName=PC3 Pin=D27-1
+Added Pin To Net: NetName=LEVEL_DETECT_L2_IN Pin=D27-2
+Added Pin To Net: NetName=PC3 Pin=D28-1
+Added Pin To Net: NetName=LEVEL_DETECT_H2_IN Pin=D28-2
+Added Pin To Net: NetName=PC3 Pin=D29-1
+Added Pin To Net: NetName=LEVEL_DETECT_L1_IN Pin=D29-2
+Added Pin To Net: NetName=PC3 Pin=D30-1
+Added Pin To Net: NetName=LEVEL_DETECT_H1_IN Pin=D30-2
+Added Pin To Net: NetName=PC3 Pin=D31-1
+Added Pin To Net: NetName=RMT_STARTUP_IN Pin=D31-2
+Added Pin To Net: NetName=PC3 Pin=D32-1
+Added Pin To Net: NetName=DP_STARTUP_IN Pin=D32-2
+Change Net Name : Old Net Name=PC3 New Net Name=PORT_INT
+Added Member To Class: ClassName=cpuledin Member=Component D27 LL4148
+Added Member To Class: ClassName=cpuledin Member=Component D28 LL4148
+Added Member To Class: ClassName=cpuledin Member=Component D29 LL4148
+Added Member To Class: ClassName=cpuledin Member=Component D30 LL4148
+Added Member To Class: ClassName=cpuledin Member=Component D31 LL4148
+Added Member To Class: ClassName=cpuledin Member=Component D32 LL4148

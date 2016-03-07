@@ -1,0 +1,459 @@
+Removed Pin From Net: NetName=12V Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=VSSA Pin=C17-1
+Removed Pin From Net: NetName=VDDA Pin=C17-2
+Removed Pin From Net: NetName=VSSA Pin=C18-1
+Removed Pin From Net: NetName=VDDA Pin=C18-2
+Removed Pin From Net: NetName=VSSA Pin=C19-1
+Removed Pin From Net: NetName=VREF Pin=C19-2
+Removed Pin From Net: NetName=VSSA Pin=C20-1
+Removed Pin From Net: NetName=VREF Pin=C20-2
+Removed Pin From Net: NetName=VBAT Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=C21-2
+Removed Pin From Net: NetName=3.3V Pin=C22-2
+Removed Pin From Net: NetName=RCC_OSC_IN Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=C42-1
+Removed Pin From Net: NetName=3.3V Pin=C42-2
+Removed Pin From Net: NetName=GND Pin=C43-1
+Removed Pin From Net: NetName=3.3V Pin=C43-2
+Removed Pin From Net: NetName=GND Pin=C44-1
+Removed Pin From Net: NetName=12V Pin=C44-2
+Removed Pin From Net: NetName=GND Pin=C45-1
+Removed Pin From Net: NetName=12V Pin=C45-2
+Removed Pin From Net: NetName=GND Pin=C46-1
+Removed Pin From Net: NetName=5V Pin=C46-2
+Removed Pin From Net: NetName=GND Pin=C47-1
+Removed Pin From Net: NetName=5V Pin=C47-2
+Removed Pin From Net: NetName=GND Pin=C48-1
+Removed Pin From Net: NetName=12V Pin=C48-2
+Removed Pin From Net: NetName=GND Pin=C49-1
+Removed Pin From Net: NetName=12V Pin=C49-2
+Removed Pin From Net: NetName=GND Pin=U8-1
+Removed Pin From Net: NetName=5V Pin=U8-2
+Removed Pin From Net: NetName=12V Pin=U8-3
+Change Component DesignItemId : Designator=U3 Old DesignItemId=MAX811-EUS-T New DesignItemId=LM1117T-5.0
+Change Component DesignItemId : Designator=U2 Old DesignItemId=REF3330 New DesignItemId=LM1117T-5.0
+Change Component Footprint: Designator=U2 Old Footprint=SOT23_M New Footprint=SOT-223
+Change Component Footprint: Designator=U3 Old Footprint=SOT-143_N New Footprint=SOT-223
+Change Component Comment : Designator=C16 Old Comment=0.1uF New Comment=10uF
+Change Component Comment : Designator=C22 Old Comment=0.1uF New Comment=10uF
+Change Component Comment : Designator=C18 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C20 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C23 Old Comment=20pF New Comment=0.1uF
+Change Component Comment : Designator=U3 Old Comment=MIC811TU New Comment=ASM1117-5.0
+Change Component Comment : Designator=U2 Old Comment=REF3025 New Comment=ASM1117-3.3
+Change Component Designator: OldDesignator=C24 NewDesignator=C33
+Change Component Designator: OldDesignator=C25 NewDesignator=C34
+Change Component Designator: OldDesignator=C26 NewDesignator=C35
+Change Component Designator: OldDesignator=C27 NewDesignator=C36
+Change Component Designator: OldDesignator=C28 NewDesignator=C37
+Change Component Designator: OldDesignator=C29 NewDesignator=C38
+Change Component Designator: OldDesignator=C30 NewDesignator=C39
+Change Component Designator: OldDesignator=C31 NewDesignator=C40
+Change Component Designator: OldDesignator=C32 NewDesignator=C41
+Change Component Designator: OldDesignator=C33 NewDesignator=C42
+Change Component Designator: OldDesignator=C34 NewDesignator=C43
+Change Component Designator: OldDesignator=C35 NewDesignator=C44
+Change Component Designator: OldDesignator=C36 NewDesignator=C45
+Change Component Designator: OldDesignator=C37 NewDesignator=C46
+Change Component Designator: OldDesignator=C38 NewDesignator=C47
+Change Component Designator: OldDesignator=C69 NewDesignator=C26
+Change Component Designator: OldDesignator=D5 NewDesignator=D4
+Change Component Designator: OldDesignator=D6 NewDesignator=D5
+Change Component Designator: OldDesignator=D7 NewDesignator=D6
+Change Component Designator: OldDesignator=D8 NewDesignator=D7
+Change Component Designator: OldDesignator=D9 NewDesignator=D8
+Change Component Designator: OldDesignator=D10 NewDesignator=D9
+Change Component Designator: OldDesignator=D11 NewDesignator=D10
+Change Component Designator: OldDesignator=D12 NewDesignator=D11
+Change Component Designator: OldDesignator=D13 NewDesignator=D12
+Change Component Designator: OldDesignator=D14 NewDesignator=D13
+Change Component Designator: OldDesignator=D15 NewDesignator=D14
+Change Component Designator: OldDesignator=D16 NewDesignator=D15
+Change Component Designator: OldDesignator=D17 NewDesignator=D16
+Change Component Designator: OldDesignator=D18 NewDesignator=D17
+Change Component Designator: OldDesignator=D19 NewDesignator=D18
+Change Component Designator: OldDesignator=D20 NewDesignator=D19
+Change Component Designator: OldDesignator=D21 NewDesignator=D20
+Change Component Designator: OldDesignator=D22 NewDesignator=D21
+Change Component Designator: OldDesignator=D23 NewDesignator=D22
+Change Component Designator: OldDesignator=D24 NewDesignator=D23
+Change Component Designator: OldDesignator=D25 NewDesignator=D24
+Change Component Designator: OldDesignator=P4 NewDesignator=P5
+Change Component Designator: OldDesignator=P5 NewDesignator=P6
+Change Component Designator: OldDesignator=P6 NewDesignator=P7
+Change Component Designator: OldDesignator=P7 NewDesignator=P8
+Change Component Designator: OldDesignator=P10 NewDesignator=P4
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q4
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q7 NewDesignator=Q6
+Change Component Designator: OldDesignator=Q8 NewDesignator=Q7
+Change Component Designator: OldDesignator=Q9 NewDesignator=Q8
+Change Component Designator: OldDesignator=Q10 NewDesignator=Q9
+Change Component Designator: OldDesignator=Q11 NewDesignator=Q10
+Change Component Designator: OldDesignator=Q12 NewDesignator=Q11
+Change Component Designator: OldDesignator=Q13 NewDesignator=Q12
+Change Component Designator: OldDesignator=Q14 NewDesignator=Q13
+Change Component Designator: OldDesignator=Q15 NewDesignator=Q14
+Change Component Designator: OldDesignator=Q16 NewDesignator=Q15
+Change Component Designator: OldDesignator=Q17 NewDesignator=Q16
+Change Component Designator: OldDesignator=Q18 NewDesignator=Q17
+Change Component Designator: OldDesignator=Q19 NewDesignator=Q18
+Change Component Designator: OldDesignator=Q20 NewDesignator=Q19
+Change Component Designator: OldDesignator=Q21 NewDesignator=Q20
+Change Component Designator: OldDesignator=Q22 NewDesignator=Q21
+Change Component Designator: OldDesignator=Q23 NewDesignator=Q22
+Change Component Designator: OldDesignator=Q24 NewDesignator=Q23
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R14 NewDesignator=R12
+Change Component Designator: OldDesignator=R15 NewDesignator=R13
+Change Component Designator: OldDesignator=R16 NewDesignator=R14
+Change Component Designator: OldDesignator=R17 NewDesignator=R15
+Change Component Designator: OldDesignator=R18 NewDesignator=R16
+Change Component Designator: OldDesignator=R19 NewDesignator=R17
+Change Component Designator: OldDesignator=R20 NewDesignator=R18
+Change Component Designator: OldDesignator=R21 NewDesignator=R19
+Change Component Designator: OldDesignator=R22 NewDesignator=R20
+Change Component Designator: OldDesignator=R23 NewDesignator=R21
+Change Component Designator: OldDesignator=R24 NewDesignator=R22
+Change Component Designator: OldDesignator=R25 NewDesignator=R23
+Change Component Designator: OldDesignator=R26 NewDesignator=R24
+Change Component Designator: OldDesignator=R27 NewDesignator=R25
+Change Component Designator: OldDesignator=R28 NewDesignator=R26
+Change Component Designator: OldDesignator=R29 NewDesignator=R27
+Change Component Designator: OldDesignator=R30 NewDesignator=R28
+Change Component Designator: OldDesignator=R31 NewDesignator=R29
+Change Component Designator: OldDesignator=R32 NewDesignator=R30
+Change Component Designator: OldDesignator=R33 NewDesignator=R31
+Change Component Designator: OldDesignator=R34 NewDesignator=R32
+Change Component Designator: OldDesignator=R35 NewDesignator=R33
+Change Component Designator: OldDesignator=R36 NewDesignator=R34
+Change Component Designator: OldDesignator=R37 NewDesignator=R35
+Change Component Designator: OldDesignator=R38 NewDesignator=R36
+Change Component Designator: OldDesignator=R39 NewDesignator=R37
+Change Component Designator: OldDesignator=R40 NewDesignator=R38
+Change Component Designator: OldDesignator=R41 NewDesignator=R39
+Change Component Designator: OldDesignator=R42 NewDesignator=R40
+Change Component Designator: OldDesignator=R43 NewDesignator=R41
+Change Component Designator: OldDesignator=R44 NewDesignator=R42
+Change Component Designator: OldDesignator=R45 NewDesignator=R43
+Change Component Designator: OldDesignator=R46 NewDesignator=R44
+Change Component Designator: OldDesignator=R47 NewDesignator=R45
+Change Component Designator: OldDesignator=R48 NewDesignator=R46
+Change Component Designator: OldDesignator=R49 NewDesignator=R47
+Change Component Designator: OldDesignator=R50 NewDesignator=R48
+Change Component Designator: OldDesignator=R51 NewDesignator=R49
+Change Component Designator: OldDesignator=R52 NewDesignator=R50
+Change Component Designator: OldDesignator=R53 NewDesignator=R51
+Change Component Designator: OldDesignator=R54 NewDesignator=R52
+Change Component Designator: OldDesignator=R55 NewDesignator=R53
+Change Component Designator: OldDesignator=R56 NewDesignator=R54
+Change Component Designator: OldDesignator=R57 NewDesignator=R55
+Change Component Designator: OldDesignator=R58 NewDesignator=R56
+Change Component Designator: OldDesignator=U4 NewDesignator=U6
+Change Component Designator: OldDesignator=U5 NewDesignator=U7
+Change Component Designator: OldDesignator=U6 NewDesignator=U8
+Added Component: Designator=C24(CAPC2012M)
+Added Component: Designator=C25(CAPC2012M)
+Added Component: Designator=C27(CAPC2012M)
+Added Component: Designator=C28(CAPC2012M)
+Added Component: Designator=C29(CAPC2012M)
+Added Component: Designator=C30(CAPC2012M)
+Added Component: Designator=C31(CAPC2012M)
+Added Component: Designator=C32(CAPC2012M)
+Added Component: Designator=U4(SOT23_M)
+Added Component: Designator=U5(SOT-143_N)
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=12V Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=12V Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=3.3V Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=3.3V Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=12V Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=12V Pin=C21-2
+Added Pin To Net: NetName=5V Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=5V Pin=C23-2
+Added Pin To Net: NetName=VBAT Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=3.3V Pin=C25-2
+Added Pin To Net: NetName=12V Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=VSSA Pin=C28-1
+Added Pin To Net: NetName=VREF Pin=C28-2
+Added Pin To Net: NetName=VSSA Pin=C29-1
+Added Pin To Net: NetName=VREF Pin=C29-2
+Added Pin To Net: NetName=VSSA Pin=C30-1
+Added Pin To Net: NetName=VDDA Pin=C30-2
+Added Pin To Net: NetName=VSSA Pin=C31-1
+Added Pin To Net: NetName=VDDA Pin=C31-2
+Added Pin To Net: NetName=RCC_OSC_IN Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=3.3V Pin=U2-2
+Added Pin To Net: NetName=12V Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=5V Pin=U3-2
+Added Pin To Net: NetName=12V Pin=U3-3
+Added Pin To Net: NetName=VDDA Pin=U4-1
+Added Pin To Net: NetName=VREF Pin=U4-2
+Added Pin To Net: NetName=VSSA Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=SYS_NRST Pin=U5-2
+Added Pin To Net: NetName=NetS2_2 Pin=U5-3
+Added Pin To Net: NetName=3.3V Pin=U5-4
+Added Pin To Net: NetName=FLASH_SPI3_NSS Pin=U6-1
+Added Pin To Net: NetName=FLASH_SPI3_MISO Pin=U6-2
+Added Pin To Net: NetName=3.3V Pin=U6-3
+Added Pin To Net: NetName=OTG_FS_PWR Pin=U7-1
+Added Pin To Net: NetName=OTG_FS_FAULT Pin=U7-2
+Added Pin To Net: NetName=GND Pin=U7-6
+Added Pin To Net: NetName=OTG_FS_VBUS Pin=U7-8
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=OTG_FS_ID Pin=U8-3
+Change Net Name : Old Net Name=NetC24_1 New Net Name=NetC33_1
+Change Net Name : Old Net Name=NetC26_1 New Net Name=NetC35_1
+Change Net Name : Old Net Name=NetC35_2 New Net Name=NetC44_2
+Change Net Name : Old Net Name=NetC38_1 New Net Name=NetC47_1
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetD6_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetD7_1 New Net Name=NetD6_1
+Change Net Name : Old Net Name=NetD8_1 New Net Name=NetD7_1
+Change Net Name : Old Net Name=NetD9_1 New Net Name=NetD8_1
+Change Net Name : Old Net Name=NetD10_1 New Net Name=NetD9_1
+Change Net Name : Old Net Name=NetD11_1 New Net Name=NetD10_1
+Change Net Name : Old Net Name=NetD12_1 New Net Name=NetD11_1
+Change Net Name : Old Net Name=NetD13_1 New Net Name=NetD12_1
+Change Net Name : Old Net Name=NetD14_1 New Net Name=NetD13_1
+Change Net Name : Old Net Name=NetD15_1 New Net Name=NetD14_1
+Change Net Name : Old Net Name=NetD16_1 New Net Name=NetD15_1
+Change Net Name : Old Net Name=NetD17_1 New Net Name=NetD16_1
+Change Net Name : Old Net Name=NetD18_1 New Net Name=NetD17_1
+Change Net Name : Old Net Name=NetD19_1 New Net Name=NetD18_1
+Change Net Name : Old Net Name=NetD20_1 New Net Name=NetD19_1
+Change Net Name : Old Net Name=NetD21_1 New Net Name=NetD20_1
+Change Net Name : Old Net Name=NetD22_1 New Net Name=NetD21_1
+Change Net Name : Old Net Name=NetD23_1 New Net Name=NetD22_1
+Change Net Name : Old Net Name=NetD24_1 New Net Name=NetD23_1
+Change Net Name : Old Net Name=NetQ5_1 New Net Name=NetQ4_1
+Change Net Name : Old Net Name=NetQ5_3 New Net Name=NetQ4_3
+Change Net Name : Old Net Name=NetQ6_1 New Net Name=NetQ5_1
+Change Net Name : Old Net Name=NetQ6_3 New Net Name=NetQ5_3
+Change Net Name : Old Net Name=NetQ7_1 New Net Name=NetQ6_1
+Change Net Name : Old Net Name=NetQ7_3 New Net Name=NetQ6_3
+Change Net Name : Old Net Name=NetQ8_1 New Net Name=NetQ7_1
+Change Net Name : Old Net Name=NetQ8_3 New Net Name=NetQ7_3
+Change Net Name : Old Net Name=NetQ9_1 New Net Name=NetQ8_1
+Change Net Name : Old Net Name=NetQ9_3 New Net Name=NetQ8_3
+Change Net Name : Old Net Name=NetQ10_1 New Net Name=NetQ9_1
+Change Net Name : Old Net Name=NetQ10_3 New Net Name=NetQ9_3
+Change Net Name : Old Net Name=NetQ11_1 New Net Name=NetQ10_1
+Change Net Name : Old Net Name=NetQ11_3 New Net Name=NetQ10_3
+Change Net Name : Old Net Name=NetQ12_1 New Net Name=NetQ11_1
+Change Net Name : Old Net Name=NetQ12_3 New Net Name=NetQ11_3
+Change Net Name : Old Net Name=NetQ13_1 New Net Name=NetQ12_1
+Change Net Name : Old Net Name=NetQ13_3 New Net Name=NetQ12_3
+Change Net Name : Old Net Name=NetQ14_1 New Net Name=NetQ13_1
+Change Net Name : Old Net Name=NetQ14_3 New Net Name=NetQ13_3
+Change Net Name : Old Net Name=NetQ15_1 New Net Name=NetQ14_1
+Change Net Name : Old Net Name=NetQ15_3 New Net Name=NetQ14_3
+Change Net Name : Old Net Name=NetQ16_1 New Net Name=NetQ15_1
+Change Net Name : Old Net Name=NetQ16_3 New Net Name=NetQ15_3
+Change Net Name : Old Net Name=NetQ17_1 New Net Name=NetQ16_1
+Change Net Name : Old Net Name=NetQ17_3 New Net Name=NetQ16_3
+Change Net Name : Old Net Name=NetQ18_1 New Net Name=NetQ17_1
+Change Net Name : Old Net Name=NetQ18_3 New Net Name=NetQ17_3
+Change Net Name : Old Net Name=NetQ19_1 New Net Name=NetQ18_1
+Change Net Name : Old Net Name=NetQ19_3 New Net Name=NetQ18_3
+Change Net Name : Old Net Name=NetQ20_1 New Net Name=NetQ19_1
+Change Net Name : Old Net Name=NetQ20_3 New Net Name=NetQ19_3
+Change Net Name : Old Net Name=NetQ21_1 New Net Name=NetQ20_1
+Change Net Name : Old Net Name=NetQ21_3 New Net Name=NetQ20_3
+Change Net Name : Old Net Name=NetQ22_1 New Net Name=NetQ21_1
+Change Net Name : Old Net Name=NetQ22_3 New Net Name=NetQ21_3
+Change Net Name : Old Net Name=NetQ23_1 New Net Name=NetQ22_1
+Change Net Name : Old Net Name=NetQ23_3 New Net Name=NetQ22_3
+Change Net Name : Old Net Name=NetQ24_1 New Net Name=NetQ23_1
+Change Net Name : Old Net Name=NetQ24_3 New Net Name=NetQ23_3
+Change Net Name : Old Net Name=NetR54_1 New Net Name=NetR52_1
+Change Net Name : Old Net Name=NetR55_1 New Net Name=NetR53_1
+Change Net Name : Old Net Name=NetR56_1 New Net Name=NetR54_1
+Added Member To Class: ClassName=cpucore Member=Component C1 0.22uF
+Added Member To Class: ClassName=cpucore Member=Component C2 0.22uF
+Added Member To Class: ClassName=cpucore Member=Component C3 0.1uF
+Added Member To Class: ClassName=cpucore Member=Component C4 0.1uF
+Added Member To Class: ClassName=cpucore Member=Component C5 0.1uF
+Added Member To Class: ClassName=cpucore Member=Component C6 0.1uF
+Added Member To Class: ClassName=cpucore Member=Component C7 0.1uF
+Added Member To Class: ClassName=cpucore Member=Component C8 0.1uF
+Added Member To Class: ClassName=cpucore Member=Component C9 0.1uF
+Added Member To Class: ClassName=cpucore Member=Component C11 0.1uF
+Added Member To Class: ClassName=cpucore Member=Component C12 0.1uF
+Added Member To Class: ClassName=cpucore Member=Component C13 0.1uF
+Added Member To Class: ClassName=cpucore Member=Component C14 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C16 10uF
+Added Member To Class: ClassName=cpuinterface Member=Component C17 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C18 10uF
+Added Member To Class: ClassName=cpuinterface Member=Component C19 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C20 10uF
+Added Member To Class: ClassName=cpuinterface Member=Component C21 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C22 10uF
+Added Member To Class: ClassName=cpuinterface Member=Component C23 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C24 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C25 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C26 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C27 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C28 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C29 1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C30 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C31 1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C32 20pF
+Added Member To Class: ClassName=cpuinterface Member=Component C33 20pF
+Added Member To Class: ClassName=cpuinterface Member=Component C34 15pF
+Added Member To Class: ClassName=cpuinterface Member=Component C35 15pF
+Added Member To Class: ClassName=cpuinterface Member=Component C36 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C37 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C38 10uF
+Added Member To Class: ClassName=cpuinterface Member=Component C39 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C40 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C41 10uF
+Added Member To Class: ClassName=cpuinterface Member=Component C42 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C43 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C44 0.1uF
+Added Member To Class: ClassName=cpuotg Member=Component C45 10uF
+Added Member To Class: ClassName=cpuotg Member=Component C46 0.1uF
+Added Member To Class: ClassName=cpuotg Member=Component C47 0.1uF
+Added Member To Class: ClassName=cpuledin Member=Component D1 RUN
+Added Member To Class: ClassName=cpuledin Member=Component D2 RUN
+Added Member To Class: ClassName=cpuledin Member=Component D3 RUN
+Added Member To Class: ClassName=cpuledin Member=Component D4 RUN
+Added Member To Class: ClassName=cpuledin Member=Component D5 RUN
+Added Member To Class: ClassName=cpuledin Member=Component D6 RUN
+Added Member To Class: ClassName=cpuledin Member=Component D7 RUN
+Added Member To Class: ClassName=cpuledout Member=Component D8 ERR
+Added Member To Class: ClassName=cpuledout Member=Component D9 RUN
+Added Member To Class: ClassName=cpuledout Member=Component D10 RUN
+Added Member To Class: ClassName=cpuledout Member=Component D11 RUN
+Added Member To Class: ClassName=cpuledout Member=Component D12 RUN
+Added Member To Class: ClassName=cpuledout Member=Component D13 RUN
+Added Member To Class: ClassName=cpuledout Member=Component D14 RUN
+Added Member To Class: ClassName=cpuledout Member=Component D15 RUN
+Added Member To Class: ClassName=cpuledout Member=Component D16 RUN
+Added Member To Class: ClassName=cpuledout Member=Component D17 RUN
+Added Member To Class: ClassName=cpuledout Member=Component D18 RUN
+Added Member To Class: ClassName=cpuledout Member=Component D19 RUN
+Added Member To Class: ClassName=cpuledout Member=Component D20 RUN
+Added Member To Class: ClassName=cpuledout Member=Component D21 RUN
+Added Member To Class: ClassName=cpuledout Member=Component D22 RUN
+Added Member To Class: ClassName=cpuledout Member=Component D23 ERR
+Added Member To Class: ClassName=cpuotg Member=Component D24 LL4148
+Added Member To Class: ClassName=cpuinterface Member=Component LR1 CBG201209U102
+Added Member To Class: ClassName=cpuinterface Member=Component LR2 CBG201209U102
+Added Member To Class: ClassName=cpuinterface Member=Component P1 Header 20
+Added Member To Class: ClassName=cpuinterface Member=Component P2 Header 20
+Added Member To Class: ClassName=cpuinterface Member=Component P3 Header 8
+Added Member To Class: ClassName=cpuinterface Member=Component P4 Header 6
+Added Member To Class: ClassName=cpuinterface Member=Component P5 Header 5
+Added Member To Class: ClassName=cpuinterface Member=Component P6 Header 5X2
+Added Member To Class: ClassName=cpuinterface Member=Component P7 Header 7
+Added Member To Class: ClassName=cpuinterface Member=Component P8 Header 8
+Added Member To Class: ClassName=cpuledin Member=Component Q1 SS8550
+Added Member To Class: ClassName=cpuledin Member=Component Q2 SS8550
+Added Member To Class: ClassName=cpuledin Member=Component Q3 SS8550
+Added Member To Class: ClassName=cpuledin Member=Component Q4 SS8550
+Added Member To Class: ClassName=cpuledin Member=Component Q5 SS8550
+Added Member To Class: ClassName=cpuledin Member=Component Q6 SS8550
+Added Member To Class: ClassName=cpuledin Member=Component Q7 SS8550
+Added Member To Class: ClassName=cpuledout Member=Component Q8 SS8550
+Added Member To Class: ClassName=cpuledout Member=Component Q9 SS8550
+Added Member To Class: ClassName=cpuledout Member=Component Q10 SS8550
+Added Member To Class: ClassName=cpuledout Member=Component Q11 SS8550
+Added Member To Class: ClassName=cpuledout Member=Component Q12 SS8550
+Added Member To Class: ClassName=cpuledout Member=Component Q13 SS8550
+Added Member To Class: ClassName=cpuledout Member=Component Q14 SS8550
+Added Member To Class: ClassName=cpuledout Member=Component Q15 SS8550
+Added Member To Class: ClassName=cpuledout Member=Component Q16 SS8550
+Added Member To Class: ClassName=cpuledout Member=Component Q17 SS8550
+Added Member To Class: ClassName=cpuledout Member=Component Q18 SS8550
+Added Member To Class: ClassName=cpuledout Member=Component Q19 SS8550
+Added Member To Class: ClassName=cpuledout Member=Component Q20 SS8550
+Added Member To Class: ClassName=cpuledout Member=Component Q21 SS8550
+Added Member To Class: ClassName=cpuledout Member=Component Q22 SS8550
+Added Member To Class: ClassName=cpuledout Member=Component Q23 SS8550
+Added Member To Class: ClassName=cpuinterface Member=Component R1 5.1
+Added Member To Class: ClassName=cpuinterface Member=Component R2 10K
+Added Member To Class: ClassName=cpuinterface Member=Component R3 10K
+Added Member To Class: ClassName=cpuinterface Member=Component R4 0
+Added Member To Class: ClassName=cpuinterface Member=Component R5 100K
+Added Member To Class: ClassName=cpuledin Member=Component R6 1K
+Added Member To Class: ClassName=cpuledin Member=Component R7 1K
+Added Member To Class: ClassName=cpuledin Member=Component R8 1K
+Added Member To Class: ClassName=cpuledin Member=Component R9 510
+Added Member To Class: ClassName=cpuledin Member=Component R10 510
+Added Member To Class: ClassName=cpuledin Member=Component R11 510
+Added Member To Class: ClassName=cpuledin Member=Component R12 1K
+Added Member To Class: ClassName=cpuledin Member=Component R13 1K
+Added Member To Class: ClassName=cpuledin Member=Component R14 1K
+Added Member To Class: ClassName=cpuledin Member=Component R15 1K
+Added Member To Class: ClassName=cpuledin Member=Component R16 510
+Added Member To Class: ClassName=cpuledin Member=Component R17 510
+Added Member To Class: ClassName=cpuledin Member=Component R18 510
+Added Member To Class: ClassName=cpuledin Member=Component R19 510
+Added Member To Class: ClassName=cpuledout Member=Component R20 1K
+Added Member To Class: ClassName=cpuledout Member=Component R21 1K
+Added Member To Class: ClassName=cpuledout Member=Component R22 1K
+Added Member To Class: ClassName=cpuledout Member=Component R23 1K
+Added Member To Class: ClassName=cpuledout Member=Component R24 1K
+Added Member To Class: ClassName=cpuledout Member=Component R25 1K
+Added Member To Class: ClassName=cpuledout Member=Component R26 510
+Added Member To Class: ClassName=cpuledout Member=Component R27 510
+Added Member To Class: ClassName=cpuledout Member=Component R28 510
+Added Member To Class: ClassName=cpuledout Member=Component R29 510
+Added Member To Class: ClassName=cpuledout Member=Component R30 510
+Added Member To Class: ClassName=cpuledout Member=Component R31 510
+Added Member To Class: ClassName=cpuledout Member=Component R32 1K
+Added Member To Class: ClassName=cpuledout Member=Component R33 1K
+Added Member To Class: ClassName=cpuledout Member=Component R34 1K
+Added Member To Class: ClassName=cpuledout Member=Component R35 1K
+Added Member To Class: ClassName=cpuledout Member=Component R36 1K
+Added Member To Class: ClassName=cpuledout Member=Component R37 1K
+Added Member To Class: ClassName=cpuledout Member=Component R38 510
+Added Member To Class: ClassName=cpuledout Member=Component R39 510
+Added Member To Class: ClassName=cpuledout Member=Component R40 510
+Added Member To Class: ClassName=cpuledout Member=Component R41 510
+Added Member To Class: ClassName=cpuledout Member=Component R42 510
+Added Member To Class: ClassName=cpuledout Member=Component R43 510
+Added Member To Class: ClassName=cpuledout Member=Component R44 1K
+Added Member To Class: ClassName=cpuledout Member=Component R45 1K
+Added Member To Class: ClassName=cpuledout Member=Component R46 1K
+Added Member To Class: ClassName=cpuledout Member=Component R47 1K
+Added Member To Class: ClassName=cpuledout Member=Component R48 510
+Added Member To Class: ClassName=cpuledout Member=Component R49 510
+Added Member To Class: ClassName=cpuledout Member=Component R50 510
+Added Member To Class: ClassName=cpuledout Member=Component R51 510
+Added Member To Class: ClassName=cpuotg Member=Component R52 10K
+Added Member To Class: ClassName=cpuotg Member=Component R53 22
+Added Member To Class: ClassName=cpuotg Member=Component R54 22
+Added Member To Class: ClassName=cpuotg Member=Component R55 10K
+Added Member To Class: ClassName=cpuotg Member=Component R56 10K
+Added Member To Class: ClassName=cpuinterface Member=Component S1 SW DPDT
+Added Member To Class: ClassName=cpuinterface Member=Component S3 DS-01
+Added Member To Class: ClassName=cpucore Member=Component U1 STM32F4x7VxT
+Added Member To Class: ClassName=cpuinterface Member=Component U4 REF3025
+Added Member To Class: ClassName=cpuinterface Member=Component U5 MIC811TU
+Added Member To Class: ClassName=cpuinterface Member=Component U6 W25P64
+Added Member To Class: ClassName=cpuotg Member=Component U7 AIC1526
+Added Member To Class: ClassName=cpuotg Member=Component U8 USBLC6-2
+Added Member To Class: ClassName=cpuotg Member=Component USB1 USB OTG
+Added Member To Class: ClassName=cpuinterface Member=Component Y2 32.768Hz@15pF

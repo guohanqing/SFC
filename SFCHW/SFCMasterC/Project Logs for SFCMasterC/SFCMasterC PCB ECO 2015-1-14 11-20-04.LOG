@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=CHARGE_FINISH Pin=R61-1
+Removed Pin From Net: NetName=5V Pin=R61-2
+Removed Pin From Net: NetName=GND Pin=S4-2
+Removed Member From Class: ClassName=cpuinterface Member=P4
+Removed Member From Class: ClassName=cpuinterface Member=S4
+Added Component: Designator=R66(RESC2012M)
+Added Pin To Net: NetName=3.3V Pin=R61-1
+Added Pin To Net: NetName=CHARGE_FINISH Pin=R66-1
+Added Pin To Net: NetName=5V Pin=R66-2
+Added Pin To Net: NetName=PRO_SEL Pin=R61-2
+Added Pin To Net: NetName=PRO_SEL Pin=U1-17
+Added Pin To Net: NetName=PRO_SEL Pin=U11-12
+Added Net: Name=PRO_SEL
+Added Member To Class: ClassName=cpuinterface Member=Component R61 10K

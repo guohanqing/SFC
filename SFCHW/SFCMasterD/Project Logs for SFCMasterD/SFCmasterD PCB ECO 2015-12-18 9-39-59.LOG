@@ -1,0 +1,4 @@
+Added Component: Designator=D10(CD2012-0805)
+Added Pin To Net: NetName=GNDA Pin=D10-1
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Member To Class: ClassName=drvoutput0 Member=Component D10 LL4148

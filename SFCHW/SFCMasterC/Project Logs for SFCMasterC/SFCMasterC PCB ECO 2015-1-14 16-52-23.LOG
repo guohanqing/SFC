@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=CHARGE_FINISH Pin=R66-1
+Removed Pin From Net: NetName=5V Pin=R66-2
+Change Component Footprint: Designator=P9 Old Footprint=HDR1A1 New Footprint=HDR1
+Added Component: Designator=R66(RESC2012M)
+Added Pin To Net: NetName=CHARGE_FINISH Pin=R66-1
+Added Pin To Net: NetName=5V Pin=R66-2

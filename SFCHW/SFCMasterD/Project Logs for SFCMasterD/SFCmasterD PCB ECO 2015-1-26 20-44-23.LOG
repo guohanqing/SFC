@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=P5-3
+Removed Pin From Net: NetName=12V Pin=P5-4
+Removed Pin From Net: NetName=12V Pin=P5-5
+Removed Pin From Net: NetName=FG Pin=P5-6
+Removed Pin From Net: NetName=GNDA Pin=P5-7
+Removed Pin From Net: NetName=GNDA Pin=P5-8
+Removed Pin From Net: NetName=24V Pin=P5-9
+Removed Pin From Net: NetName=24V Pin=P5-10
+Change Component DesignItemId : Designator=P5 Old DesignItemId=Header 10 New DesignItemId=Header 6
+Change Component Footprint: Designator=P5 Old Footprint=HDR1X10 New Footprint=HDR1X6
+Change Component Comment : Designator=P5 Old Comment=Header 10 New Comment=Header 6
+Added Pin To Net: NetName=12V Pin=P5-3
+Added Pin To Net: NetName=FG Pin=P5-4
+Added Pin To Net: NetName=GNDA Pin=P5-5
+Added Pin To Net: NetName=24V Pin=P5-6
+Added Member To Class: ClassName=drvinput0 Member=Component R33 1K

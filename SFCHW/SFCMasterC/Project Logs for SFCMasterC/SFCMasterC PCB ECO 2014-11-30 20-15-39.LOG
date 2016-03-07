@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=LCD_SPI1_BL Pin=P7-1
+Removed Pin From Net: NetName=LCD_SPI1_A0 Pin=P7-2
+Removed Pin From Net: NetName=LCD_SPI1_MOSI Pin=P7-3
+Removed Pin From Net: NetName=LCD_SPI1_NSS Pin=P7-5
+Removed Pin From Net: NetName=GND Pin=P7-6
+Removed Pin From Net: NetName=3.3V Pin=P7-7
+Change Component Footprint: Designator=P7 Old Footprint=HDR1X7SMTA New Footprint=HDR1X7
+Change Component Footprint: Designator=P8 Old Footprint=HDR1X8SMTA New Footprint=HDR1X8
+Added Pin To Net: NetName=3.3V Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Pin To Net: NetName=LCD_SPI1_NSS Pin=P7-3
+Added Pin To Net: NetName=LCD_SPI1_MOSI Pin=P7-5
+Added Pin To Net: NetName=LCD_SPI1_A0 Pin=P7-6
+Added Pin To Net: NetName=LCD_SPI1_BL Pin=P7-7

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=DP_CHECK_IN Pin=P1-18
+Removed Pin From Net: NetName=NetC22_2 Pin=P7-1
+Removed Pin From Net: NetName=GNDA Pin=P7-2
+Removed Pin From Net: NetName=5VA Pin=P7-3
+Removed Member From Class: ClassName=drvinput0 Member=P7
+Change Component Comment : Designator=U7 Old Comment=HCNR200/201 New Comment=HCNR201
+Added Component: Designator=DP1(MPXV5100DP)
+Added Pin To Net: NetName=5VA Pin=DP1-2
+Added Pin To Net: NetName=GNDA Pin=DP1-3
+Added Pin To Net: NetName=NetC22_2 Pin=DP1-4
+Change Net Name : Old Net Name=DP_CHECK_IN New Net Name=NetC19_2
+Added Pin To Net: NetName=DP_CHECK_IN Pin=P1-18
+Added Net: Name=DP_CHECK_IN
+Added Member To Class: ClassName=drvinput0 Member=Component DP1 MPXV5100DP

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=3.3V Pin=C34-1
+Removed Pin From Net: NetName=GND Pin=C34-2
+Removed Pin From Net: NetName=AD8 Pin=U2-2
+Removed Pin From Net: NetName=AD9 Pin=U2-3
+Removed Pin From Net: NetName=AD10 Pin=U2-4
+Removed Pin From Net: NetName=NetR9_2 Pin=U2-11
+Removed Pin From Net: NetName=3.3V Pin=U5-3
+Removed Pin From Net: NetName=GND Pin=U5-4
+Removed Pin From Net: NetName=3.3V Pin=U5-7
+Removed Pin From Net: NetName=3.3V Pin=U5-8
+Removed Member From Class: ClassName=drvcomdp Member=C34
+Removed Member From Class: ClassName=drvcomdp Member=U5
+Added Pin To Net: NetName=NetR9_2 Pin=U2-2
+Added Pin To Net: NetName=AD8 Pin=U2-15
+Added Pin To Net: NetName=AD9 Pin=U2-16
+Added Pin To Net: NetName=AD10 Pin=U2-17

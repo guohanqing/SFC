@@ -1,0 +1,14 @@
+Added Component: Designator=U1(NSO16_M)
+Added Pin To Net: NetName=NetC2_2 Pin=U1-1
+Added Pin To Net: NetName=NetC5_1 Pin=U1-2
+Added Pin To Net: NetName=NetC2_1 Pin=U1-3
+Added Pin To Net: NetName=NetC3_2 Pin=U1-4
+Added Pin To Net: NetName=NetC3_1 Pin=U1-5
+Added Pin To Net: NetName=NetC4_2 Pin=U1-6
+Added Pin To Net: NetName=NetR1_2 Pin=U1-11
+Added Pin To Net: NetName=NetR2_2 Pin=U1-12
+Added Pin To Net: NetName=RS232_RXD Pin=U1-13
+Added Pin To Net: NetName=RS232_TXD Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=3.3V Pin=U1-16
+Added Member To Class: ClassName=SFCRS232 Member=Component U1 SP3232E

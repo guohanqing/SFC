@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND_DRV Pin=P6-3
+Removed Pin From Net: NetName=GND_DRV Pin=P6-4
+Removed Pin From Net: NetName=GNDA_DRV Pin=P6-8
+Removed Pin From Net: NetName=GNDA_DRV Pin=P6-9
+Added Pin To Net: NetName=GNDA_DRV Pin=P6-3
+Added Pin To Net: NetName=GNDA_DRV Pin=P6-4
+Added Pin To Net: NetName=GND_DRV Pin=P6-8
+Added Pin To Net: NetName=GND_DRV Pin=P6-9

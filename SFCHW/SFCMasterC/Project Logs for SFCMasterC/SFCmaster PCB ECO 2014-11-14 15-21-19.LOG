@@ -1,0 +1,246 @@
+Removed Pin From Net: NetName=LEVEL_DETECT_H1_DRV Pin=P9-4
+Removed Pin From Net: NetName=LEVEL_DETECT_L1_DRV Pin=P9-5
+Removed Pin From Net: NetName=LEVEL_DETECT_H2_DRV Pin=P9-6
+Removed Pin From Net: NetName=LEVEL_DETECT_L2_DRV Pin=P9-7
+Change Component Comment : Designator=R86 Old Comment=10K New Comment=4.7K
+Change Component Comment : Designator=R199 Old Comment=10K New Comment=4.7K
+Added Component: Designator=D57(SMB)
+Added Component: Designator=D58(SMB)
+Added Component: Designator=D59(SMB)
+Added Component: Designator=D60(SMB)
+Added Component: Designator=Q53(SOT-23_N)
+Added Component: Designator=Q54(SOT-23_N)
+Added Component: Designator=Q55(SOT-23_N)
+Added Component: Designator=Q56(SOT-23_N)
+Added Component: Designator=R207(RESC2012M)
+Added Component: Designator=R208(RESC2012M)
+Added Component: Designator=R209(RESC2012M)
+Added Component: Designator=R210(RESC2012M)
+Added Component: Designator=R211(RESC2012M)
+Added Component: Designator=R212(RESC2012M)
+Added Component: Designator=R213(RESC2012M)
+Added Component: Designator=R214(RESC2012M)
+Added Component: Designator=R215(RESC2012M)
+Added Component: Designator=R216(RESC2012M)
+Added Component: Designator=R217(RESC2012M)
+Added Component: Designator=R218(RESC2012M)
+Added Component: Designator=R219(RESC2012M)
+Added Component: Designator=R220(RESC2012M)
+Added Component: Designator=R221(RESC2012M)
+Added Component: Designator=R222(RESC2012M)
+Added Component: Designator=R223(RESC2012M)
+Added Component: Designator=R224(RESC2012M)
+Added Component: Designator=R225(RESC2012M)
+Added Component: Designator=R226(RESC2012M)
+Added Component: Designator=R227(RESC2012M)
+Added Component: Designator=R228(RESC2012M)
+Added Component: Designator=R229(RESC2012M)
+Added Component: Designator=R230(RESC2012M)
+Added Component: Designator=R231(RESC2012M)
+Added Component: Designator=R232(RESC2012M)
+Added Component: Designator=R233(RESC2012M)
+Added Component: Designator=R234(RESC2012M)
+Added Component: Designator=R235(RESC2012M)
+Added Component: Designator=R236(RESC2012M)
+Added Component: Designator=R237(RESC2012M)
+Added Component: Designator=R238(RESC2012M)
+Added Component: Designator=R239(RESC2012M)
+Added Component: Designator=R240(RESC2012M)
+Added Component: Designator=R241(RESC2012M)
+Added Component: Designator=R242(RESC2012M)
+Added Component: Designator=R243(RESC2012M)
+Added Component: Designator=R244(RESC2012M)
+Added Component: Designator=R245(RESC2012M)
+Added Component: Designator=R246(RESC2012M)
+Added Component: Designator=R247(RESC2012M)
+Added Component: Designator=R248(RESC2012M)
+Added Component: Designator=R249(RESC2012M)
+Added Component: Designator=R250(RESC2012M)
+Added Component: Designator=U38(SO8_N)
+Added Component: Designator=U39(SO-4LA)
+Added Component: Designator=U40(SO-4LA)
+Added Component: Designator=U41(SO8_N)
+Added Component: Designator=U42(SO-4LA)
+Added Component: Designator=U43(SO-4LA)
+Added Pin To Net: NetName=GNDA_DRV Pin=D57-1
+Added Pin To Net: NetName=GNDA_DRV Pin=D58-1
+Added Pin To Net: NetName=GNDA_DRV Pin=D59-1
+Added Pin To Net: NetName=GNDA_DRV Pin=D60-1
+Added Pin To Net: NetName=GNDA_DRV Pin=Q53-2
+Added Pin To Net: NetName=GNDA_DRV Pin=Q54-2
+Added Pin To Net: NetName=GNDA_DRV Pin=Q55-2
+Added Pin To Net: NetName=GNDA_DRV Pin=Q56-2
+Added Pin To Net: NetName=5V_DRV Pin=R207-2
+Added Pin To Net: NetName=24V_DRV Pin=R208-2
+Added Pin To Net: NetName=24V_DRV Pin=R209-1
+Added Pin To Net: NetName=24V_DRV Pin=R210-2
+Added Pin To Net: NetName=LEVEL_DETECT_H1_DRV Pin=R212-2
+Added Pin To Net: NetName=24V_DRV Pin=R213-2
+Added Pin To Net: NetName=GNDA_DRV Pin=R217-1
+Added Pin To Net: NetName=5V_DRV Pin=R218-2
+Added Pin To Net: NetName=24V_DRV Pin=R219-2
+Added Pin To Net: NetName=24V_DRV Pin=R220-2
+Added Pin To Net: NetName=24V_DRV Pin=R221-1
+Added Pin To Net: NetName=LEVEL_DETECT_L1_DRV Pin=R223-2
+Added Pin To Net: NetName=24V_DRV Pin=R226-2
+Added Pin To Net: NetName=GNDA_DRV Pin=R228-1
+Added Pin To Net: NetName=24V_DRV Pin=R229-1
+Added Pin To Net: NetName=24V_DRV Pin=R230-2
+Added Pin To Net: NetName=5V_DRV Pin=R231-2
+Added Pin To Net: NetName=24V_DRV Pin=R232-1
+Added Pin To Net: NetName=LEVEL_DETECT_H2_DRV Pin=R234-2
+Added Pin To Net: NetName=24V_DRV Pin=R237-2
+Added Pin To Net: NetName=GNDA_DRV Pin=R239-1
+Added Pin To Net: NetName=24V_DRV Pin=R240-2
+Added Pin To Net: NetName=24V_DRV Pin=R241-2
+Added Pin To Net: NetName=5V_DRV Pin=R242-2
+Added Pin To Net: NetName=24V_DRV Pin=R243-1
+Added Pin To Net: NetName=LEVEL_DETECT_L2_DRV Pin=R245-2
+Added Pin To Net: NetName=24V_DRV Pin=R248-2
+Added Pin To Net: NetName=GNDA_DRV Pin=R250-1
+Added Pin To Net: NetName=GNDA_DRV Pin=U38-4
+Added Pin To Net: NetName=24V_DRV Pin=U38-8
+Added Pin To Net: NetName=GND_DRV Pin=U39-3
+Added Pin To Net: NetName=GND_DRV Pin=U40-3
+Added Pin To Net: NetName=GNDA_DRV Pin=U41-4
+Added Pin To Net: NetName=24V_DRV Pin=U41-8
+Added Pin To Net: NetName=GND_DRV Pin=U42-3
+Added Pin To Net: NetName=GND_DRV Pin=U43-3
+Added Pin To Net: NetName=LEVEL_HIGHT1_PORT Pin=P9-4
+Added Pin To Net: NetName=LEVEL_HIGHT1_PORT Pin=R208-1
+Added Pin To Net: NetName=LEVEL_HIGHT1_PORT Pin=R211-2
+Added Net: Name=LEVEL_HIGHT1_PORT
+Added Pin To Net: NetName=LEVEL_HIGHT2_PORT Pin=P9-6
+Added Pin To Net: NetName=LEVEL_HIGHT2_PORT Pin=R230-1
+Added Pin To Net: NetName=LEVEL_HIGHT2_PORT Pin=R233-2
+Added Net: Name=LEVEL_HIGHT2_PORT
+Added Pin To Net: NetName=LEVEL_LOW1_PORT Pin=P9-5
+Added Pin To Net: NetName=LEVEL_LOW1_PORT Pin=R219-1
+Added Pin To Net: NetName=LEVEL_LOW1_PORT Pin=R222-2
+Added Net: Name=LEVEL_LOW1_PORT
+Added Pin To Net: NetName=LEVEL_LOW2_PORT Pin=P9-7
+Added Pin To Net: NetName=LEVEL_LOW2_PORT Pin=R240-1
+Added Pin To Net: NetName=LEVEL_LOW2_PORT Pin=R244-2
+Added Net: Name=LEVEL_LOW2_PORT
+Added Pin To Net: NetName=NetD57_2 Pin=D57-2
+Added Pin To Net: NetName=NetD57_2 Pin=R211-1
+Added Pin To Net: NetName=NetD57_2 Pin=U38-3
+Added Net: Name=NetD57_2
+Added Pin To Net: NetName=NetD58_2 Pin=D58-2
+Added Pin To Net: NetName=NetD58_2 Pin=R222-1
+Added Pin To Net: NetName=NetD58_2 Pin=U38-5
+Added Net: Name=NetD58_2
+Added Pin To Net: NetName=NetD59_2 Pin=D59-2
+Added Pin To Net: NetName=NetD59_2 Pin=R233-1
+Added Pin To Net: NetName=NetD59_2 Pin=U41-3
+Added Net: Name=NetD59_2
+Added Pin To Net: NetName=NetD60_2 Pin=D60-2
+Added Pin To Net: NetName=NetD60_2 Pin=R244-1
+Added Pin To Net: NetName=NetD60_2 Pin=U41-5
+Added Net: Name=NetD60_2
+Added Pin To Net: NetName=NetQ53_1 Pin=Q53-1
+Added Pin To Net: NetName=NetQ53_1 Pin=R215-2
+Added Net: Name=NetQ53_1
+Added Pin To Net: NetName=NetQ53_3 Pin=Q53-3
+Added Pin To Net: NetName=NetQ53_3 Pin=U39-2
+Added Net: Name=NetQ53_3
+Added Pin To Net: NetName=NetQ54_1 Pin=Q54-1
+Added Pin To Net: NetName=NetQ54_1 Pin=R225-2
+Added Net: Name=NetQ54_1
+Added Pin To Net: NetName=NetQ54_3 Pin=Q54-3
+Added Pin To Net: NetName=NetQ54_3 Pin=U40-2
+Added Net: Name=NetQ54_3
+Added Pin To Net: NetName=NetQ55_1 Pin=Q55-1
+Added Pin To Net: NetName=NetQ55_1 Pin=R236-2
+Added Net: Name=NetQ55_1
+Added Pin To Net: NetName=NetQ55_3 Pin=Q55-3
+Added Pin To Net: NetName=NetQ55_3 Pin=U42-2
+Added Net: Name=NetQ55_3
+Added Pin To Net: NetName=NetQ56_1 Pin=Q56-1
+Added Pin To Net: NetName=NetQ56_1 Pin=R247-2
+Added Net: Name=NetQ56_1
+Added Pin To Net: NetName=NetQ56_3 Pin=Q56-3
+Added Pin To Net: NetName=NetQ56_3 Pin=U43-2
+Added Net: Name=NetQ56_3
+Added Pin To Net: NetName=NetR207_1 Pin=R207-1
+Added Pin To Net: NetName=NetR207_1 Pin=R212-1
+Added Pin To Net: NetName=NetR207_1 Pin=U39-4
+Added Net: Name=NetR207_1
+Added Pin To Net: NetName=NetR209_2 Pin=R209-2
+Added Pin To Net: NetName=NetR209_2 Pin=R214-2
+Added Pin To Net: NetName=NetR209_2 Pin=R215-1
+Added Pin To Net: NetName=NetR209_2 Pin=U38-1
+Added Net: Name=NetR209_2
+Added Pin To Net: NetName=NetR210_1 Pin=R210-1
+Added Pin To Net: NetName=NetR210_1 Pin=U39-1
+Added Net: Name=NetR210_1
+Added Pin To Net: NetName=NetR213_1 Pin=R213-1
+Added Pin To Net: NetName=NetR213_1 Pin=R216-2
+Added Pin To Net: NetName=NetR213_1 Pin=R217-2
+Added Net: Name=NetR213_1
+Added Pin To Net: NetName=NetR214_1 Pin=R214-1
+Added Pin To Net: NetName=NetR214_1 Pin=R216-1
+Added Pin To Net: NetName=NetR214_1 Pin=U38-2
+Added Net: Name=NetR214_1
+Added Pin To Net: NetName=NetR218_1 Pin=R218-1
+Added Pin To Net: NetName=NetR218_1 Pin=R223-1
+Added Pin To Net: NetName=NetR218_1 Pin=U40-4
+Added Net: Name=NetR218_1
+Added Pin To Net: NetName=NetR220_1 Pin=R220-1
+Added Pin To Net: NetName=NetR220_1 Pin=R224-2
+Added Pin To Net: NetName=NetR220_1 Pin=R225-1
+Added Pin To Net: NetName=NetR220_1 Pin=U38-7
+Added Net: Name=NetR220_1
+Added Pin To Net: NetName=NetR221_2 Pin=R221-2
+Added Pin To Net: NetName=NetR221_2 Pin=U40-1
+Added Net: Name=NetR221_2
+Added Pin To Net: NetName=NetR224_1 Pin=R224-1
+Added Pin To Net: NetName=NetR224_1 Pin=R227-2
+Added Pin To Net: NetName=NetR224_1 Pin=U38-6
+Added Net: Name=NetR224_1
+Added Pin To Net: NetName=NetR226_1 Pin=R226-1
+Added Pin To Net: NetName=NetR226_1 Pin=R227-1
+Added Pin To Net: NetName=NetR226_1 Pin=R228-2
+Added Net: Name=NetR226_1
+Added Pin To Net: NetName=NetR229_2 Pin=R229-2
+Added Pin To Net: NetName=NetR229_2 Pin=R235-2
+Added Pin To Net: NetName=NetR229_2 Pin=R236-1
+Added Pin To Net: NetName=NetR229_2 Pin=U41-1
+Added Net: Name=NetR229_2
+Added Pin To Net: NetName=NetR231_1 Pin=R231-1
+Added Pin To Net: NetName=NetR231_1 Pin=R234-1
+Added Pin To Net: NetName=NetR231_1 Pin=U42-4
+Added Net: Name=NetR231_1
+Added Pin To Net: NetName=NetR232_2 Pin=R232-2
+Added Pin To Net: NetName=NetR232_2 Pin=U42-1
+Added Net: Name=NetR232_2
+Added Pin To Net: NetName=NetR235_1 Pin=R235-1
+Added Pin To Net: NetName=NetR235_1 Pin=R238-1
+Added Pin To Net: NetName=NetR235_1 Pin=U41-2
+Added Net: Name=NetR235_1
+Added Pin To Net: NetName=NetR237_1 Pin=R237-1
+Added Pin To Net: NetName=NetR237_1 Pin=R238-2
+Added Pin To Net: NetName=NetR237_1 Pin=R239-2
+Added Net: Name=NetR237_1
+Added Pin To Net: NetName=NetR241_1 Pin=R241-1
+Added Pin To Net: NetName=NetR241_1 Pin=R246-2
+Added Pin To Net: NetName=NetR241_1 Pin=R247-1
+Added Pin To Net: NetName=NetR241_1 Pin=U41-7
+Added Net: Name=NetR241_1
+Added Pin To Net: NetName=NetR242_1 Pin=R242-1
+Added Pin To Net: NetName=NetR242_1 Pin=R245-1
+Added Pin To Net: NetName=NetR242_1 Pin=U43-4
+Added Net: Name=NetR242_1
+Added Pin To Net: NetName=NetR243_2 Pin=R243-2
+Added Pin To Net: NetName=NetR243_2 Pin=U43-1
+Added Net: Name=NetR243_2
+Added Pin To Net: NetName=NetR246_1 Pin=R246-1
+Added Pin To Net: NetName=NetR246_1 Pin=R249-2
+Added Pin To Net: NetName=NetR246_1 Pin=U41-6
+Added Net: Name=NetR246_1
+Added Pin To Net: NetName=NetR248_1 Pin=R248-1
+Added Pin To Net: NetName=NetR248_1 Pin=R249-1
+Added Pin To Net: NetName=NetR248_1 Pin=R250-2
+Added Net: Name=NetR248_1
+Added Class: Name=drvinput2
+Added Class: Name=drvinput3

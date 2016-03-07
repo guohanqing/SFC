@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VPC3_XINT Pin=U2-2
+Removed Pin From Net: NetName=VPC3_ALE Pin=U2-11
+Removed Pin From Net: NetName=VPC3_XWR Pin=U2-32
+Removed Pin From Net: NetName=VPC3_XRD Pin=U2-33
+Added Pin To Net: NetName=VPC3_XINT Pin=U2-29
+Added Pin To Net: NetName=VPC3_XRD Pin=U2-32
+Added Pin To Net: NetName=VPC3_XWR Pin=U2-33
+Added Pin To Net: NetName=VPC3_ALE Pin=U2-38

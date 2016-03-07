@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GNDA Pin=P1-2
+Added Member To Class: ClassName=cpupwrbackup Member=Component C52 0.1uF
+Added Member To Class: ClassName=cpupwrbackup Member=Component C54 10uF

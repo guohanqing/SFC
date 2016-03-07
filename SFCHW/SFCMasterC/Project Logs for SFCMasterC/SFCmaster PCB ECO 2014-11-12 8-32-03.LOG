@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=VBAT_DRV Pin=P3-1
+Removed Pin From Net: NetName=3.3V_DRV Pin=P3-2
+Removed Pin From Net: NetName=USART3_TX_DRV Pin=P3-5
+Removed Pin From Net: NetName=ETH_REF_CLK_DRV Pin=P3-6
+Removed Pin From Net: NetName=USART3_RX_DRV Pin=P3-7
+Removed Pin From Net: NetName=ETH_PHY_MDIO_DRV Pin=P3-8
+Removed Pin From Net: NetName=USART3_EN_DRV Pin=P3-9
+Removed Pin From Net: NetName=ETH_RMII_CRS_DV_DRV Pin=P3-10
+Removed Pin From Net: NetName=USART3_STATE_DRV Pin=P3-11
+Removed Pin From Net: NetName=SYS_MCO1_DRV Pin=P3-12
+Removed Pin From Net: NetName=USART1_TX_DRV Pin=P3-13
+Removed Pin From Net: NetName=ETH_RMII_TX_EN_DRV Pin=P3-14
+Removed Pin From Net: NetName=USART1_RX_DRV Pin=P3-15
+Removed Pin From Net: NetName=ETH_RMII_TXD0_DRV Pin=P3-16
+Removed Pin From Net: NetName=USART1_DTS_DRV Pin=P3-17
+Removed Pin From Net: NetName=ETH_RMII_TXD1_DRV Pin=P3-18
+Removed Pin From Net: NetName=DP_CHECK_IN_DRV Pin=P3-19
+Removed Pin From Net: NetName=ETH_PHY_RST_DRV Pin=P3-20
+Removed Pin From Net: NetName=TIM3_CH1_CAP_DRV Pin=P3-21
+Removed Pin From Net: NetName=ETH_RMII_MDC_DRV Pin=P3-22
+Removed Pin From Net: NetName=WIFI_SPI2_SCK_DRV Pin=P3-23
+Removed Pin From Net: NetName=ETH_RMII_RXD0_DRV Pin=P3-24
+Removed Pin From Net: NetName=WIFI_SPI2_RST_DRV Pin=P3-25
+Removed Pin From Net: NetName=ETH_RMII_RXD1_DRV Pin=P3-26
+Added Pin To Net: NetName=3.3V_DRV Pin=P3-1
+Added Pin To Net: NetName=VBAT_DRV Pin=P3-2
+Added Pin To Net: NetName=ETH_REF_CLK_DRV Pin=P3-5
+Added Pin To Net: NetName=USART3_TX_DRV Pin=P3-6
+Added Pin To Net: NetName=ETH_PHY_MDIO_DRV Pin=P3-7
+Added Pin To Net: NetName=USART3_RX_DRV Pin=P3-8
+Added Pin To Net: NetName=ETH_RMII_CRS_DV_DRV Pin=P3-9
+Added Pin To Net: NetName=USART3_EN_DRV Pin=P3-10
+Added Pin To Net: NetName=SYS_MCO1_DRV Pin=P3-11
+Added Pin To Net: NetName=USART3_STATE_DRV Pin=P3-12
+Added Pin To Net: NetName=ETH_RMII_TX_EN_DRV Pin=P3-13
+Added Pin To Net: NetName=USART1_TX_DRV Pin=P3-14
+Added Pin To Net: NetName=ETH_RMII_TXD0_DRV Pin=P3-15
+Added Pin To Net: NetName=USART1_RX_DRV Pin=P3-16
+Added Pin To Net: NetName=ETH_RMII_TXD1_DRV Pin=P3-17
+Added Pin To Net: NetName=USART1_DTS_DRV Pin=P3-18
+Added Pin To Net: NetName=ETH_PHY_RST_DRV Pin=P3-19
+Added Pin To Net: NetName=DP_CHECK_IN_DRV Pin=P3-20
+Added Pin To Net: NetName=ETH_RMII_MDC_DRV Pin=P3-21
+Added Pin To Net: NetName=TIM3_CH1_CAP_DRV Pin=P3-22
+Added Pin To Net: NetName=ETH_RMII_RXD0_DRV Pin=P3-23
+Added Pin To Net: NetName=WIFI_SPI2_SCK_DRV Pin=P3-24
+Added Pin To Net: NetName=ETH_RMII_RXD1_DRV Pin=P3-25
+Added Pin To Net: NetName=WIFI_SPI2_RST_DRV Pin=P3-26
+Change Net Name : Old Net Name=WIFI_SPI2_INT_DRV New Net Name=WIFI_SPI2_MISO_DRV
+Change Net Name : Old Net Name=WIFI_SPI2_MISO_DRV New Net Name=WIFI_SPI2_INT_DRV
+Change Net Name : Old Net Name=WIFI_SPI2_MOSI_DRV New Net Name=WIFI_SPI2_NSS_DRV
+Change Net Name : Old Net Name=WIFI_SPI2_NSS_DRV New Net Name=WIFI_SPI2_MOSI_DRV

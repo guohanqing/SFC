@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ETH_RMII_INT Pin=U1-95
+Removed Pin From Net: NetName=USART_DP_LINK Pin=U1-96
+Added Pin To Net: NetName=USART_DP_LINK Pin=U1-95
+Added Pin To Net: NetName=ETH_RMII_INT Pin=U1-96

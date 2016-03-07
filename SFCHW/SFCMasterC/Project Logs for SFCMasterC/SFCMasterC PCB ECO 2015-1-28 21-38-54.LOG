@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetR2_2 Pin=S1-1
+Removed Pin From Net: NetName=GND Pin=S1-2
+Removed Pin From Net: NetName=3.3V Pin=S1-4
+Removed Pin From Net: NetName=GND Pin=S1-6
+Change Component DesignItemId : Designator=S1 Old DesignItemId=SW DPDT New DesignItemId=SW-DPDT
+Change Component Footprint: Designator=S1 Old Footprint=SOP-6 New Footprint=SW-9.5x3.5x3.5R
+Change Component Comment : Designator=S1 Old Comment=SW DPDT New Comment=SW-DPDT
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=NetR2_2 Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-4
+Added Pin To Net: NetName=3.3V Pin=S1-6

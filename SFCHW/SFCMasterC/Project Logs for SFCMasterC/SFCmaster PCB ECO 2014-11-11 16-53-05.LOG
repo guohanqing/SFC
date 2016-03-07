@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=KEY_NEXT Pin=R169-1
+Removed Pin From Net: NetName=KEY_ENTER Pin=R170-1
+Removed Pin From Net: NetName=KEY_UP Pin=R171-1
+Removed Pin From Net: NetName=KEY_DOWN Pin=R172-1
+Added Pin To Net: NetName=KEY_UP Pin=R169-1
+Added Pin To Net: NetName=KEY_DOWN Pin=R170-1
+Added Pin To Net: NetName=KEY_NEXT Pin=R171-1
+Added Pin To Net: NetName=KEY_ENTER Pin=R172-1

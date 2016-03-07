@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DC+ Pin=VR1-1
+Removed Pin From Net: NetName=NetC3_2 Pin=VR1-2
+Removed Member From Class: ClassName=power Member=VR1
+Change Component Comment : Designator=R2 Old Comment=27K 2W New Comment=24K 2W

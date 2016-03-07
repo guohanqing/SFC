@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=DC2+ Pin=C19-1
+Removed Pin From Net: NetName=DC2- Pin=C19-2
+Removed Member From Class: ClassName=powerB Member=C19
+Change Component Footprint: Designator=C5 Old Footprint=CAPPR7.5-16x20 New Footprint=CAPPR7.5-16x25A
+Change Component Footprint: Designator=C9 Old Footprint=CAPPR7.5-16x20 New Footprint=CAPPR7.5-16x25A
+Change Component Footprint: Designator=C18 Old Footprint=CAPPR7.5-16x20 New Footprint=CAPPR7.5-18x25A
+Change Component Comment : Designator=C18 Old Comment=22uF/450V New Comment=47uF/450V

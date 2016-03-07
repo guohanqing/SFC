@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SYS_TRACESWO Pin=P5-4
+Removed Pin From Net: NetName=GND Pin=P5-5
+Change Component DesignItemId : Designator=P5 Old DesignItemId=Header 5 New DesignItemId=Header 4H
+Change Component Footprint: Designator=P5 Old Footprint=HDR1X5H-2.0 New Footprint=HDR1X4H-2.0
+Change Component Comment : Designator=P5 Old Comment=Header 5 New Comment=Header 4H
+Added Component: Designator=P8(HDR1X2)
+Added Pin To Net: NetName=GND Pin=P5-4
+Added Pin To Net: NetName=SYS_TRACESWO Pin=P8-1
+Added Pin To Net: NetName=GND Pin=P8-2
+Change Net Name : Old Net Name=MCO1 New Net Name=SUB_SYS_RST
+Change Net Name : Old Net Name=SYS_TRACESWO New Net Name=SUB_SYS_BOOTSEL
+Added Member To Class: ClassName=cpuinterface Member=Component P8 Header 2

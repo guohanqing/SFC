@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=RS232_RXD2 Pin=S3-1
+Removed Pin From Net: NetName=NetJ2_3 Pin=S3-2
+Removed Pin From Net: NetName=RS232_RXD1 Pin=S3-3
+Removed Pin From Net: NetName=RS232_TXD1 Pin=S3-4
+Removed Pin From Net: NetName=NetJ2_2 Pin=S3-5
+Removed Pin From Net: NetName=RS232_TXD2 Pin=S3-6
+Added Component: Designator=S3(SW-9.5x3.5x3.5)
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=RS232_RXD2 Pin=S3-1
+Added Pin To Net: NetName=NetJ2_3 Pin=S3-2
+Added Pin To Net: NetName=RS232_RXD1 Pin=S3-3
+Added Pin To Net: NetName=RS232_TXD1 Pin=S3-4
+Added Pin To Net: NetName=NetJ2_2 Pin=S3-5
+Added Pin To Net: NetName=RS232_TXD2 Pin=S3-6
+Added Member To Class: ClassName=SFCRS232 Member=Component P5 Header 3-2.0

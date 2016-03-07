@@ -1,0 +1,23 @@
+Import('RTT_ROOT')
+Import('rtconfig')
+from building import *
+
+#cwd     = GetCurrentDir()
+cwd     = os.path.join(str(Dir('#')), 'DSP_Lib')
+# The set of source files associated with this SConscript file.
+src = Split("""
+arm_cortexM4bf_math.lib
+arm_cortexM4lf_math.lib
+""")
+#src	= Glob('*.lib')
+
+CPPPATH = [cwd]
+# The set of source files associated with this SConscript file.
+#path = [RTT_ROOT + '/components/emWin', RTT_ROOT + '/components/emWin/inc']
+
+CPPDEFINES = []
+
+
+group = DefineGroup('DSP_Lib', src, depend = ['RT_USING_EMWIN'], CPPPATH = CPPPATH, CPPDEFINES = CPPDEFINES)
+
+Return('group')

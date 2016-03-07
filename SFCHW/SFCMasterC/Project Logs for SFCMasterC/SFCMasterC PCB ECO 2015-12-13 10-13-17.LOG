@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=P1-21
+Removed Pin From Net: NetName=GNDA Pin=P1-25
+Removed Pin From Net: NetName=VDRIVER_OUT8 Pin=P2-17
+Removed Pin From Net: NetName=VDRIVER_OUT6 Pin=P2-19
+Removed Pin From Net: NetName=VDRIVER_OUT5 Pin=P2-20
+Removed Pin From Net: NetName=VDRIVER_OUT4 Pin=P2-21
+Removed Pin From Net: NetName=VDRIVER_OUT3 Pin=P2-22
+Removed Pin From Net: NetName=VDRIVER_OUT2 Pin=P2-23
+Removed Pin From Net: NetName=VDRIVER_OUT1 Pin=P2-24
+Removed Pin From Net: NetName=VDLY_DRIVER Pin=P2-25
+Removed Pin From Net: NetName=VMAIN_DRIVER Pin=P2-26
+Removed Pin From Net: NetName=5V Pin=P2-27
+Removed Pin From Net: NetName=24V Pin=P2-28
+Removed Pin From Net: NetName=GND Pin=P2-29
+Removed Pin From Net: NetName=GNDA Pin=P2-30
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Header 13X2 New DesignItemId=Header 12X2
+Change Component Footprint: Designator=P1 Old Footprint=HDR2X13 New Footprint=HDR2X12
+Change Component Comment : Designator=P1 Old Comment=Header 13X2 New Comment=Header 12X2
+Added Pin To Net: NetName=GNDA Pin=P1-23
+Added Pin To Net: NetName=GNDA Pin=P2-17
+Added Pin To Net: NetName=24V Pin=P2-19
+Added Pin To Net: NetName=VDRIVER_OUT8 Pin=P2-20
+Added Pin To Net: NetName=VDRIVER_OUT6 Pin=P2-21
+Added Pin To Net: NetName=VDRIVER_OUT5 Pin=P2-22
+Added Pin To Net: NetName=VDRIVER_OUT4 Pin=P2-23
+Added Pin To Net: NetName=VDRIVER_OUT3 Pin=P2-24
+Added Pin To Net: NetName=VDRIVER_OUT2 Pin=P2-25
+Added Pin To Net: NetName=VDRIVER_OUT1 Pin=P2-26
+Added Pin To Net: NetName=VDLY_DRIVER Pin=P2-27
+Added Pin To Net: NetName=VMAIN_DRIVER Pin=P2-28
+Added Pin To Net: NetName=5V Pin=P2-29
+Added Pin To Net: NetName=GND Pin=P2-30
+Change Net Name : Old Net Name=ADC13_PORT New Net Name=5VA
+Added Pin To Net: NetName=ADC13_PORT Pin=P1-21
+Added Net: Name=ADC13_PORT

@@ -1,0 +1,129 @@
+Removed Pin From Net: NetName=GND Pin=BT1-2
+Removed Pin From Net: NetName=GND Pin=BT1-2
+Removed Pin From Net: NetName=DC+ Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=DC+ Pin=C9-1
+Removed Pin From Net: NetName=POWER_PORT_RT Pin=C10-1
+Removed Pin From Net: NetName=NetBR1_2 Pin=C10-2
+Removed Pin From Net: NetName=NetC14_1 Pin=C15-1
+Removed Pin From Net: NetName=GNDB Pin=C15-2
+Removed Pin From Net: NetName=NetC20_1 Pin=C20-1
+Removed Pin From Net: NetName=NetC20_2 Pin=C20-2
+Removed Pin From Net: NetName=NetC21_1 Pin=C21-1
+Removed Pin From Net: NetName=DC- Pin=C21-2
+Removed Pin From Net: NetName=NetD4_1 Pin=D4-1
+Removed Pin From Net: NetName=NetC14_1 Pin=D4-2
+Removed Pin From Net: NetName=DC+ Pin=L3-2
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Pin From Net: NetName=DC+ Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=NetR12_1 Pin=R12-1
+Removed Pin From Net: NetName=DC+ Pin=R12-2
+Removed Pin From Net: NetName=NetR12_1 Pin=R13-1
+Removed Pin From Net: NetName=NetR13_2 Pin=R13-2
+Removed Pin From Net: NetName=NetR14_1 Pin=R14-1
+Removed Pin From Net: NetName=NetC14_1 Pin=R14-2
+Removed Pin From Net: NetName=NetC20_2 Pin=R15-1
+Removed Pin From Net: NetName=NetR14_1 Pin=R15-2
+Removed Pin From Net: NetName=GNDB Pin=R17-1
+Removed Pin From Net: NetName=NetC20_1 Pin=R17-2
+Removed Pin From Net: NetName=DC+ Pin=T1-1
+Removed Pin From Net: NetName=GND Pin=T1-5
+Removed Pin From Net: NetName=NetR4_1 Pin=U2-1
+Removed Pin From Net: NetName=NetC11_2 Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=NetR3_2 Pin=U2-4
+Removed Pin From Net: NetName=NetC11_1 Pin=U4-1
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=NetC11_2 Pin=U4-3
+Removed Pin From Net: NetName=NetC20_1 Pin=U6-1
+Removed Pin From Net: NetName=DC- Pin=U6-2
+Removed Pin From Net: NetName=NetC20_2 Pin=U6-3
+Removed Pin From Net: NetName=DC+ Pin=VD1-1
+Removed Member From Class: ClassName=powerA Member=C17
+Removed Member From Class: ClassName=powerA Member=R10
+Removed Member From Class: ClassName=powerB Member=R15
+Removed Member From Class: ClassName=powerB Member=R17
+Change Component DesignItemId : Designator=U4 Old DesignItemId=TL431CLP New DesignItemId=TL431(DBZ)
+Change Component DesignItemId : Designator=U6 Old DesignItemId=TL431CLP New DesignItemId=TL431(DBZ)
+Change Component Footprint: Designator=U4 Old Footprint=TO-92AA New Footprint=SOT-23_M
+Change Component Footprint: Designator=U6 Old Footprint=TO-92AA New Footprint=SOT-23_M
+Change Component Comment : Designator=U4 Old Comment=TL431AILP New Comment=TL431(DBZ)
+Change Component Comment : Designator=U6 Old Comment=TL431AILP New Comment=TL431(DBZ)
+Added Component: Designator=C10(CAPRD10-12x6)
+Added Component: Designator=C15(CAPPR5-12.5x20)
+Added Component: Designator=C20(CAPC3216M)
+Added Component: Designator=C21(CAPRD5-4.5x3A)
+Added Component: Designator=D4(SMA)
+Added Component: Designator=R12(RESC3216M)
+Added Component: Designator=R13(RESC3216M)
+Added Component: Designator=R14(RESC3216M)
+Added Component: Designator=R15(RESC3216M)
+Added Component: Designator=R17(RESC3216M)
+Added Component: Designator=U2(DIP-4)
+Added Pin To Net: NetName=POWER_PORT_RT Pin=C10-1
+Added Pin To Net: NetName=NetBR1_2 Pin=C10-2
+Added Pin To Net: NetName=NetC14_1 Pin=C15-1
+Added Pin To Net: NetName=GNDB Pin=C15-2
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=DC- Pin=C21-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetC14_1 Pin=D4-2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=DC+ Pin=R12-2
+Added Pin To Net: NetName=NetR12_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetC14_1 Pin=R14-2
+Added Pin To Net: NetName=NetC20_2 Pin=R15-1
+Added Pin To Net: NetName=NetR14_1 Pin=R15-2
+Added Pin To Net: NetName=GNDB Pin=R17-1
+Added Pin To Net: NetName=NetC20_1 Pin=R17-2
+Added Pin To Net: NetName=NetR4_1 Pin=U2-1
+Added Pin To Net: NetName=NetC11_2 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=NetR3_2 Pin=U2-4
+Added Pin To Net: NetName=NetC11_2 Pin=U4-1
+Added Pin To Net: NetName=NetC11_1 Pin=U4-2
+Added Pin To Net: NetName=NetC20_2 Pin=U6-1
+Added Pin To Net: NetName=NetC20_1 Pin=U6-2
+Added Pin To Net: NetName=GNDB Pin=U6-3
+Change Net Name : Old Net Name=DC+ New Net Name=DC2+
+Change Net Name : Old Net Name=DC- New Net Name=DC2-
+Change Net Name : Old Net Name=GND New Net Name=DC1-
+Added Pin To Net: NetName=DC1+ Pin=C1-1
+Added Pin To Net: NetName=DC1+ Pin=C9-1
+Added Pin To Net: NetName=DC1+ Pin=L3-2
+Added Pin To Net: NetName=DC1+ Pin=R2-2
+Added Pin To Net: NetName=DC1+ Pin=T1-1
+Added Pin To Net: NetName=DC1+ Pin=VD1-1
+Added Net: Name=DC1+
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=T1-5
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Net: Name=GND
+Added Member To Class: ClassName=powerA Member=Component C5 22uF/450V
+Added Member To Class: ClassName=powerA Member=Component C11 100nF/16V
+Added Member To Class: ClassName=powerA Member=Component C12 10uF/16V
+Added Member To Class: ClassName=powerB Member=Component C14 22pF/1KV
+Added Member To Class: ClassName=powerB Member=Component C15 270uF/50V
+Added Member To Class: ClassName=powerB Member=Component C16 100uF/35V
+Added Member To Class: ClassName=powerB Member=Component D4 UF4004
+Added Member To Class: ClassName=powerA Member=Component R6 1K %1
+Added Member To Class: ClassName=powerA Member=Component R7 34K 1%
+Added Member To Class: ClassName=powerA Member=Component R8 13K 1%
+Added Member To Class: ClassName=powerB Member=Component R9 470R
+Added Member To Class: ClassName=powerB Member=Component R10 24K 2W
+Added Member To Class: ClassName=powerB Member=Component R11 13R
+Added Member To Class: ClassName=powerB Member=Component R12 2M
+Added Member To Class: ClassName=powerB Member=Component R13 2M

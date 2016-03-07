@@ -1,0 +1,155 @@
+Change Component Comment : Designator=R1 Old Comment=470R New Comment=300R
+Change Component Comment : Designator=R2 Old Comment=470R New Comment=300R
+Change Component Comment : Designator=P1 Old Comment=Header 4 New Comment=Header 4-2.0
+Change Component Comment : Designator=U1 Old Comment=SP3232E New Comment=SP232E
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=P1 NewDesignator=P7
+Added Component: Designator=C6(CAPC2012M)
+Added Component: Designator=C7(CAPC2012M)
+Added Component: Designator=C8(CAPC2012M)
+Added Component: Designator=C9(CAPC2012M)
+Added Component: Designator=C10(CAPC2012M)
+Added Component: Designator=C11(CAPC2012M)
+Added Component: Designator=C12(CAPC2012M)
+Added Component: Designator=C13(CAPC2012M)
+Added Component: Designator=C14(CAPC2012M)
+Added Component: Designator=J1(DC-005)
+Added Component: Designator=P1(HDR1A4LH)
+Added Component: Designator=P2(HDR1X4-2.5)
+Added Component: Designator=P3(HDR1X3-2.5)
+Added Component: Designator=P4(HDR1A4LH)
+Added Component: Designator=P5(HDR1X4-2.5)
+Added Component: Designator=P6(HDR1X3-2.5)
+Added Component: Designator=P8(HDR1X3-2.0)
+Added Component: Designator=P9(HDR1X4-2.0)
+Added Component: Designator=P10(HDR1X3-2.0)
+Added Component: Designator=R3(RESC2012M)
+Added Component: Designator=R4(RESC2012M)
+Added Component: Designator=S1(SW-9.5x3.5x3.5R)
+Added Component: Designator=U2(NSO16_M)
+Added Component: Designator=U3(SOT-223)
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=3.3V Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=3.3V Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=3.3V Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=3.3V Pin=P1-1
+Added Pin To Net: NetName=3.3V Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P5-4
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=GND Pin=P8-1
+Added Pin To Net: NetName=GND Pin=P9-4
+Added Pin To Net: NetName=GND Pin=P10-1
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=3.3V Pin=U3-3
+Change Net Name : Old Net Name=3.3V New Net Name=5V
+Added Pin To Net: NetName=3.3V Pin=C6-2
+Added Pin To Net: NetName=3.3V Pin=C10-2
+Added Pin To Net: NetName=3.3V Pin=C13-2
+Added Pin To Net: NetName=3.3V Pin=C14-2
+Added Pin To Net: NetName=3.3V Pin=P4-1
+Added Pin To Net: NetName=3.3V Pin=P5-1
+Added Pin To Net: NetName=3.3V Pin=P9-1
+Added Pin To Net: NetName=3.3V Pin=U2-16
+Added Pin To Net: NetName=3.3V Pin=U3-2
+Added Net: Name=3.3V
+Added Pin To Net: NetName=MCU_RXD1 Pin=P1-2
+Added Pin To Net: NetName=MCU_RXD1 Pin=P1-3
+Added Pin To Net: NetName=MCU_RXD1 Pin=P2-2
+Added Pin To Net: NetName=MCU_RXD1 Pin=P2-3
+Added Pin To Net: NetName=MCU_RXD1 Pin=P3-2
+Added Pin To Net: NetName=MCU_RXD1 Pin=P3-3
+Added Pin To Net: NetName=MCU_RXD1 Pin=P4-2
+Added Pin To Net: NetName=MCU_RXD1 Pin=P4-3
+Added Pin To Net: NetName=MCU_RXD1 Pin=P5-2
+Added Pin To Net: NetName=MCU_RXD1 Pin=P5-3
+Added Pin To Net: NetName=MCU_RXD1 Pin=P6-2
+Added Pin To Net: NetName=MCU_RXD1 Pin=P6-3
+Added Pin To Net: NetName=MCU_RXD1 Pin=P7-2
+Added Pin To Net: NetName=MCU_RXD1 Pin=P7-3
+Added Pin To Net: NetName=MCU_RXD1 Pin=P8-2
+Added Pin To Net: NetName=MCU_RXD1 Pin=P8-3
+Added Pin To Net: NetName=MCU_RXD1 Pin=P9-2
+Added Pin To Net: NetName=MCU_RXD1 Pin=P9-3
+Added Pin To Net: NetName=MCU_RXD1 Pin=P10-2
+Added Pin To Net: NetName=MCU_RXD1 Pin=P10-3
+Added Pin To Net: NetName=MCU_RXD1 Pin=R1-1
+Added Pin To Net: NetName=MCU_RXD1 Pin=R2-1
+Added Pin To Net: NetName=MCU_RXD1 Pin=R3-1
+Added Pin To Net: NetName=MCU_RXD1 Pin=R4-1
+Added Net: Name=MCU_RXD1
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=U2-3
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=U2-1
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=U2-5
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=U2-4
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=U2-6
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=U2-2
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=S1-5
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_3 Pin=S1-2
+Added Net: Name=NetJ2_3
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U2-11
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U2-12
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=RS232_RXD1 Pin=S1-3
+Added Pin To Net: NetName=RS232_RXD1 Pin=U1-13
+Added Net: Name=RS232_RXD1
+Added Pin To Net: NetName=RS232_RXD2 Pin=S1-1
+Added Pin To Net: NetName=RS232_RXD2 Pin=U2-13
+Added Net: Name=RS232_RXD2
+Added Pin To Net: NetName=RS232_TXD1 Pin=S1-4
+Added Pin To Net: NetName=RS232_TXD1 Pin=U1-14
+Added Net: Name=RS232_TXD1
+Added Pin To Net: NetName=RS232_TXD2 Pin=S1-6
+Added Pin To Net: NetName=RS232_TXD2 Pin=U2-14
+Added Net: Name=RS232_TXD2
+Added Member To Class: ClassName=SFCRS232 Member=Component C6 0.1uF
+Added Member To Class: ClassName=SFCRS232 Member=Component C7 0.1uF
+Added Member To Class: ClassName=SFCRS232 Member=Component C8 0.1uF
+Added Member To Class: ClassName=SFCRS232 Member=Component C9 0.1uF
+Added Member To Class: ClassName=SFCRS232 Member=Component C10 0.1uF
+Added Member To Class: ClassName=SFCRS232 Member=Component C11 10uF
+Added Member To Class: ClassName=SFCRS232 Member=Component C12 0.1uF
+Added Member To Class: ClassName=SFCRS232 Member=Component C13 10uF
+Added Member To Class: ClassName=SFCRS232 Member=Component C14 0.1uF
+Added Member To Class: ClassName=SFCRS232 Member=Component J2 D Connector 9
+Added Member To Class: ClassName=SFCRS232 Member=Component P2 Header 4-2.5
+Added Member To Class: ClassName=SFCRS232 Member=Component P3 Header 3-2.5
+Added Member To Class: ClassName=SFCRS232 Member=Component P4 Header 4-2.5
+Added Member To Class: ClassName=SFCRS232 Member=Component P5 Header 4-2.5
+Added Member To Class: ClassName=SFCRS232 Member=Component P6 Header 3-2.5
+Added Member To Class: ClassName=SFCRS232 Member=Component P7 Header 4-2.0
+Added Member To Class: ClassName=SFCRS232 Member=Component P8 Header 3-2.0
+Added Member To Class: ClassName=SFCRS232 Member=Component P9 Header 4-2.0
+Added Member To Class: ClassName=SFCRS232 Member=Component P10 Header 3-2.0
+Added Member To Class: ClassName=SFCRS232 Member=Component R3 300R
+Added Member To Class: ClassName=SFCRS232 Member=Component R4 300R
+Added Member To Class: ClassName=SFCRS232 Member=Component S1 SW-DPDT
+Added Member To Class: ClassName=SFCRS232 Member=Component U2 SP3232E
+Added Member To Class: ClassName=SFCRS232 Member=Component U3 ASM1117-3.3

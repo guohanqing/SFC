@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VPC3_RST Pin=U2-10
+Removed Pin From Net: NetName=VPC3_XINT Pin=U2-29
+Added Pin To Net: NetName=VPC3_XINT Pin=U2-10
+Added Pin To Net: NetName=VPC3_RST Pin=U2-29

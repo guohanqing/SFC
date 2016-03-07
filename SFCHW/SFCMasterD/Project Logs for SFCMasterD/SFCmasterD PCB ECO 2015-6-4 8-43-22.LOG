@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SYS_RST Pin=C32-2
+Removed Pin From Net: NetName=SYS_RST Pin=R2-1
+Removed Pin From Net: NetName=3.3V Pin=R2-2
+Added Component: Designator=U35(SOT-143_N)
+Added Pin To Net: NetName=3.3V Pin=C32-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=U35-1
+Added Pin To Net: NetName=3.3V Pin=U35-4
+Added Pin To Net: NetName=SYS_NRST Pin=R2-2
+Added Pin To Net: NetName=SYS_NRST Pin=U35-2
+Added Net: Name=SYS_NRST
+Added Member To Class: ClassName=drvcomdp Member=Component U35 MIC811TU

@@ -1,0 +1,52 @@
+Added Component: Designator=LR4(INDC3216M)
+Added Component: Designator=LR5(INDC3216M)
+Added Component: Designator=LR6(INDC3216M)
+Added Component: Designator=LR7(INDC3216M)
+Added Component: Designator=LR8(INDC3216M)
+Added Component: Designator=LR9(INDC3216M)
+Added Component: Designator=LR10(INDC3216M)
+Added Component: Designator=LR11(INDC3216M)
+Added Component: Designator=LR12(INDC3216M)
+Added Component: Designator=LR13(INDC3216M)
+Added Component: Designator=LR14(INDC3216M)
+Added Component: Designator=LR15(INDC3216M)
+Added Component: Designator=R131(RESC3216M)
+Added Pin To Net: NetName=VLV_MAIN_DRIVER_ON Pin=LR4-1
+Added Pin To Net: NetName=NetLR4_2 Pin=LR4-2
+Added Pin To Net: NetName=VLV_DLY_DRIVER_ON Pin=LR5-1
+Added Pin To Net: NetName=NetLR5_2 Pin=LR5-2
+Added Pin To Net: NetName=VALVE_DRIVER1_ON Pin=LR6-1
+Added Pin To Net: NetName=NetLR6_2 Pin=LR6-2
+Added Pin To Net: NetName=VALVE_DRIVER2_ON Pin=LR7-1
+Added Pin To Net: NetName=NetLR7_2 Pin=LR7-2
+Added Pin To Net: NetName=VALVE_DRIVER3_ON Pin=LR8-1
+Added Pin To Net: NetName=NetLR8_2 Pin=LR8-2
+Added Pin To Net: NetName=VALVE_DRIVER4_ON Pin=LR9-1
+Added Pin To Net: NetName=NetLR9_2 Pin=LR9-2
+Added Pin To Net: NetName=VALVE_DRIVER5_ON Pin=LR10-1
+Added Pin To Net: NetName=NetLR10_2 Pin=LR10-2
+Added Pin To Net: NetName=VALVE_DRIVER6_ON Pin=LR11-1
+Added Pin To Net: NetName=NetLR11_2 Pin=LR11-2
+Added Pin To Net: NetName=VALVE_DRIVER7_ON Pin=LR12-1
+Added Pin To Net: NetName=NetLR12_2 Pin=LR12-2
+Added Pin To Net: NetName=VALVE_DRIVER8_ON Pin=LR13-1
+Added Pin To Net: NetName=NetLR13_2 Pin=LR13-2
+Added Pin To Net: NetName=LEVEL_DRV_OUT1_ON Pin=LR14-1
+Added Pin To Net: NetName=NetLR14_2 Pin=LR14-2
+Added Pin To Net: NetName=LEVEL_DRV_OUT2_ON Pin=LR15-1
+Added Pin To Net: NetName=NetLR15_2 Pin=LR15-2
+Added Pin To Net: NetName=NetLR8_2 Pin=R131-1
+Added Pin To Net: NetName=NetD17_1 Pin=R131-2
+Added Member To Class: ClassName=drvoutput0 Member=Component LR4 CBW321609U101T
+Added Member To Class: ClassName=drvoutput0 Member=Component LR5 CBW321609U101T
+Added Member To Class: ClassName=drvoutput1 Member=Component LR6 CBW321609U101T
+Added Member To Class: ClassName=drvoutput1 Member=Component LR7 CBW321609U101T
+Added Member To Class: ClassName=drvoutput2 Member=Component LR8 CBW321609U101T
+Added Member To Class: ClassName=drvoutput2 Member=Component LR9 CBW321609U101T
+Added Member To Class: ClassName=drvoutput3 Member=Component LR10 CBW321609U101T
+Added Member To Class: ClassName=drvoutput3 Member=Component LR11 CBW321609U101T
+Added Member To Class: ClassName=drvoutput4 Member=Component LR12 CBW321609U101T
+Added Member To Class: ClassName=drvoutput4 Member=Component LR13 CBW321609U101T
+Added Member To Class: ClassName=drvoutput5 Member=Component LR14 CBW321609U101T
+Added Member To Class: ClassName=drvoutput5 Member=Component LR15 CBW321609U101T
+Added Member To Class: ClassName=drvoutput2 Member=Component R131 510R

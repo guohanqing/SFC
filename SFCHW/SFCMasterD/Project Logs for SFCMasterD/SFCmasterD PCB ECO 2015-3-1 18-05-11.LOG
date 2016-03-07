@@ -1,0 +1,85 @@
+Change Component Comment : Designator=R13 Old Comment=3K New Comment=10K
+Change Component Comment : Designator=U3 Old Comment=6N137 New Comment=HCPL-2601/2611
+Change Component Comment : Designator=U5 Old Comment=6N137 New Comment=HCPL-2601/2611
+Change Component Library : Designator=U3 Old Library=UserLib.IntLib New Library=UserSchDev.SchLib
+Change Component Library : Designator=U5 Old Library=UserLib.IntLib New Library=UserSchDev.SchLib
+Added Component: Designator=C24(CAPC2012M)
+Added Component: Designator=C25(CAPC2012M)
+Added Component: Designator=D33(SMB)
+Added Component: Designator=D34(SMB)
+Added Component: Designator=J2(DS-01)
+Added Component: Designator=P6(DG128-5.0-2)
+Added Component: Designator=R103(RESC2012M)
+Added Component: Designator=R104(RESC2012M)
+Added Component: Designator=R109(RESC2012M)
+Added Component: Designator=R110(RESC2012M)
+Added Component: Designator=R115(RESC2012M)
+Added Component: Designator=R116(RESC2012M)
+Added Component: Designator=R121(RESC2012M)
+Added Component: Designator=R122(RESC2012M)
+Added Component: Designator=R127(RESC2012M)
+Added Component: Designator=R128(RESC2012M)
+Added Component: Designator=R133(RESC2012M)
+Added Pin To Net: NetName=GNDA Pin=C24-1
+Added Pin To Net: NetName=GNDA Pin=C25-1
+Added Pin To Net: NetName=GNDA Pin=D33-1
+Added Pin To Net: NetName=GNDA Pin=D34-1
+Added Pin To Net: NetName=3.3V Pin=R103-2
+Added Pin To Net: NetName=5VA Pin=R104-1
+Added Pin To Net: NetName=3.3V Pin=R109-1
+Added Pin To Net: NetName=CAN1_TX Pin=R109-2
+Added Pin To Net: NetName=5VA Pin=R110-1
+Added Pin To Net: NetName=GNDA Pin=R115-1
+Added Pin To Net: NetName=5VA Pin=R128-2
+Added Pin To Net: NetName=CAN1_RX Pin=R133-2
+Added Pin To Net: NetName=5V Pin=R127-1
+Added Pin To Net: NetName=5V Pin=R133-1
+Added Net: Name=5V
+Added Pin To Net: NetName=CANH_PORT Pin=D33-2
+Added Pin To Net: NetName=CANH_PORT Pin=P6-1
+Added Pin To Net: NetName=CANH_PORT Pin=R116-2
+Added Pin To Net: NetName=CANH_PORT Pin=R121-1
+Added Net: Name=CANH_PORT
+Added Pin To Net: NetName=CANL_PORT Pin=D34-2
+Added Pin To Net: NetName=CANL_PORT Pin=J2-2
+Added Pin To Net: NetName=CANL_PORT Pin=R122-1
+Added Net: Name=CANL_PORT
+Added Pin To Net: NetName=NetC24_2 Pin=C24-2
+Added Pin To Net: NetName=NetC24_2 Pin=R121-2
+Added Net: Name=NetC24_2
+Added Pin To Net: NetName=NetC25_2 Pin=C25-2
+Added Pin To Net: NetName=NetC25_2 Pin=R122-2
+Added Net: Name=NetC25_2
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=R116-1
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetR103_1 Pin=R103-1
+Added Net: Name=NetR103_1
+Added Pin To Net: NetName=NetR104_2 Pin=R104-2
+Added Net: Name=NetR104_2
+Added Pin To Net: NetName=NetR110_2 Pin=R110-2
+Added Net: Name=NetR110_2
+Added Pin To Net: NetName=NetR115_2 Pin=R115-2
+Added Net: Name=NetR115_2
+Added Pin To Net: NetName=NetR127_2 Pin=R127-2
+Added Net: Name=NetR127_2
+Added Pin To Net: NetName=NetR128_1 Pin=R128-1
+Added Net: Name=NetR128_1
+Added Net: Name=NetU35_4
+Added Member To Class: ClassName=drvcomm Member=Component C24 20pF
+Added Member To Class: ClassName=drvcomm Member=Component C25 20pF
+Added Member To Class: ClassName=drvcomm Member=Component D33 SMB5.0CA
+Added Member To Class: ClassName=drvcomm Member=Component D34 SMB5.0CA
+Added Member To Class: ClassName=drvcomm Member=Component J2 JP_CAN
+Added Member To Class: ClassName=drvamap Member=Component P6 Header 2
+Added Member To Class: ClassName=drvcomm Member=Component R103 300R
+Added Member To Class: ClassName=drvcomm Member=Component R104 4.7K
+Added Member To Class: ClassName=drvcomm Member=Component R109 10K
+Added Member To Class: ClassName=drvcomm Member=Component R110 4.7K
+Added Member To Class: ClassName=drvcomm Member=Component R115 4.7K
+Added Member To Class: ClassName=drvcomm Member=Component R116 120R
+Added Member To Class: ClassName=drvcomm Member=Component R121 5.1R
+Added Member To Class: ClassName=drvcomm Member=Component R122 5.1R
+Added Member To Class: ClassName=drvcomm Member=Component R127 3K
+Added Member To Class: ClassName=drvcomm Member=Component R128 470R
+Added Member To Class: ClassName=drvcomm Member=Component R133 10K

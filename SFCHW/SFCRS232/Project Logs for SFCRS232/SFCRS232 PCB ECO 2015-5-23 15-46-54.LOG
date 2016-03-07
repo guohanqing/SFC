@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=5V Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=3.3V Pin=C10-2
+Change Component DesignItemId : Designator=U1 Old DesignItemId=MAX232ESE New DesignItemId=SP3232E
+Change Component DesignItemId : Designator=U2 Old DesignItemId=MAX232ESE New DesignItemId=SP3232E
+Change Component Description : Designator=U1 Old Description=+5V Powered, Multi-Channel RS-232 Driver/Receiver New Description=+3.0V+5V Powered, Multi-Channel RS-232 Driver/Receiver
+Change Component Description : Designator=U2 Old Description=+5V Powered, Multi-Channel RS-232 Driver/Receiver New Description=+3.0V+5V Powered, Multi-Channel RS-232 Driver/Receiver
+Change Component Library : Designator=U1 Old Library=Maxim Communication Transceiver.IntLib New Library=UserSchDev.SchLib
+Change Component Library : Designator=U2 Old Library=Maxim Communication Transceiver.IntLib New Library=UserSchDev.SchLib
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=U2-6
+Added Net: Name=NetC9_1

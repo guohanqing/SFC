@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=LEVEL_DETECT_L1_DRV Pin=P2-2
+Removed Pin From Net: NetName=LEVEL_DETECT_H1_DRV Pin=P2-3
+Removed Pin From Net: NetName=LEVEL_DETECT_L2_DRV Pin=P2-4
+Removed Pin From Net: NetName=LEVEL_DETECT_H2_DRV Pin=P2-5
+Added Pin To Net: NetName=LEVEL_DETECT_L2_DRV Pin=P2-2
+Added Pin To Net: NetName=LEVEL_DETECT_H2_DRV Pin=P2-3
+Added Pin To Net: NetName=LEVEL_DETECT_L1_DRV Pin=P2-4
+Added Pin To Net: NetName=LEVEL_DETECT_H1_DRV Pin=P2-5

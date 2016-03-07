@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DETECT_IN8 Pin=U1-38
+Removed Pin From Net: NetName=DETECT_IN9 Pin=U1-39
+Removed Pin From Net: NetName=DETECT_IN10 Pin=U1-40
+Removed Pin From Net: NetName=DETECT_IN11 Pin=U1-41
+Removed Pin From Net: NetName=DETECT_IN12 Pin=U1-42
+Removed Pin From Net: NetName=DETECT_IN3 Pin=U1-43
+Added Pin To Net: NetName=DETECT_IN3 Pin=U1-38
+Added Pin To Net: NetName=DETECT_IN8 Pin=U1-39
+Added Pin To Net: NetName=DETECT_IN9 Pin=U1-40
+Added Pin To Net: NetName=DETECT_IN10 Pin=U1-41
+Added Pin To Net: NetName=DETECT_IN11 Pin=U1-42
+Added Pin To Net: NetName=DETECT_IN12 Pin=U1-43

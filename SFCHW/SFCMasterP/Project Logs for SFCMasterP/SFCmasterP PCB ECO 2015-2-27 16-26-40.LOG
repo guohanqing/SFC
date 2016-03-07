@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=FG Pin=C13-1
+Removed Pin From Net: NetName=POWER_PORT_GND Pin=C13-2
+Removed Member From Class: ClassName=power Member=C13
+Added Component: Designator=RT3(CAPRD7.5-11x4A)
+Added Pin To Net: NetName=FG Pin=RT3-1
+Added Pin To Net: NetName=POWER_PORT_GND Pin=RT3-2
+Added Member To Class: ClassName=power Member=Component RT3 MF72-5D9

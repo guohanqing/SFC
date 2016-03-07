@@ -1,0 +1,9 @@
+Added Component: Designator=P5(HDR1X7)
+Added Pin To Net: NetName=FG Pin=P5-1
+Added Pin To Net: NetName=VBAT_SRC Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=9V Pin=P5-4
+Added Pin To Net: NetName=GNDA Pin=P5-5
+Added Pin To Net: NetName=5V Pin=P5-6
+Added Pin To Net: NetName=24V Pin=P5-7
+Added Member To Class: ClassName=drvamap Member=Component P5 Header 7

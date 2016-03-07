@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=SPEEDLED2 Pin=R16-2
+Removed Pin From Net: NetName=SPEEDLED2 Pin=U6-11
+Added Component: Designator=Q1(SOT-23_N)
+Added Component: Designator=R106(RESC2012M)
+Added Pin To Net: NetName=SPEEDLED2 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R106-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R100-2
+Added Pin To Net: NetName=NetQ1_2 Pin=U6-12
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=U6-11
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR106_1 Pin=R106-1
+Added Pin To Net: NetName=NetR106_1 Pin=U6-14
+Added Net: Name=NetR106_1
+Added Member To Class: ClassName=drveth Member=Component Q1 SS8050
+Added Member To Class: ClassName=drveth Member=Component R106 10K

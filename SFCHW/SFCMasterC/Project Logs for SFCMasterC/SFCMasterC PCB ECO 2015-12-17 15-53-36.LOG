@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=USART6_WIFI_RX Pin=U11-15
+Removed Pin From Net: NetName=USART6_WIFI_TX Pin=U11-16
+Added Pin To Net: NetName=USART6_WIFI_TX Pin=U11-15
+Added Pin To Net: NetName=USART6_WIFI_RX Pin=U11-16

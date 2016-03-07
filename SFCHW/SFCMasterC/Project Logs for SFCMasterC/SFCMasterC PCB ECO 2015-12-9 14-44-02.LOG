@@ -1,0 +1,193 @@
+Removed Pin From Net: NetName=3.3V Pin=C44-1
+Removed Pin From Net: NetName=GND Pin=C44-2
+Removed Pin From Net: NetName=3.3V Pin=C61-1
+Removed Pin From Net: NetName=GND Pin=C61-2
+Removed Pin From Net: NetName=3.3V Pin=C62-1
+Removed Pin From Net: NetName=GND Pin=C62-2
+Removed Pin From Net: NetName=PORT_INT Pin=D27-1
+Removed Pin From Net: NetName=PORT_INT Pin=D28-1
+Removed Pin From Net: NetName=PORT_INT Pin=D29-1
+Removed Pin From Net: NetName=LEVEL_DETECT_H1 Pin=D29-2
+Removed Pin From Net: NetName=PORT_INT Pin=D30-1
+Removed Pin From Net: NetName=LEVEL_DETECT_L1 Pin=D30-2
+Removed Pin From Net: NetName=PORT_INT Pin=D31-1
+Removed Pin From Net: NetName=LEVEL_DETECT_H2 Pin=D31-2
+Removed Pin From Net: NetName=PORT_INT Pin=D32-1
+Removed Pin From Net: NetName=LEVEL_DETECT_L2 Pin=D32-2
+Removed Pin From Net: NetName=PORT_INT Pin=R6-1
+Removed Pin From Net: NetName=3.3V Pin=R7-1
+Removed Pin From Net: NetName=KEY_INT Pin=R7-2
+Removed Pin From Net: NetName=LEVEL_DETECT_H1 Pin=U1-41
+Removed Pin From Net: NetName=LEVEL_DETECT_L1 Pin=U1-42
+Removed Pin From Net: NetName=LEVEL_DRV1 Pin=U1-43
+Removed Pin From Net: NetName=LEVEL_DETECT_H2 Pin=U1-44
+Removed Pin From Net: NetName=LEVEL_DETECT_L2 Pin=U1-45
+Removed Pin From Net: NetName=LEVEL_DRV2 Pin=U1-46
+Removed Pin From Net: NetName=GND Pin=U15-1
+Removed Pin From Net: NetName=RMT_STARTUP_IN Pin=U15-6
+Removed Pin From Net: NetName=DP_STARTUP_IN Pin=U15-7
+Removed Pin From Net: NetName=TIM2_CH3_CAP_IN Pin=U15-8
+Removed Pin From Net: NetName=GND Pin=U15-10
+Removed Pin From Net: NetName=LEVEL_DETECT_H1 Pin=U15-15
+Removed Pin From Net: NetName=LEVEL_DETECT_L1 Pin=U15-16
+Removed Pin From Net: NetName=LEVEL_DETECT_H2 Pin=U15-17
+Removed Pin From Net: NetName=LEVEL_DETECT_L2 Pin=U15-18
+Removed Pin From Net: NetName=3.3V Pin=U15-20
+Removed Pin From Net: NetName=3.3V Pin=U16-1
+Removed Pin From Net: NetName=VLV_MAIN_DRIVER Pin=U16-4
+Removed Pin From Net: NetName=VLV_DLY_DRIVER Pin=U16-5
+Removed Pin From Net: NetName=VALVE_DRIVER1 Pin=U16-6
+Removed Pin From Net: NetName=VALVE_DRIVER2 Pin=U16-7
+Removed Pin From Net: NetName=VAVLE_DRIVER3 Pin=U16-8
+Removed Pin From Net: NetName=VALVE_DRIVER4 Pin=U16-9
+Removed Pin From Net: NetName=GND Pin=U16-10
+Removed Pin From Net: NetName=3.3V Pin=U16-20
+Removed Pin From Net: NetName=3.3V Pin=U17-1
+Removed Pin From Net: NetName=VALVE_DRIVER5 Pin=U17-2
+Removed Pin From Net: NetName=VALVE_DRIVER6 Pin=U17-3
+Removed Pin From Net: NetName=VALVE_DRIVER7 Pin=U17-4
+Removed Pin From Net: NetName=VALVE_DRIVER8 Pin=U17-5
+Removed Pin From Net: NetName=LEVEL_DRV1 Pin=U17-6
+Removed Pin From Net: NetName=LEVEL_DRV2 Pin=U17-7
+Removed Pin From Net: NetName=GND Pin=U17-10
+Removed Pin From Net: NetName=3.3V Pin=U17-20
+Removed Member From Class: ClassName=cpuledin Member=C44
+Removed Member From Class: ClassName=cpuledout Member=C61
+Removed Member From Class: ClassName=cpuledout Member=C62
+Removed Member From Class: ClassName=cpuledin Member=D31
+Removed Member From Class: ClassName=cpuledin Member=D32
+Removed Member From Class: ClassName=cpuledin Member=U15
+Removed Member From Class: ClassName=cpuledout Member=U16
+Removed Member From Class: ClassName=cpuledout Member=U17
+Change Component DesignItemId : Designator=D27 Old DesignItemId=Diode 1N4007 New DesignItemId=LED1
+Change Component DesignItemId : Designator=D28 Old DesignItemId=Diode 1N4007 New DesignItemId=LED1
+Change Component DesignItemId : Designator=D29 Old DesignItemId=Diode 1N4007 New DesignItemId=LED1
+Change Component DesignItemId : Designator=D30 Old DesignItemId=Diode 1N4007 New DesignItemId=LED1
+Change Component Footprint: Designator=D27 Old Footprint=CD3216-1206 New Footprint=CD2012-0805
+Change Component Footprint: Designator=D28 Old Footprint=CD3216-1206 New Footprint=CD2012-0805
+Change Component Footprint: Designator=D29 Old Footprint=CD3216-1206 New Footprint=CD2012-0805
+Change Component Footprint: Designator=D30 Old Footprint=CD3216-1206 New Footprint=CD2012-0805
+Change Component Comment : Designator=R4 Old Comment=100K New Comment=1K
+Change Component Comment : Designator=R6 Old Comment=100K New Comment=1K
+Change Component Comment : Designator=R7 Old Comment=100K New Comment=1K
+Change Component Comment : Designator=D27 Old Comment=LL4148 New Comment=Green
+Change Component Comment : Designator=D28 Old Comment=LL4148 New Comment=Green
+Change Component Comment : Designator=D29 Old Comment=LL4148 New Comment=Green
+Change Component Comment : Designator=D30 Old Comment=LL4148 New Comment=Green
+Added Component: Designator=D24(CD2012-0805)
+Added Component: Designator=D26(CD2012-0805)
+Added Component: Designator=R8(RESC2012M)
+Added Component: Designator=R9(RESC2012M)
+Added Component: Designator=R10(RESC2012M)
+Added Component: Designator=U7(SOIC-14AM)
+Added Component: Designator=U8(SOIC-14AM)
+Added Pin To Net: NetName=TIM2_CH3_CAP_IN Pin=D1-2
+Added Pin To Net: NetName=DP_STARTUP_IN Pin=D2-2
+Added Pin To Net: NetName=RMT_STARTUP_IN Pin=D3-2
+Added Pin To Net: NetName=SIG_IN1 Pin=D24-2
+Added Pin To Net: NetName=SIG_IN2 Pin=D26-2
+Added Pin To Net: NetName=SIG_IN3 Pin=D27-2
+Added Pin To Net: NetName=SIG_IN4 Pin=D28-2
+Added Pin To Net: NetName=SIG_IN5 Pin=D29-2
+Added Pin To Net: NetName=SIG_IN6 Pin=D30-2
+Added Pin To Net: NetName=LEVEL_DETECT_L2 Pin=P2-1
+Added Pin To Net: NetName=LEVEL_DETECT_H2 Pin=P2-2
+Added Pin To Net: NetName=LEVEL_DETECT_L1 Pin=P2-3
+Added Pin To Net: NetName=LEVEL_DETECT_H1 Pin=P2-4
+Added Pin To Net: NetName=LEVEL_DRV2 Pin=P2-7
+Added Pin To Net: NetName=LEVEL_DRV1 Pin=P2-8
+Added Pin To Net: NetName=VALVE_DRIVER8 Pin=P2-9
+Added Pin To Net: NetName=VALVE_DRIVER7 Pin=P2-10
+Added Pin To Net: NetName=VALVE_DRIVER6 Pin=P2-11
+Added Pin To Net: NetName=VALVE_DRIVER5 Pin=P2-12
+Added Pin To Net: NetName=VALVE_DRIVER4 Pin=P2-13
+Added Pin To Net: NetName=VAVLE_DRIVER3 Pin=P2-14
+Added Pin To Net: NetName=VALVE_DRIVER2 Pin=P2-15
+Added Pin To Net: NetName=VALVE_DRIVER1 Pin=P2-16
+Added Pin To Net: NetName=VLV_DLY_DRIVER Pin=P2-17
+Added Pin To Net: NetName=VLV_MAIN_DRIVER Pin=P2-18
+Added Pin To Net: NetName=3.3V Pin=R7-2
+Added Pin To Net: NetName=3.3V Pin=R8-2
+Added Pin To Net: NetName=3.3V Pin=R9-2
+Added Pin To Net: NetName=3.3V Pin=R10-2
+Added Pin To Net: NetName=DP_STARTUP_IN Pin=U1-35
+Added Pin To Net: NetName=RMT_STARTUP_IN Pin=U1-36
+Added Pin To Net: NetName=LEVEL_DRV1 Pin=U1-41
+Added Pin To Net: NetName=LEVEL_DRV2 Pin=U1-42
+Added Pin To Net: NetName=LEVEL_DETECT_H1 Pin=U1-43
+Added Pin To Net: NetName=LEVEL_DETECT_L1 Pin=U1-44
+Added Pin To Net: NetName=LEVEL_DETECT_H2 Pin=U1-45
+Added Pin To Net: NetName=LEVEL_DETECT_L2 Pin=U1-46
+Added Pin To Net: NetName=TIM2_CH3_CAP_IN Pin=U1-47
+Added Pin To Net: NetName=RMT_STARTUP_IN Pin=U7-1
+Added Pin To Net: NetName=DP_STARTUP_IN Pin=U7-2
+Added Pin To Net: NetName=LEVEL_DETECT_H1 Pin=U7-4
+Added Pin To Net: NetName=LEVEL_DETECT_L1 Pin=U7-5
+Added Pin To Net: NetName=GND Pin=U7-7
+Added Pin To Net: NetName=LEVEL_DETECT_L2 Pin=U7-9
+Added Pin To Net: NetName=SIG_IN1 Pin=U7-10
+Added Pin To Net: NetName=SIG_IN2 Pin=U7-12
+Added Pin To Net: NetName=SIG_IN3 Pin=U7-13
+Added Pin To Net: NetName=3.3V Pin=U7-14
+Added Pin To Net: NetName=SIG_IN4 Pin=U8-1
+Added Pin To Net: NetName=SIG_IN5 Pin=U8-2
+Added Pin To Net: NetName=SIG_IN6 Pin=U8-4
+Added Pin To Net: NetName=GND Pin=U8-7
+Added Pin To Net: NetName=PORT_INT Pin=U8-8
+Added Pin To Net: NetName=3.3V Pin=U8-14
+Change Net Name : Old Net Name=LEVEL_DETECT_H1 New Net Name=DETECT_IN1
+Change Net Name : Old Net Name=LEVEL_DETECT_H2 New Net Name=DETECT_IN3
+Change Net Name : Old Net Name=LEVEL_DETECT_L1 New Net Name=DETECT_IN2
+Change Net Name : Old Net Name=LEVEL_DETECT_L2 New Net Name=DETECT_IN4
+Change Net Name : Old Net Name=LEVEL_DRV1 New Net Name=VDRIVER_OUT9
+Change Net Name : Old Net Name=LEVEL_DRV2 New Net Name=VDRIVER_OUT10
+Change Net Name : Old Net Name=SIG_IN1 New Net Name=DETECT_IN5
+Change Net Name : Old Net Name=SIG_IN2 New Net Name=DETECT_IN6
+Change Net Name : Old Net Name=SIG_IN3 New Net Name=DETECT_IN7
+Change Net Name : Old Net Name=SIG_IN4 New Net Name=DETECT_IN8
+Change Net Name : Old Net Name=SIG_IN5 New Net Name=DETECT_IN9
+Change Net Name : Old Net Name=SIG_IN6 New Net Name=DETECT_IN10
+Change Net Name : Old Net Name=VALVE_DRIVER1 New Net Name=VDRIVER_OUT1
+Change Net Name : Old Net Name=VALVE_DRIVER2 New Net Name=VDRIVER_OUT2
+Change Net Name : Old Net Name=VALVE_DRIVER4 New Net Name=VDRIVER_OUT4
+Change Net Name : Old Net Name=VALVE_DRIVER5 New Net Name=VDRIVER_OUT5
+Change Net Name : Old Net Name=VALVE_DRIVER6 New Net Name=VDRIVER_OUT6
+Change Net Name : Old Net Name=VALVE_DRIVER7 New Net Name=VDRIVER_OUT7
+Change Net Name : Old Net Name=VALVE_DRIVER8 New Net Name=VDRIVER_OUT8
+Change Net Name : Old Net Name=VAVLE_DRIVER3 New Net Name=VDRIVER_OUT3
+Change Net Name : Old Net Name=VLV_DLY_DRIVER New Net Name=VDLY_DRIVER
+Change Net Name : Old Net Name=VLV_MAIN_DRIVER New Net Name=VMAIN_DRIVER
+Added Pin To Net: NetName=1Y1 Pin=U7-6
+Added Pin To Net: NetName=1Y1 Pin=U8-9
+Added Net: Name=1Y1
+Added Pin To Net: NetName=1Y3 Pin=U8-6
+Added Pin To Net: NetName=1Y3 Pin=U8-12
+Added Net: Name=1Y3
+Added Pin To Net: NetName=2Y1 Pin=U7-8
+Added Pin To Net: NetName=2Y1 Pin=U8-10
+Added Net: Name=2Y1
+Added Pin To Net: NetName=NetD24_1 Pin=D24-1
+Added Pin To Net: NetName=NetD24_1 Pin=R4-1
+Added Net: Name=NetD24_1
+Added Pin To Net: NetName=NetD26_1 Pin=D26-1
+Added Pin To Net: NetName=NetD26_1 Pin=R6-1
+Added Net: Name=NetD26_1
+Added Pin To Net: NetName=NetD27_1 Pin=D27-1
+Added Pin To Net: NetName=NetD27_1 Pin=R7-1
+Added Net: Name=NetD27_1
+Added Pin To Net: NetName=NetD28_1 Pin=D28-1
+Added Pin To Net: NetName=NetD28_1 Pin=R8-1
+Added Net: Name=NetD28_1
+Added Pin To Net: NetName=NetD29_1 Pin=D29-1
+Added Pin To Net: NetName=NetD29_1 Pin=R9-1
+Added Net: Name=NetD29_1
+Added Pin To Net: NetName=NetD30_1 Pin=D30-1
+Added Pin To Net: NetName=NetD30_1 Pin=R10-1
+Added Net: Name=NetD30_1
+Added Member To Class: ClassName=cpuledin Member=Component D24 Green
+Added Member To Class: ClassName=cpuledin Member=Component D26 Green
+Added Member To Class: ClassName=cpuledin Member=Component R8 1K
+Added Member To Class: ClassName=cpuledin Member=Component R9 1K
+Added Member To Class: ClassName=cpuledin Member=Component R10 1K
+Added Member To Class: ClassName=cpuledin Member=Component U7 CD74HC21
+Added Member To Class: ClassName=cpuledin Member=Component U8 CD74HC21

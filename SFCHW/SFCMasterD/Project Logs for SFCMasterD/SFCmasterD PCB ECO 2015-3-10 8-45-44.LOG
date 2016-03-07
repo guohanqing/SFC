@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=1.8VPHY Pin=C13-1
+Change Component Comment : Designator=C17 Old Comment=220pF New Comment=0.01uF
+Change Component Comment : Designator=LR2 Old Comment=CBW201209U101T New Comment=CBW201209U102T
+Change Component Comment : Designator=LR16 Old Comment=CBW201209U101T New Comment=CBW201209U102T
+Change Component Comment : Designator=LR17 Old Comment=CBW201209U101T New Comment=CBW201209U102T
+Added Pin To Net: NetName=NetC12_1 Pin=C13-1

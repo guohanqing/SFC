@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VBAT_SRC Pin=P1-20
+Removed Pin From Net: NetName=SUB_SYS_BOOTSEL Pin=P8-1
+Added Pin To Net: NetName=SUB_SYS_BOOTSEL Pin=P1-20
+Added Pin To Net: NetName=VBAT_SRC Pin=P8-1

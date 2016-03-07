@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=VAVLE_DRIVER3_ON Pin=K5-3
+Removed Pin From Net: NetName=VAVLE_DRIVER3_ON Pin=LR8-1
+Change Component DesignItemId : Designator=K1 Old DesignItemId=PCN-124D3MHZ New DesignItemId=JZC-49FA
+Change Component DesignItemId : Designator=K2 Old DesignItemId=PCN-124D3MHZ New DesignItemId=JZC-49FA
+Change Component DesignItemId : Designator=K3 Old DesignItemId=PCN-124D3MHZ New DesignItemId=JZC-49FA
+Change Component DesignItemId : Designator=K4 Old DesignItemId=PCN-124D3MHZ New DesignItemId=JZC-49FA
+Change Component DesignItemId : Designator=K5 Old DesignItemId=PCN-124D3MHZ New DesignItemId=JZC-49FA
+Change Component DesignItemId : Designator=K6 Old DesignItemId=PCN-124D3MHZ New DesignItemId=JZC-49FA
+Change Component DesignItemId : Designator=K7 Old DesignItemId=PCN-124D3MHZ New DesignItemId=JZC-49FA
+Change Component DesignItemId : Designator=K8 Old DesignItemId=PCN-124D3MHZ New DesignItemId=JZC-49FA
+Change Component DesignItemId : Designator=K9 Old DesignItemId=PCN-124D3MHZ New DesignItemId=JZC-49FA
+Change Component DesignItemId : Designator=K10 Old DesignItemId=PCN-124D3MHZ New DesignItemId=JZC-49FA
+Change Component DesignItemId : Designator=K11 Old DesignItemId=PCN-124D3MHZ New DesignItemId=JZC-49FA
+Change Component DesignItemId : Designator=K12 Old DesignItemId=PCN-124D3MHZ New DesignItemId=JZC-49FA
+Change Component Footprint: Designator=K1 Old Footprint=PCN-124D3MHZ New Footprint=JZC-49FA
+Change Component Footprint: Designator=K2 Old Footprint=PCN-124D3MHZ New Footprint=JZC-49FA
+Change Component Footprint: Designator=K3 Old Footprint=PCN-124D3MHZ New Footprint=JZC-49FA
+Change Component Footprint: Designator=K4 Old Footprint=PCN-124D3MHZ New Footprint=JZC-49FA
+Change Component Footprint: Designator=K5 Old Footprint=PCN-124D3MHZ New Footprint=JZC-49FA
+Change Component Footprint: Designator=K6 Old Footprint=PCN-124D3MHZ New Footprint=JZC-49FA
+Change Component Footprint: Designator=K7 Old Footprint=PCN-124D3MHZ New Footprint=JZC-49FA
+Change Component Footprint: Designator=K8 Old Footprint=PCN-124D3MHZ New Footprint=JZC-49FA
+Change Component Footprint: Designator=K9 Old Footprint=PCN-124D3MHZ New Footprint=JZC-49FA
+Change Component Footprint: Designator=K10 Old Footprint=PCN-124D3MHZ New Footprint=JZC-49FA
+Change Component Footprint: Designator=K11 Old Footprint=PCN-124D3MHZ New Footprint=JZC-49FA
+Change Component Footprint: Designator=K12 Old Footprint=PCN-124D3MHZ New Footprint=JZC-49FA
+Change Component Comment : Designator=R4 Old Comment=150 New Comment=150R
+Change Component Comment : Designator=K1 Old Comment=PCN-124D3MHZ New Comment=JZC-49FA/024-1H1(555)
+Change Component Comment : Designator=K2 Old Comment=PCN-124D3MHZ New Comment=JZC-49FA/024-1H1(555)
+Change Component Comment : Designator=K3 Old Comment=PCN-124D3MHZ New Comment=JZC-49FA/024-1H1(555)
+Change Component Comment : Designator=K4 Old Comment=PCN-124D3MHZ New Comment=JZC-49FA/024-1H1(555)
+Change Component Comment : Designator=K5 Old Comment=PCN-124D3MHZ New Comment=JZC-49FA/024-1H1(555)
+Change Component Comment : Designator=K6 Old Comment=PCN-124D3MHZ New Comment=JZC-49FA/024-1H1(555)
+Change Component Comment : Designator=K7 Old Comment=PCN-124D3MHZ New Comment=JZC-49FA/024-1H1(555)
+Change Component Comment : Designator=K8 Old Comment=PCN-124D3MHZ New Comment=JZC-49FA/024-1H1(555)
+Change Component Comment : Designator=K9 Old Comment=PCN-124D3MHZ New Comment=JZC-49FA/024-1H1(555)
+Change Component Comment : Designator=K10 Old Comment=PCN-124D3MHZ New Comment=JZC-49FA/024-1H1(555)
+Change Component Comment : Designator=K11 Old Comment=PCN-124D3MHZ New Comment=JZC-49FA/024-1H1(555)
+Change Component Comment : Designator=K12 Old Comment=PCN-124D3MHZ New Comment=JZC-49FA/024-1H1(555)
+Added Pin To Net: NetName=VALVE_DRIVER3_ON Pin=K5-3
+Added Pin To Net: NetName=VALVE_DRIVER3_ON Pin=LR8-1
+Added Net: Name=VALVE_DRIVER3_ON

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=5V Pin=C41-1
+Removed Pin From Net: NetName=GND Pin=C41-2
+Removed Pin From Net: NetName=5V Pin=C42-1
+Removed Pin From Net: NetName=GND Pin=C42-2
+Removed Pin From Net: NetName=GNDA Pin=P1-2
+Removed Pin From Net: NetName=GNDA Pin=P2-17
+Removed Member From Class: ClassName=cpuinterface Member=C41
+Removed Member From Class: ClassName=cpuinterface Member=C42
+Added Pin To Net: NetName=GNDA1 Pin=P1-2
+Added Net: Name=GNDA1
+Added Pin To Net: NetName=GNDA2 Pin=P2-17
+Added Net: Name=GNDA2

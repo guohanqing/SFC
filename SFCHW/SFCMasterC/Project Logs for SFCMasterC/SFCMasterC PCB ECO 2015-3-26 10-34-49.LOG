@@ -1,0 +1,13 @@
+Added Component: Designator=TF1(TF-PUSH)
+Added Pin To Net: NetName=SPI_SD_NSS Pin=TF1-2
+Added Pin To Net: NetName=FLASH_SPI3_MOSI Pin=TF1-3
+Added Pin To Net: NetName=3.3V Pin=TF1-4
+Added Pin To Net: NetName=FLASH_SPI3_SCK Pin=TF1-5
+Added Pin To Net: NetName=GND Pin=TF1-6
+Added Pin To Net: NetName=FLASH_SPI3_MISO Pin=TF1-7
+Added Pin To Net: NetName=SPI_SD_CD Pin=TF1-9
+Added Pin To Net: NetName=GND Pin=TF1-10
+Added Pin To Net: NetName=GND Pin=TF1-10
+Added Pin To Net: NetName=GND Pin=TF1-10
+Added Pin To Net: NetName=GND Pin=TF1-10
+Added Member To Class: ClassName=cpuinterface Member=Component TF1 TF

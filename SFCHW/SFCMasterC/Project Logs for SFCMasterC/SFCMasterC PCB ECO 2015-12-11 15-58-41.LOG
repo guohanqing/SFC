@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DETECT_IN9 Pin=U1-70
+Removed Pin From Net: NetName=SPI1_LCD_A0 Pin=U1-88
+Added Pin To Net: NetName=SPI1_LCD_A0 Pin=U1-70
+Added Pin To Net: NetName=DETECT_IN9 Pin=U1-88

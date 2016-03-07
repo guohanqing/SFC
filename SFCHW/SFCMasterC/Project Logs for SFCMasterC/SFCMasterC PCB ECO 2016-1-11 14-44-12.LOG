@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=USART6_WIFI_LINK Pin=U1-29
+Removed Pin From Net: NetName=USART6_WIFI_PROG Pin=U1-30
+Removed Pin From Net: NetName=SUB_SYS_RST Pin=U1-31
+Removed Pin From Net: NetName=SPI1_LCD_SCK Pin=U1-89
+Removed Pin From Net: NetName=SPI1_LCD_MISO Pin=U1-90
+Removed Pin From Net: NetName=SPI1_LCD_NSS Pin=U1-92
+Added Pin To Net: NetName=SPI1_LCD_NSS Pin=U1-29
+Added Pin To Net: NetName=SPI1_LCD_SCK Pin=U1-30
+Added Pin To Net: NetName=SPI1_LCD_MISO Pin=U1-31
+Added Pin To Net: NetName=USART6_WIFI_LINK Pin=U1-89
+Added Pin To Net: NetName=USART6_WIFI_PROG Pin=U1-90
+Added Pin To Net: NetName=SUB_SYS_RST Pin=U1-92

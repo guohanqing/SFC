@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ETH_PHY_MDIO_DRV Pin=P1-8
+Removed Pin From Net: NetName=ETH_RMII_CRS_DV_DRV Pin=P1-9
+Added Pin To Net: NetName=ETH_RMII_CRS_DV_DRV Pin=P1-8
+Added Pin To Net: NetName=ETH_PHY_MDIO_DRV Pin=P1-9

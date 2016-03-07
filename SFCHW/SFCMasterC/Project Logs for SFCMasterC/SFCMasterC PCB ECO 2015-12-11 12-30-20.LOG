@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=USART6_WIFI_PROG Pin=U1-90
+Removed Pin From Net: NetName=DETECT_IN7 Pin=U1-93
+Added Pin To Net: NetName=DETECT_IN7 Pin=U1-90
+Added Pin To Net: NetName=USART6_WIFI_PROG Pin=U1-93

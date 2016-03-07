@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=3.3V_LK Pin=P2-1
+Removed Pin From Net: NetName=KEY_UP_LK Pin=P2-2
+Removed Pin From Net: NetName=KEY_DOWN_LK Pin=P2-3
+Removed Pin From Net: NetName=KEY_LEFT_LK Pin=P2-4
+Removed Pin From Net: NetName=KEY_RIGHT_LK Pin=P2-5
+Removed Pin From Net: NetName=KEY_ESC_LK Pin=P2-6
+Removed Pin From Net: NetName=KEY_ENTER_LK Pin=P2-7
+Removed Pin From Net: NetName=GND_LK Pin=P2-8
+Added Pin To Net: NetName=GND_LK Pin=P2-1
+Added Pin To Net: NetName=KEY_ENTER_LK Pin=P2-2
+Added Pin To Net: NetName=KEY_ESC_LK Pin=P2-3
+Added Pin To Net: NetName=KEY_RIGHT_LK Pin=P2-4
+Added Pin To Net: NetName=KEY_LEFT_LK Pin=P2-5
+Added Pin To Net: NetName=KEY_DOWN_LK Pin=P2-6
+Added Pin To Net: NetName=KEY_UP_LK Pin=P2-7
+Added Pin To Net: NetName=3.3V_LK Pin=P2-8

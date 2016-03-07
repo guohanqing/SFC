@@ -1,0 +1,10 @@
+Field=Comment~String~Comment~150|Field=Description~String~Description~269|Field=Designator~String~Designator~110|Field=Footprint~String~Footprint~110|Field=Quantity~Integer~Quantity~111|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~SFCMasterL.PrjPCB|ReportField=ProjectFullPath~E:\SFC\SFCHW\SFCMasterL\SFCMasterL.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [SFCmasterL.PcbDoc]|ReportField=TotalQuantity~29|ReportField=ReportTime~13:48:59|ReportField=ReportDate~2015/1/16|ReportField=ReportDateTime~2015/1/16 13:48:59|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~SFCmasterL.PcbDoc|ReportField=DataSourceFullPath~E:\SFC\SFCHW\SFCMasterL\SFCmasterL.PcbDoc
+0.1uF|Capacitor|C1, C2, C3, C4, C6, C7, C8, C9, C10, C11|CAPC2012M|10
+10uF|Capacitor|C5|CAPC2012M|1
+Header 7|Header, 7-Pin|P1|HDR1X7|1
+Header 8|Header, 8-Pin|P2|HDR1X8|1
+Header 14|Header, 14-Pin|P3|FPC14|1
+SS8550|PNP General Purpose Amplifier|Q1|SOT-23_N|1
+1K|Resistor|R1|RESC2012M|1
+10K|Resistor|R2, R3, R4, R5, R6, R7, R8|RESC2012M|7
+SW-PBD|Switch|S1, S2, S3, S4, S5, S6|PBST-4|6

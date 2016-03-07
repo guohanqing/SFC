@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RMT_STARTUP_DRV Pin=P2-6
+Removed Pin From Net: NetName=DP_STARTUP_DRV Pin=P2-7
+Added Pin To Net: NetName=DP_STARTUP_DRV Pin=P2-6
+Added Pin To Net: NetName=RMT_STARTUP_DRV Pin=P2-7

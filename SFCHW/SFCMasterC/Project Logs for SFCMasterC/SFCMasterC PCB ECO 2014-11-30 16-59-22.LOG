@@ -1,0 +1,116 @@
+Removed Pin From Net: NetName=VBAT Pin=C24-1
+Removed Pin From Net: NetName=VBAT Pin=P1-1
+Removed Pin From Net: NetName=OTG_FS_DM Pin=R53-2
+Removed Pin From Net: NetName=OTG_FS_DP Pin=R54-2
+Removed Pin From Net: NetName=OTG_FS_VBUS Pin=R56-2
+Removed Pin From Net: NetName=OTG_FS_VBUS Pin=U1-68
+Removed Pin From Net: NetName=NetR53_1 Pin=U8-6
+Removed Pin From Net: NetName=NetR53_1 Pin=USB1-2
+Removed Pin From Net: NetName=NetC47_1 Pin=USB1-9
+Removed Member From Class: ClassName=cpuotg Member=R53
+Removed Member From Class: ClassName=cpuotg Member=R54
+Removed Member From Class: ClassName=cpuotg Member=R56
+Change Component DesignItemId : Designator=USB1 Old DesignItemId=USB OTG New DesignItemId=USB_MICRO
+Change Component Footprint: Designator=USB1 Old Footprint=USB-MINI1 New Footprint=USB_MICRO
+Change Component Comment : Designator=R56 Old Comment=10K New Comment=3K
+Change Component Comment : Designator=R53 Old Comment=22 New Comment=1K
+Change Component Comment : Designator=R54 Old Comment=22 New Comment=1K
+Change Component Comment : Designator=D8 Old Comment=ERR New Comment=Green
+Change Component Comment : Designator=D23 Old Comment=ERR New Comment=Red
+Change Component Comment : Designator=D1 Old Comment=RUN New Comment=Green
+Change Component Comment : Designator=D2 Old Comment=RUN New Comment=Green
+Change Component Comment : Designator=D3 Old Comment=RUN New Comment=Green
+Change Component Comment : Designator=D4 Old Comment=RUN New Comment=Green
+Change Component Comment : Designator=D5 Old Comment=RUN New Comment=Green
+Change Component Comment : Designator=D6 Old Comment=RUN New Comment=Green
+Change Component Comment : Designator=D7 Old Comment=RUN New Comment=Green
+Change Component Comment : Designator=D9 Old Comment=RUN New Comment=Green
+Change Component Comment : Designator=D10 Old Comment=RUN New Comment=Green
+Change Component Comment : Designator=D11 Old Comment=RUN New Comment=Green
+Change Component Comment : Designator=D12 Old Comment=RUN New Comment=Green
+Change Component Comment : Designator=D13 Old Comment=RUN New Comment=Green
+Change Component Comment : Designator=D14 Old Comment=RUN New Comment=Green
+Change Component Comment : Designator=D15 Old Comment=RUN New Comment=Green
+Change Component Comment : Designator=D16 Old Comment=RUN New Comment=Green
+Change Component Comment : Designator=D17 Old Comment=RUN New Comment=Green
+Change Component Comment : Designator=D18 Old Comment=RUN New Comment=Green
+Change Component Comment : Designator=D19 Old Comment=RUN New Comment=Green
+Change Component Comment : Designator=D20 Old Comment=RUN New Comment=Green
+Change Component Comment : Designator=D21 Old Comment=RUN New Comment=Green
+Change Component Comment : Designator=D22 Old Comment=RUN New Comment=Green
+Change Component Comment : Designator=USB1 Old Comment=USB OTG New Comment=USB_MICRO
+Change Component Description : Designator=D8 Old Description=Red LED,Can bus indicator for err status. New Description=Green LED,Output indicate.
+Change Component Description : Designator=D23 Old Description=Red LED,Can bus indicator for err status. New Description=Red LED,Output indicate.
+Added Component: Designator=C48(CAPC2012M)
+Added Component: Designator=C49(CAPC2012M)
+Added Component: Designator=C50(CAPC2012M)
+Added Component: Designator=C51(CAPC2012M)
+Added Component: Designator=C52(CAPC2012M)
+Added Component: Designator=C53(CAPC2012M)
+Added Component: Designator=C54(CAPC2012M)
+Added Component: Designator=D25(CD2012-0805)
+Added Component: Designator=D26(CD2012-0805)
+Added Component: Designator=L1(WCM-2012HS-900T)
+Added Component: Designator=LR3(INDC2012M)
+Added Component: Designator=U9(SOT-23_M)
+Added Component: Designator=U10(NSO8_TP4056)
+Added Pin To Net: NetName=OTG_FS_VBUS Pin=C48-1
+Added Pin To Net: NetName=GND Pin=C48-2
+Added Pin To Net: NetName=GND Pin=C49-2
+Added Pin To Net: NetName=5V Pin=C50-1
+Added Pin To Net: NetName=GND Pin=C50-2
+Added Pin To Net: NetName=5V Pin=C51-1
+Added Pin To Net: NetName=GND Pin=C51-2
+Added Pin To Net: NetName=GND Pin=C52-2
+Added Pin To Net: NetName=VBAT Pin=C53-1
+Added Pin To Net: NetName=GND Pin=C53-2
+Added Pin To Net: NetName=GND Pin=C54-2
+Added Pin To Net: NetName=5V Pin=D25-1
+Added Pin To Net: NetName=5V Pin=D26-1
+Added Pin To Net: NetName=OTG_FS_DP Pin=L1-1
+Added Pin To Net: NetName=OTG_FS_DM Pin=L1-2
+Added Pin To Net: NetName=OTG_FS_VBUS Pin=LR3-1
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=VBAT Pin=U9-2
+Added Pin To Net: NetName=GND Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Pin To Net: NetName=5V Pin=U10-4
+Added Pin To Net: NetName=NetR53_1 Pin=U10-6
+Added Pin To Net: NetName=5V Pin=U10-8
+Change Net Name : Old Net Name=OTG_FS_VBUS New Net Name=NetC48_1
+Added Pin To Net: NetName=NetD25_2 Pin=D25-2
+Added Pin To Net: NetName=NetD25_2 Pin=R53-2
+Added Net: Name=NetD25_2
+Added Pin To Net: NetName=NetD26_2 Pin=D26-2
+Added Pin To Net: NetName=NetD26_2 Pin=R54-1
+Added Net: Name=NetD26_2
+Added Pin To Net: NetName=NetL1_3 Pin=L1-3
+Added Pin To Net: NetName=NetL1_3 Pin=U8-1
+Added Pin To Net: NetName=NetL1_3 Pin=USB1-3
+Added Net: Name=NetL1_3
+Added Pin To Net: NetName=NetL1_4 Pin=L1-4
+Added Pin To Net: NetName=NetL1_4 Pin=U8-6
+Added Pin To Net: NetName=NetL1_4 Pin=USB1-2
+Added Net: Name=NetL1_4
+Added Pin To Net: NetName=NetR54_2 Pin=R54-2
+Added Pin To Net: NetName=NetR54_2 Pin=U10-7
+Added Net: Name=NetR54_2
+Added Pin To Net: NetName=NetR56_2 Pin=R56-2
+Added Pin To Net: NetName=NetR56_2 Pin=U10-2
+Added Net: Name=NetR56_2
+Added Pin To Net: NetName=OTG_FS_VBUS Pin=C49-1
+Added Pin To Net: NetName=OTG_FS_VBUS Pin=LR3-2
+Added Pin To Net: NetName=OTG_FS_VBUS Pin=U1-68
+Added Net: Name=OTG_FS_VBUS
+Added Pin To Net: NetName=VBAT_SRC Pin=C24-1
+Added Pin To Net: NetName=VBAT_SRC Pin=C52-1
+Added Pin To Net: NetName=VBAT_SRC Pin=C54-1
+Added Pin To Net: NetName=VBAT_SRC Pin=P1-1
+Added Pin To Net: NetName=VBAT_SRC Pin=U9-3
+Added Pin To Net: NetName=VBAT_SRC Pin=U10-5
+Added Net: Name=VBAT_SRC
+Added Class: Name=cpupwrbackup
+Added Member To Class: ClassName=cpuotg Member=Component C48 0.1uF
+Added Member To Class: ClassName=cpuotg Member=Component C49 0.1uF
+Added Member To Class: ClassName=cpuotg Member=Component L1 WCM-2012HS-900T
+Added Member To Class: ClassName=cpuotg Member=Component LR3 CBG201209U102

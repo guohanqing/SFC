@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=WIFI_USART6_LINK Pin=D8-2
+Removed Pin From Net: NetName=WIFI_USART6_TRANS Pin=D9-2
+Removed Pin From Net: NetName=USART2_LINK Pin=D22-2
+Removed Pin From Net: NetName=USART1_LINK Pin=D25-2
+Removed Pin From Net: NetName=5V Pin=D26-1
+Removed Pin From Net: NetName=3.3V Pin=R45-1
+Removed Pin From Net: NetName=SPI_SD_NSS Pin=TF1-1
+Removed Pin From Net: NetName=FLASH_SPI3_MOSI Pin=TF1-2
+Removed Pin From Net: NetName=GND Pin=TF1-3
+Removed Member From Class: ClassName=cpuledout Member=D25
+Removed Member From Class: ClassName=cpupwrbackup Member=D26
+Removed Member From Class: ClassName=cpuledout Member=R45
+Added Pin To Net: NetName=USART2_LINK Pin=D8-2
+Added Pin To Net: NetName=USART1_LINK Pin=D9-2
+Added Pin To Net: NetName=WIFI_USART6_LINK Pin=D22-2
+Added Pin To Net: NetName=5V Pin=D25-1
+Added Pin To Net: NetName=SPI_SD_NSS Pin=TF1-2
+Added Pin To Net: NetName=FLASH_SPI3_MOSI Pin=TF1-3
+Added Pin To Net: NetName=GND Pin=TF1-6
+Added Pin To Net: NetName=WIFI_USART6_TRANS Pin=TF1-9
+Change Net Name : Old Net Name=WIFI_USART6_TRANS New Net Name=SPI_SD_CD
+Added Pin To Net: NetName=NetD25_2 Pin=D25-2
+Added Pin To Net: NetName=NetD25_2 Pin=R54-1
+Added Net: Name=NetD25_2
+Added Member To Class: ClassName=cpupwrbackup Member=Component D25 Green

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=Y3-2
+Removed Pin From Net: NetName=HSE_CLK Pin=Y3-3
+Removed Pin From Net: NetName=3.3V Pin=Y3-4
+Added Component: Designator=Y3(X-CP3225)
+Added Pin To Net: NetName=5V Pin=C20-2
+Added Pin To Net: NetName=5V Pin=C21-2
+Added Pin To Net: NetName=5V Pin=DP1-1
+Added Pin To Net: NetName=5V Pin=U7-2
+Added Pin To Net: NetName=5V Pin=U9-5
+Added Pin To Net: NetName=GND Pin=Y3-2
+Added Pin To Net: NetName=HSE_CLK Pin=Y3-3
+Added Pin To Net: NetName=3.3V Pin=Y3-4
+Change Net Name : Old Net Name=5V New Net Name=5VA

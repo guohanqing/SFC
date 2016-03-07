@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=MCU_RXD1 Pin=P1-2
+Removed Pin From Net: NetName=MCU_RXD1 Pin=P1-3
+Removed Pin From Net: NetName=MCU_RXD1 Pin=P2-2
+Removed Pin From Net: NetName=MCU_RXD1 Pin=P2-3
+Removed Pin From Net: NetName=GND Pin=P3-1
+Removed Pin From Net: NetName=MCU_RXD1 Pin=P3-2
+Removed Pin From Net: NetName=MCU_RXD1 Pin=P3-3
+Removed Pin From Net: NetName=GND Pin=P6-1
+Removed Pin From Net: NetName=MCU_RXD1 Pin=P6-3
+Removed Pin From Net: NetName=MCU_RXD1 Pin=P7-2
+Removed Pin From Net: NetName=MCU_RXD1 Pin=P7-3
+Removed Pin From Net: NetName=GND Pin=P8-1
+Removed Pin From Net: NetName=MCU_RXD1 Pin=P8-2
+Removed Pin From Net: NetName=MCU_RXD1 Pin=P8-3
+Removed Pin From Net: NetName=3.3V Pin=P9-1
+Removed Pin From Net: NetName=GND Pin=P10-1
+Removed Pin From Net: NetName=MCU_RXD1 Pin=P10-3
+Removed Pin From Net: NetName=MCU_RXD1 Pin=R1-1
+Removed Pin From Net: NetName=MCU_RXD1 Pin=R2-1
+Change Component Footprint: Designator=S1 Old Footprint=SW-9.5x3.5x3.5R New Footprint=SW-9.5x3.5x3.5
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=MCU_RXD1 Pin=P6-1
+Added Pin To Net: NetName=GND Pin=P6-3
+Added Pin To Net: NetName=GND Pin=P8-3
+Added Pin To Net: NetName=MCU_RXD1 Pin=P10-1
+Added Pin To Net: NetName=GND Pin=P10-3
+Change Net Name : Old Net Name=MCU_RXD1 New Net Name=MCU_RXD2
+Added Pin To Net: NetName=MCU_RXD1 Pin=P1-2
+Added Pin To Net: NetName=MCU_RXD1 Pin=P2-2
+Added Pin To Net: NetName=MCU_RXD1 Pin=P3-1
+Added Net: Name=MCU_RXD1
+Added Pin To Net: NetName=MCU_TXD1 Pin=P1-3
+Added Pin To Net: NetName=MCU_TXD1 Pin=P2-3
+Added Pin To Net: NetName=MCU_TXD1 Pin=P3-2
+Added Net: Name=MCU_TXD1
+Added Pin To Net: NetName=NetP7_2 Pin=P7-2
+Added Pin To Net: NetName=NetP7_2 Pin=P8-1
+Added Pin To Net: NetName=NetP7_2 Pin=R2-1
+Added Net: Name=NetP7_2
+Added Pin To Net: NetName=NetP7_3 Pin=P7-3
+Added Pin To Net: NetName=NetP7_3 Pin=P8-2
+Added Pin To Net: NetName=NetP7_3 Pin=R1-1
+Added Net: Name=NetP7_3
+Added Member To Class: ClassName=SFCRS232 Member=Component J1 PWRCON
+Added Member To Class: ClassName=SFCRS232 Member=Component P1 Header 4-5.08
+Added Room: Name=SFCRS232

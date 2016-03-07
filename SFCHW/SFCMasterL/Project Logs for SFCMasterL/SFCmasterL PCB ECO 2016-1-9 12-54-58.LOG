@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=KEY_INT Pin=D6-1
+Removed Pin From Net: NetName=KEY_ESC Pin=P1-8
+Removed Pin From Net: NetName=3.3V Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=S6-3
+Removed Pin From Net: NetName=GND Pin=S6-4
+Removed Member From Class: ClassName=lcd&key Member=C11
+Removed Member From Class: ClassName=lcd&key Member=D6
+Removed Member From Class: ClassName=lcd&key Member=R8
+Removed Member From Class: ClassName=lcd&key Member=S6
+Added Pin To Net: NetName=KEY_ESC Pin=P1-7
+Added Pin To Net: NetName=SPI1_LCD_RST Pin=P1-8
+Change Net Name : Old Net Name=KEY_ESC New Net Name=KEY_ENTER
+Change Net Name : Old Net Name=SPI1_LCD_RST New Net Name=LCD_RESET

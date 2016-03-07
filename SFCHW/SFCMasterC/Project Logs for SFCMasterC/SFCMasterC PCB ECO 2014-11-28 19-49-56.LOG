@@ -1,0 +1,11 @@
+Added Component: Designator=USB1(USB/SM0.8-4H5)
+Added Pin To Net: NetName=OTG_FS_VBUS Pin=USB1-1
+Added Pin To Net: NetName=NetR53_1 Pin=USB1-2
+Added Pin To Net: NetName=NetR54_1 Pin=USB1-3
+Added Pin To Net: NetName=OTG_FS_ID Pin=USB1-4
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=NetC47_1 Pin=USB1-6
+Added Pin To Net: NetName=NetC47_1 Pin=USB1-7
+Added Pin To Net: NetName=NetC47_1 Pin=USB1-8
+Added Pin To Net: NetName=NetC47_1 Pin=USB1-9
+Added Member To Class: ClassName=cpuotg Member=Component USB1 USB OTG

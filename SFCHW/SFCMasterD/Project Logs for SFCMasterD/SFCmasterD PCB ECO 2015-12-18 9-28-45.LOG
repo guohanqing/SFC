@@ -1,0 +1,18 @@
+Added Component: Designator=U15(SOIC16_N)
+Added Pin To Net: NetName=3.3V Pin=U15-1
+Added Pin To Net: NetName=NetR60_2 Pin=U15-2
+Added Pin To Net: NetName=3.3V Pin=U15-3
+Added Pin To Net: NetName=NetR61_2 Pin=U15-4
+Added Pin To Net: NetName=3.3V Pin=U15-5
+Added Pin To Net: NetName=NetR62_2 Pin=U15-6
+Added Pin To Net: NetName=3.3V Pin=U15-7
+Added Pin To Net: NetName=NetR63_2 Pin=U15-8
+Added Pin To Net: NetName=NetD24_2 Pin=U15-9
+Added Pin To Net: NetName=24V Pin=U15-10
+Added Pin To Net: NetName=NetD22_2 Pin=U15-11
+Added Pin To Net: NetName=24V Pin=U15-12
+Added Pin To Net: NetName=NetD20_2 Pin=U15-13
+Added Pin To Net: NetName=24V Pin=U15-14
+Added Pin To Net: NetName=NetD18_2 Pin=U15-15
+Added Pin To Net: NetName=24V Pin=U15-16
+Added Member To Class: ClassName=drvoutput2 Member=Component U15 PS2801-4

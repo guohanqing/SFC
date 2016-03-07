@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=DRAIN Pin=D5-1
+Removed Pin From Net: NetName=DRAIN Pin=T2-4
+Removed Pin From Net: NetName=DRAIN Pin=U7-4
+Change Component Comment : Designator=U3 Old Comment=TNY280PN(GN) New Comment=TNY275PN(GN)
+Change Net Name : Old Net Name=DRAIN New Net Name=NetD3_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=T2-4
+Added Pin To Net: NetName=NetD5_1 Pin=U7-4
+Added Net: Name=NetD5_1

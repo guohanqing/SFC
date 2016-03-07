@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=KEY_ENTER Pin=P2-1
+Removed Pin From Net: NetName=KEY_ESC Pin=P2-2
+Removed Pin From Net: NetName=KEY_RIGHT Pin=P2-3
+Removed Pin From Net: NetName=KEY_LEFT Pin=P2-4
+Removed Pin From Net: NetName=KEY_DOWN Pin=P2-5
+Removed Pin From Net: NetName=KEY_UP Pin=P2-6
+Removed Pin From Net: NetName=GND Pin=P2-7
+Removed Pin From Net: NetName=3.3V Pin=P2-8
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X8SMTA New Footprint=HDR1X8SMTB
+Added Pin To Net: NetName=3.3V Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=KEY_UP Pin=P2-3
+Added Pin To Net: NetName=KEY_DOWN Pin=P2-4
+Added Pin To Net: NetName=KEY_LEFT Pin=P2-5
+Added Pin To Net: NetName=KEY_RIGHT Pin=P2-6
+Added Pin To Net: NetName=KEY_ESC Pin=P2-7
+Added Pin To Net: NetName=KEY_ENTER Pin=P2-8

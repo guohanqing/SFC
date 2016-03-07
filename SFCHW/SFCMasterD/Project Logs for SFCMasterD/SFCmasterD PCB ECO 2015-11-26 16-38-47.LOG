@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=PLUS_CAP_IN_PORT Pin=P4-1
+Removed Pin From Net: NetName=GNDA Pin=P4-2
+Removed Pin From Net: NetName=DP_STARTUP_PORT Pin=P4-3
+Removed Pin From Net: NetName=GNDA Pin=P4-4
+Removed Pin From Net: NetName=RMT_STARUP_PORT Pin=P4-5
+Removed Pin From Net: NetName=GNDA Pin=P4-6
+Removed Pin From Net: NetName=LEVEL_HIGHT1_PORT Pin=P4-7
+Removed Pin From Net: NetName=GNDA Pin=P4-8
+Removed Pin From Net: NetName=LEVEL_LOW1_PORT Pin=P4-9
+Removed Pin From Net: NetName=GNDA Pin=P4-10
+Removed Pin From Net: NetName=LEVEL_HIGHT2_PORT Pin=P4-11
+Removed Pin From Net: NetName=GNDA Pin=P4-12
+Removed Pin From Net: NetName=LEVEL_LOW2_PORT Pin=P4-13
+Removed Pin From Net: NetName=24V Pin=P4-15
+Removed Pin From Net: NetName=GNDA Pin=P4-16
+Change Component DesignItemId : Designator=P4 Old DesignItemId=Header 8X2 New DesignItemId=Header 7X2
+Change Component Footprint: Designator=P4 Old Footprint=DG127A-5.0-8 New Footprint=DG127A-5.0-7
+Change Component Footprint: Designator=P6 Old Footprint=DG128-5.0-3 New Footprint=HDR1X3H-5.08
+Change Component Comment : Designator=P4 Old Comment=Header 8X2 New Comment=Header 7X2
+Added Component: Designator=P11(DG128-5.0-3)
+Added Pin To Net: NetName=24V Pin=P4-1
+Added Pin To Net: NetName=24V Pin=P4-3
+Added Pin To Net: NetName=24V Pin=P4-5
+Added Pin To Net: NetName=24V Pin=P4-7
+Added Pin To Net: NetName=24V Pin=P4-9
+Added Pin To Net: NetName=LEVEL_HIGHT2_PORT Pin=P4-10
+Added Pin To Net: NetName=24V Pin=P4-11
+Added Pin To Net: NetName=24V Pin=P4-13
+Added Pin To Net: NetName=24V Pin=P11-1
+Added Pin To Net: NetName=PLUS_CAP_IN_PORT Pin=P11-2
+Added Pin To Net: NetName=GNDA Pin=P11-3
+Added Member To Class: ClassName=drvamap Member=Component P11 Header 3

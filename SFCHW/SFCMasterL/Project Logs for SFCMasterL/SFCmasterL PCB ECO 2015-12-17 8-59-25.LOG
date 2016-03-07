@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=SPI1_LCD_A0 Pin=P3-7
+Added Pin To Net: NetName=SPI1_LCD_MOSI Pin=P3-8
+Added Pin To Net: NetName=SPI1_LCD_SCK Pin=P3-9
+Added Pin To Net: NetName=SPI1_LCD_NSS Pin=P3-12
+Added Pin To Net: NetName=SPI1_LCD_BL Pin=R1-2
+Change Net Name : Old Net Name=LCD_RST New Net Name=SPI1_LCD_RST

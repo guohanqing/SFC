@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=3.3V Pin=C13-2
+Removed Pin From Net: NetName=3.3V Pin=C14-2
+Removed Pin From Net: NetName=MCU_TXD1 Pin=S2-1
+Removed Pin From Net: NetName=MCU_TXD Pin=S2-2
+Removed Pin From Net: NetName=MCU_TXD2 Pin=S2-3
+Removed Pin From Net: NetName=MCU_RXD2 Pin=S2-4
+Removed Pin From Net: NetName=MCU_RXD Pin=S2-5
+Removed Pin From Net: NetName=MCU_RXD1 Pin=S2-6
+Removed Pin From Net: NetName=RS232_TXD1 Pin=S3-1
+Removed Pin From Net: NetName=NetJ2_2 Pin=S3-2
+Removed Pin From Net: NetName=RS232_TXD2 Pin=S3-3
+Removed Pin From Net: NetName=RS232_RXD2 Pin=S3-4
+Removed Pin From Net: NetName=NetJ2_3 Pin=S3-5
+Removed Pin From Net: NetName=RS232_RXD1 Pin=S3-6
+Removed Pin From Net: NetName=3.3V Pin=U3-2
+Change Component DesignItemId : Designator=S2 Old DesignItemId=SW-DPDT New DesignItemId=SW-SPDT_1
+Change Component Footprint: Designator=S2 Old Footprint=SW-9.5x3.5x3.5 New Footprint=SW-3-SIP
+Change Component Comment : Designator=S2 Old Comment=SW-DPDT New Comment=SW-SPDT
+Added Component: Designator=S3(SW-9.5x3.5x3.5)
+Added Component: Designator=S4(SW-9.5x3.5x3.5)
+Added Pin To Net: NetName=3.3V Pin=S2-1
+Added Pin To Net: NetName=MCU_TXD1 Pin=S3-1
+Added Pin To Net: NetName=MCU_TXD Pin=S3-2
+Added Pin To Net: NetName=MCU_TXD2 Pin=S3-3
+Added Pin To Net: NetName=MCU_RXD2 Pin=S3-4
+Added Pin To Net: NetName=MCU_RXD Pin=S3-5
+Added Pin To Net: NetName=MCU_RXD1 Pin=S3-6
+Added Pin To Net: NetName=RS232_TXD1 Pin=S4-1
+Added Pin To Net: NetName=NetJ2_2 Pin=S4-2
+Added Pin To Net: NetName=RS232_TXD2 Pin=S4-3
+Added Pin To Net: NetName=RS232_RXD2 Pin=S4-4
+Added Pin To Net: NetName=NetJ2_3 Pin=S4-5
+Added Pin To Net: NetName=RS232_RXD1 Pin=S4-6
+Added Pin To Net: NetName=3.3VA Pin=C13-2
+Added Pin To Net: NetName=3.3VA Pin=C14-2
+Added Pin To Net: NetName=3.3VA Pin=S2-2
+Added Pin To Net: NetName=3.3VA Pin=U3-2
+Added Net: Name=3.3VA
+Added Member To Class: ClassName=SFCRS232 Member=Component S4 SW-DPDT

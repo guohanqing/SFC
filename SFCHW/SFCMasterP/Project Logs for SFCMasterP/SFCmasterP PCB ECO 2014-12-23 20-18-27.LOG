@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=12V_PWR New Net Name=12V
+Change Net Name : Old Net Name=24V_PWR New Net Name=24V
+Change Net Name : Old Net Name=FG_PWR New Net Name=FG
+Change Net Name : Old Net Name=GND_PWR New Net Name=GND
+Change Net Name : Old Net Name=GNDA_PWR New Net Name=GNDA
+Change Net Name : Old Net Name=VBAT_PWR New Net Name=VBAT

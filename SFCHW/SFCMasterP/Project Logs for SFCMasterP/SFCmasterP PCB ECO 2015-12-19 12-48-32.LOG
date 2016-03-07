@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=9V Pin=P2-3
+Added Component: Designator=C21(CAPC3216M)
+Added Component: Designator=C22(CAPPR2.5-6.3x11.5)
+Added Component: Designator=C23(CAPC3216M)
+Added Component: Designator=D6(SMB)
+Added Component: Designator=L7(L0810)
+Added Component: Designator=U8(TO-220-5)
+Added Pin To Net: NetName=9V Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=9V Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-3
+Added Pin To Net: NetName=GND Pin=U8-5
+Change Net Name : Old Net Name=5V New Net Name=5VA
+Added Pin To Net: NetName=5V Pin=C22-1
+Added Pin To Net: NetName=5V Pin=C23-2
+Added Pin To Net: NetName=5V Pin=L7-2
+Added Pin To Net: NetName=5V Pin=P2-3
+Added Pin To Net: NetName=5V Pin=U8-4
+Added Net: Name=5V
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=L7-1
+Added Pin To Net: NetName=NetD6_2 Pin=U8-2
+Added Net: Name=NetD6_2
+Added Member To Class: ClassName=powerA Member=Component C21 0.1uF
+Added Member To Class: ClassName=powerA Member=Component C22 220uF/10V
+Added Member To Class: ClassName=powerA Member=Component C23 0.1uF
+Added Member To Class: ClassName=powerA Member=Component D6 1N5825
+Added Member To Class: ClassName=powerA Member=Component L7 33uH/3A
+Added Member To Class: ClassName=powerA Member=Component U8 LM2596T-5.0

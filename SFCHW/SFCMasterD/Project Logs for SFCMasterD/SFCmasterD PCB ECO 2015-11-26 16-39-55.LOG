@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=DP_STARTUP_PORT Pin=P4-2
+Added Pin To Net: NetName=RMT_STARUP_PORT Pin=P4-4
+Added Pin To Net: NetName=LEVEL_HIGHT1_PORT Pin=P4-6
+Added Pin To Net: NetName=LEVEL_LOW1_PORT Pin=P4-8
+Added Pin To Net: NetName=LEVEL_LOW2_PORT Pin=P4-12

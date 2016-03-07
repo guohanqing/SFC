@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=12V_DRV Pin=P2-1
+Removed Pin From Net: NetName=GND_DRV Pin=P2-20
+Added Pin To Net: NetName=GND_DRV Pin=P2-1
+Added Pin To Net: NetName=12V_DRV Pin=P2-20

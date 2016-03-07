@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=Y2 Old Footprint=HC-RTC-H New Footprint=HC-RTC-L
+Added Component: Designator=C10(CAPC2012M)
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=3.3V Pin=C10-2
+Added Member To Class: ClassName=cpucore Member=Component C10 0.1uF

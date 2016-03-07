@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=3.3V Pin=R8-1
+Removed Pin From Net: NetName=USART1_TX Pin=R8-2
+Removed Pin From Net: NetName=3.3V Pin=R109-1
+Removed Pin From Net: NetName=CAN1_TX Pin=R109-2
+Removed Member From Class: ClassName=drvcomm Member=R8
+Removed Member From Class: ClassName=drvcomm Member=R109
+Change Component Comment : Designator=R9 Old Comment=4.7K New Comment=10K
+Change Component Comment : Designator=R110 Old Comment=4.7K New Comment=10K

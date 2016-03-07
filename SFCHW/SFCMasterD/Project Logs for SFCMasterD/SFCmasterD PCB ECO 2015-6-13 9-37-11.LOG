@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=MCO1 Pin=U6-43
+Added Component: Designator=C40(CAPC2012M)
+Added Component: Designator=R10(RESC2012M)
+Added Component: Designator=R11(RESC2012M)
+Added Component: Designator=Y1(X-CP3225)
+Added Pin To Net: NetName=3.3V Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=MCO1 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=3.3V Pin=Y1-4
+Added Pin To Net: NetName=HSE_CLK Pin=R11-1
+Added Pin To Net: NetName=HSE_CLK Pin=Y1-3
+Added Net: Name=HSE_CLK
+Added Pin To Net: NetName=MCO Pin=R10-2
+Added Pin To Net: NetName=MCO Pin=R11-2
+Added Pin To Net: NetName=MCO Pin=U6-43
+Added Net: Name=MCO
+Added Member To Class: ClassName=drveth Member=Component C40 0.1uF
+Added Member To Class: ClassName=drveth Member=Component R10 0R
+Added Member To Class: ClassName=drveth Member=Component R11 0R
+Added Member To Class: ClassName=drveth Member=Component Y1 XATLS

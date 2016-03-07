@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C7 Old Footprint=CAPD8062 New Footprint=CAPPR2.5-8X12
+Change Component Footprint: Designator=C5 Old Footprint=CAPD80102 New Footprint=CAPPR2.5-8X12
+Change Component Comment : Designator=C7 Old Comment=220uF/25V New Comment=220uF/16V
+Change Component Comment : Designator=C5 Old Comment=470uF/50V New Comment=330uF/25V

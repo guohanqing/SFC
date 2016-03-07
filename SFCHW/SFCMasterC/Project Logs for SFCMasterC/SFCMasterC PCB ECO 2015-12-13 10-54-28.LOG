@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CAN1_RX Pin=P1-23
+Removed Pin From Net: NetName=CAN1_TX Pin=P1-24
+Added Pin To Net: NetName=CAN1_TX Pin=P1-23
+Added Pin To Net: NetName=CAN1_RX Pin=P1-24

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND_DRV Pin=C2-2
+Removed Pin From Net: NetName=5V_DRV Pin=P1-1
+Removed Pin From Net: NetName=3.3V_DRV Pin=P1-2
+Removed Pin From Net: NetName=VBAT_DRV Pin=P1-3
+Removed Pin From Net: NetName=GND_DRV Pin=P1-4
+Added Pin To Net: NetName=VBAT_DRV Pin=P1-1
+Added Pin To Net: NetName=GND_DRV Pin=P1-2
+Added Pin To Net: NetName=5V_DRV Pin=P1-3
+Added Pin To Net: NetName=3.3V_DRV Pin=P1-4

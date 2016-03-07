@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=U1 Old DesignItemId=LM2575 New DesignItemId=LM2596S-5.0
+Change Component Footprint: Designator=L1 Old Footprint=CD127-330 New Footprint=CAPPR5-8x8A
+Change Component Footprint: Designator=U1 Old Footprint=TO-263-5L New Footprint=TO-263-5
+Change Component Comment : Designator=U1 Old Comment=LM2596R-5.0 New Comment=LM2596S-5.0
+Added Pin To Net: NetName=GNDA Pin=U1-6

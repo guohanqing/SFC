@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=DP_CHECK_IN New Net Name=ADC_IN3
+Added Pin To Net: NetName=ADC_IN0 Pin=U1-23
+Added Net: Name=ADC_IN0

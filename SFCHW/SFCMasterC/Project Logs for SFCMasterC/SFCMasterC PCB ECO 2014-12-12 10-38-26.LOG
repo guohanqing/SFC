@@ -1,0 +1,99 @@
+Removed Pin From Net: NetName=3.3V Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=TIM3_CH1_CAP Pin=P1-20
+Removed Pin From Net: NetName=3.3V Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=P3-2
+Removed Pin From Net: NetName=3.3V Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=P4-3
+Removed Pin From Net: NetName=3.3V Pin=Q22-2
+Removed Pin From Net: NetName=NetQ23_1 Pin=R47-2
+Removed Pin From Net: NetName=NetQ23_3 Pin=R51-1
+Removed Pin From Net: NetName=NetD23_1 Pin=R51-2
+Removed Pin From Net: NetName=TIM3_CH1_CAP Pin=U1-31
+Removed Pin From Net: NetName=RCT_AF Pin=U1-63
+Removed Pin From Net: NetName=ETH_PHY_RST Pin=U1-64
+Removed Pin From Net: NetName=LCD_SPI1_BL Pin=U1-85
+Removed Member From Class: ClassName=cpuinterface Member=C15
+Removed Member From Class: ClassName=cpuledout Member=D23
+Removed Member From Class: ClassName=cpuinterface Member=P4
+Removed Member From Class: ClassName=cpuledout Member=Q22
+Removed Member From Class: ClassName=cpuledout Member=R47
+Removed Member From Class: ClassName=cpuledout Member=R51
+Change Component DesignItemId : Designator=P3 Old DesignItemId=Header 8 New DesignItemId=Header 3
+Change Component Footprint: Designator=P3 Old Footprint=HDR1X8 New Footprint=HDR1X3
+Change Component Comment : Designator=R47 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R9 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R10 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R11 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R16 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R17 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R18 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R19 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R26 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R27 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R28 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R29 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R30 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R31 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R38 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R39 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R40 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R41 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R42 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R43 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R48 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R49 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R50 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R51 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=P3 Old Comment=Header 8 New Comment=Header 3
+Added Component: Designator=U11(ESP-12)
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=NetQ23_1 Pin=R46-2
+Added Pin To Net: NetName=5VOUT Pin=R47-1
+Added Pin To Net: NetName=NetD23_1 Pin=R47-2
+Added Pin To Net: NetName=NetQ23_3 Pin=R50-1
+Added Pin To Net: NetName=3.3V Pin=R51-2
+Added Pin To Net: NetName=ETH_PHY_RST Pin=U1-15
+Added Pin To Net: NetName=RCT_AF Pin=U1-31
+Added Pin To Net: NetName=LCD_SPI1_BL Pin=U1-84
+Added Pin To Net: NetName=3.3V Pin=U11-8
+Added Pin To Net: NetName=GND Pin=U11-9
+Added Pin To Net: NetName=GND Pin=U11-10
+Added Pin To Net: NetName=NetR51_1 Pin=R51-1
+Added Pin To Net: NetName=NetR51_1 Pin=U11-11
+Added Pin To Net: NetName=NetR51_1 Pin=U11-12
+Added Net: Name=NetR51_1
+Added Pin To Net: NetName=TIM2_CH3_CAP Pin=P1-20
+Added Pin To Net: NetName=TIM2_CH3_CAP Pin=U1-47
+Added Net: Name=TIM2_CH3_CAP
+Added Pin To Net: NetName=USART2_LINK Pin=R46-1
+Added Pin To Net: NetName=USART2_LINK Pin=U1-85
+Added Net: Name=USART2_LINK
+Added Pin To Net: NetName=USART3_RX Pin=P3-2
+Added Pin To Net: NetName=USART3_RX Pin=U1-56
+Added Net: Name=USART3_RX
+Added Pin To Net: NetName=USART3_TX Pin=P3-1
+Added Pin To Net: NetName=USART3_TX Pin=U1-55
+Added Net: Name=USART3_TX
+Added Pin To Net: NetName=WIFI_USART6_CS Pin=U1-17
+Added Pin To Net: NetName=WIFI_USART6_CS Pin=U11-3
+Added Net: Name=WIFI_USART6_CS
+Added Pin To Net: NetName=WIFI_USART6_LINK Pin=R20-1
+Added Pin To Net: NetName=WIFI_USART6_LINK Pin=U1-53
+Added Net: Name=WIFI_USART6_LINK
+Added Pin To Net: NetName=WIFI_USART6_RST Pin=U1-18
+Added Pin To Net: NetName=WIFI_USART6_RST Pin=U11-1
+Added Net: Name=WIFI_USART6_RST
+Added Pin To Net: NetName=WIFI_USART6_RX Pin=U1-64
+Added Pin To Net: NetName=WIFI_USART6_RX Pin=U11-15
+Added Net: Name=WIFI_USART6_RX
+Added Pin To Net: NetName=WIFI_USART6_TRANS Pin=R21-1
+Added Pin To Net: NetName=WIFI_USART6_TRANS Pin=U1-54
+Added Net: Name=WIFI_USART6_TRANS
+Added Pin To Net: NetName=WIFI_USART6_TX Pin=U1-63
+Added Pin To Net: NetName=WIFI_USART6_TX Pin=U11-16
+Added Net: Name=WIFI_USART6_TX
+Added Member To Class: ClassName=cpuinterface Member=Component D23 Red
+Added Member To Class: ClassName=cpuinterface Member=Component R47 10K
+Added Member To Class: ClassName=cpuinterface Member=Component R51 10K
+Added Member To Class: ClassName=cpuinterface Member=Component U11 ESP-12

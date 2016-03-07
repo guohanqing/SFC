@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=12V Pin=C27-1
+Removed Pin From Net: NetName=12V Pin=P2-20
+Removed Pin From Net: NetName=12V Pin=U3-3
+Added Component: Designator=P9(HDR1X6)
+Added Pin To Net: NetName=9V Pin=C27-1
+Added Pin To Net: NetName=9V Pin=P2-20
+Added Pin To Net: NetName=9V Pin=U3-3
+Added Net: Name=9V
+Added Pin To Net: NetName=SIG_IN1 Pin=P9-1
+Added Pin To Net: NetName=SIG_IN1 Pin=U1-90
+Added Net: Name=SIG_IN1
+Added Pin To Net: NetName=SIG_IN2 Pin=P9-2
+Added Pin To Net: NetName=SIG_IN2 Pin=U1-92
+Added Net: Name=SIG_IN2
+Added Pin To Net: NetName=SIG_IN3 Pin=P9-3
+Added Pin To Net: NetName=SIG_IN3 Pin=U1-93
+Added Net: Name=SIG_IN3
+Added Pin To Net: NetName=SIG_IN4 Pin=P9-4
+Added Pin To Net: NetName=SIG_IN4 Pin=U1-66
+Added Net: Name=SIG_IN4
+Added Pin To Net: NetName=SIG_IN5 Pin=P9-5
+Added Pin To Net: NetName=SIG_IN5 Pin=U1-81
+Added Net: Name=SIG_IN5
+Added Pin To Net: NetName=SIG_IN6 Pin=P9-6
+Added Pin To Net: NetName=SIG_IN6 Pin=U1-82
+Added Net: Name=SIG_IN6
+Added Member To Class: ClassName=cpuinterface Member=Component P9 Header 6

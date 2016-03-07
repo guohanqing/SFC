@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VDRIVER_OUT1 Pin=U1-1
+Removed Pin From Net: NetName=VDRIVER_OUT2 Pin=U1-2
+Removed Pin From Net: NetName=VDRIVER_OUT3 Pin=U1-3
+Removed Pin From Net: NetName=VDRIVER_OUT4 Pin=U1-4
+Removed Pin From Net: NetName=VDRIVER_OUT5 Pin=U1-5
+Removed Pin From Net: NetName=VMAIN_DRIVER Pin=U1-97
+Removed Pin From Net: NetName=VDLY_DRIVER Pin=U1-98
+Added Pin To Net: NetName=VDRIVER_OUT3 Pin=U1-1
+Added Pin To Net: NetName=VDRIVER_OUT4 Pin=U1-2
+Added Pin To Net: NetName=VDRIVER_OUT5 Pin=U1-3
+Added Pin To Net: NetName=VDLY_DRIVER Pin=U1-4
+Added Pin To Net: NetName=VMAIN_DRIVER Pin=U1-5
+Added Pin To Net: NetName=VDRIVER_OUT1 Pin=U1-97
+Added Pin To Net: NetName=VDRIVER_OUT2 Pin=U1-98

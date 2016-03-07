@@ -1,0 +1,7 @@
+Added Component: Designator=U4(TO-220-5)
+Added Pin To Net: NetName=24V Pin=U4-1
+Added Pin To Net: NetName=NetD5_2 Pin=U4-2
+Added Pin To Net: NetName=GNDA Pin=U4-3
+Added Pin To Net: NetName=5V Pin=U4-4
+Added Pin To Net: NetName=GNDA Pin=U4-5
+Added Member To Class: ClassName=powerB Member=Component U4 LM2596T-5.0

@@ -1,0 +1,52 @@
+Field=Comment~String~Comment~150|Field=Description~String~Description~269|Field=Designator~String~Designator~110|Field=Footprint~String~Footprint~110|Field=Quantity~Integer~Quantity~111|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~SFCMasterP.PrjPCB|ReportField=ProjectFullPath~E:\SFC\SFCHW\SFCMasterP\SFCMasterP.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [SFCmasterP.PcbDoc]|ReportField=TotalQuantity~67|ReportField=ReportTime~14:24:52|ReportField=ReportDate~2015/11/12|ReportField=ReportDateTime~2015/11/12 14:24:52|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~SFCmasterP.PcbDoc|ReportField=DataSourceFullPath~E:\SFC\SFCHW\SFCMasterP\SFCmasterP.PcbDoc
+KBP310|AC-DC Bridge|BR1|BRD1|1
+2400mAh|Battery holder|BT1|BAT18650|1
+2.2nF/250V|Capacitor|C1, C10|CAPRD5-9x3B|2
+82pF/100V|Capacitor|C2|CAPC3216M|1
+680uF/16V|Polarized Capacitor (Radial)|C3|CAPPR5-8x12|1
+100uF/16V|Polarized Capacitor (Radial)|C4|CAPPR2-5x7|1
+22uF/450V|Polarized Capacitor (Radial)|C5, C6|CAPPR7.5-16x25B|2
+0.1uF/275V|Capacitor|C7|CAPRD10-12x6|1
+0.1uF|Capacitor|C8, C16, C18|CAPC3216M|3
+10uF/16V|Capacitor|C9, C20|CAPC3216M|2
+22pF/500V|Capacitor|C11|CAPC3216M|1
+330uF/50V|Polarized Capacitor (Radial)|C12|CAPPR5-10x16|1
+100uF/35V|Polarized Capacitor (Radial)|C13|CAPPR2.5-6.3x11.5|1
+3.3nF/1KV|Capacitor|C14|CAPRD5-4.5x3A|1
+47uF/450V|Polarized Capacitor (Radial)|C15|CAPPR7.5-18x25A|1
+220uF/10V|Polarized Capacitor (Radial)|C17|CAPPR2.5-6.3x11.5|1
+0.47nF/50V|Capacitor|C19|CAPC3216M|1
+UF4004|High Conductance Fast Diode|D1, D3|SMA|2
+FR106(RS1M)|High Conductance Fast Diode|D2, D4|CD4532-1812|2
+1N5825|Zener Diode|D5|SMB|1
+BLX-B|Fuse Holder 25mm(L)x10mm(W)x13mm(H)|F1|FUSE22|1
+3.3uH/2.66A|Magnetic-Core Inductor with Winding Polarity Marking|L1, L4|L0810|2
+1mH/0.19A|Magnetic-Core Inductor with Winding Polarity Marking|L2, L3|L0810|2
+6mH/1.6A|Conjugate stream coil,pitch 7.62mmx8mm(LxW)|L5|TRF_4A|1
+33uH/3A|Inductor with Winding No Polarity Marking|L6|L0810|1
+Header A3|Header, 3-Pin|P1|DG500HH-5.08-3|1
+Header 7|Header, 7-Pin|P2|HDR1X7|1
+130R|Metal film Resistor|R1|RESC3216M|1
+2M|Metal film Resistor|R2, R3, R12, R13|RESC3216M|4
+133R 1%|Metal film Resistor|R4|RESC3216M|1
+4.7K|Metal film Resistor|R5|RESC3216M|1
+1K %1|Metal film Resistor|R6, R15|RESC3216M|2
+34K 1%|Metal film Resistor|R7|RESC3216M|1
+13K 1%|Metal film Resistor|R8|RESC3216M|1
+470R|Metal film Resistor|R9|RESC3216M|1
+24K 1W|Metal film Resistor|R10|RES13.55-11.5X4.2|1
+13R|Metal film Resistor|R11|RESC3216M|1
+499R 1%|Metal film Resistor|R14|RESC3216M|1
+130K 1%|Metal film Resistor|R16|RESC3216M|1
+15K 1%|Metal film Resistor|R17|RESC3216M|1
+MF72-5D9|Thermistor|RT1, RT2|CAPRD7.5-11x4A|2
+500mA/30V|Thermistor|RT3|CAPRD7.5-11x4A|1
+Trans 4C|Transformer|T1|EE19W(2+2)|1
+Trans 4C|Transformer|T2|EE22W(2+2)|1
+PS2501-1-K-A|Single-Supply Dual Operational Amplifier,10MHz|U1, U5|SOP-4|2
+TNY275GN||U2|SMD-8C|1
+TL431AILP|Programmable Precision Reference|U3, U6|TO-92AA|2
+LM2596T-5.0|5VŒ»—π–æ∆¨|U4|TO-220-5|1
+TNY280GN||U7|SMD-8C|1
+SMBJ180A|Zener Diode|VD1|SMB|1
+10D471K|Varistor (Voltage-Sensitive Resistor)|VR1|CAPRD7.5-7x4|1

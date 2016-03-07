@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=D2 Old Footprint=DO-VD2.7 New Footprint=DIO10.36-5.2x2.8
+Change Component Footprint: Designator=D1 Old Footprint=DO-VD6 New Footprint=DIO18.84-9.6x5.6
+Change Component Footprint: Designator=R7 Old Footprint=RES-VD2.5 New Footprint=RES10.55-7X2.8
+Change Component Footprint: Designator=R9 Old Footprint=RES-VD2.5 New Footprint=RES10.55-7X2.8
+Change Component Footprint: Designator=R12 Old Footprint=RES-VD2.5 New Footprint=RES10.55-7X2.8

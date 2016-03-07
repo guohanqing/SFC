@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=DPNet NewDesignator=DPNT
+Change Net Name : Old Net Name=NetDPNet_2 New Net Name=NetDPNT_2
+Added Pin To Net: NetName=NetDPNT_1 Pin=DPNT-1
+Added Pin To Net: NetName=NetDPNT_1 Pin=R1-1
+Added Net: Name=NetDPNT_1

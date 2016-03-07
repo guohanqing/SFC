@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=GNDA Pin=C26-1
+Removed Pin From Net: NetName=5VA Pin=C26-2
+Removed Pin From Net: NetName=CANL_PORT Pin=J2-2
+Removed Pin From Net: NetName=3.3V Pin=R103-2
+Removed Pin From Net: NetName=5VA Pin=R104-1
+Removed Pin From Net: NetName=5VA Pin=R110-1
+Removed Pin From Net: NetName=GNDA Pin=R115-1
+Removed Pin From Net: NetName=CANH_PORT Pin=R116-2
+Removed Pin From Net: NetName=3.3V Pin=R127-1
+Removed Pin From Net: NetName=5VA Pin=R128-2
+Removed Pin From Net: NetName=3.3V Pin=R133-1
+Removed Pin From Net: NetName=CAN1_RX Pin=R133-2
+Removed Pin From Net: NetName=CAN1_TX Pin=U34-3
+Removed Pin From Net: NetName=GNDA Pin=U35-2
+Removed Pin From Net: NetName=5VA Pin=U35-3
+Removed Pin From Net: NetName=NetC25_2 Pin=U35-6
+Removed Pin From Net: NetName=NetC24_2 Pin=U35-7
+Removed Pin From Net: NetName=GND Pin=U36-5
+Removed Pin From Net: NetName=CAN1_RX Pin=U36-6
+Removed Pin From Net: NetName=3.3V Pin=U36-8
+Removed Member From Class: ClassName=drvcomm Member=R115
+Removed Member From Class: ClassName=drvcomm Member=R116
+Removed Member From Class: ClassName=drvcomm Member=R127
+Removed Member From Class: ClassName=drvcomm Member=R128
+Removed Member From Class: ClassName=drvcomm Member=R133
+Removed Member From Class: ClassName=drvcomm Member=U35
+Removed Member From Class: ClassName=drvcomm Member=U36
+Change Component DesignItemId : Designator=U34 Old DesignItemId=6N137 New DesignItemId=ISO1050DUB
+Change Component Footprint: Designator=U4 Old Footprint=SO8_N New Footprint=D008_N
+Change Component Footprint: Designator=U34 Old Footprint=SO-8LA New Footprint=NSO8_N
+Change Component Comment : Designator=R104 Old Comment=4.7K New Comment=5.1R
+Change Component Comment : Designator=U34 Old Comment=6N137 New Comment=ISO1050DUB
+Change Component Comment : Designator=R103 Old Comment=300R New Comment=5.1R
+Change Component Comment : Designator=D33 Old Comment=SMB5.0CA New Comment=SMB5.1CA
+Change Component Comment : Designator=D34 Old Comment=SMB5.0CA New Comment=SMB5.1CA
+Change Component Designator: OldDesignator=R116 NewDesignator=R110
+Added Component: Designator=C28(CAPC2012M)
+Added Component: Designator=C29(CAPC2012M)
+Added Component: Designator=C30(CAPC2012M)
+Added Pin To Net: NetName=5VA Pin=C26-1
+Added Pin To Net: NetName=GNDA Pin=C26-2
+Added Pin To Net: NetName=3.3V Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=CAN1_RX Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=CAN1_TX Pin=C30-2
+Added Pin To Net: NetName=CANH_PORT Pin=J2-1
+Added Pin To Net: NetName=CAN1_RX Pin=R103-2
+Added Pin To Net: NetName=CAN1_TX Pin=R104-2
+Added Pin To Net: NetName=CANL_PORT Pin=R110-2
+Added Pin To Net: NetName=3.3V Pin=U34-1
+Added Pin To Net: NetName=GND Pin=U34-4
+Added Pin To Net: NetName=NetC25_2 Pin=U34-6
+Added Pin To Net: NetName=NetC24_2 Pin=U34-7
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=R110-1
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetR104_1 Pin=R104-1
+Added Pin To Net: NetName=NetR104_1 Pin=U34-3
+Added Net: Name=NetR104_1
+Added Member To Class: ClassName=drvcomm Member=Component C28 0.1uF
+Added Member To Class: ClassName=drvcomm Member=Component C29 20pF
+Added Member To Class: ClassName=drvcomm Member=Component C30 20pF

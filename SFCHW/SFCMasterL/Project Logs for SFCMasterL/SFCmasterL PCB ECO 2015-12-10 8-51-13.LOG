@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=3.3V Pin=R9-1
+Removed Pin From Net: NetName=3.3V Pin=R10-1
+Removed Pin From Net: NetName=KEY_INT Pin=R10-2
+Removed Pin From Net: NetName=KEY_UP Pin=U1-1
+Removed Pin From Net: NetName=KEY_DOWN Pin=U1-2
+Removed Pin From Net: NetName=KEY_LEFT Pin=U1-4
+Removed Pin From Net: NetName=KEY_RIGHT Pin=U1-5
+Removed Pin From Net: NetName=GND Pin=U1-7
+Removed Pin From Net: NetName=KEY_INT Pin=U1-8
+Removed Pin From Net: NetName=KEY_ESC Pin=U1-9
+Removed Pin From Net: NetName=KEY_ENTER Pin=U1-10
+Removed Pin From Net: NetName=3.3V Pin=U1-14
+Removed Member From Class: ClassName=lcd&key Member=R10
+Removed Member From Class: ClassName=lcd&key Member=U1
+Added Component: Designator=D1(CD2012-0805)
+Added Component: Designator=D2(CD2012-0805)
+Added Component: Designator=D3(CD2012-0805)
+Added Component: Designator=D4(CD2012-0805)
+Added Component: Designator=D5(CD2012-0805)
+Added Component: Designator=D6(CD2012-0805)
+Added Pin To Net: NetName=KEY_INT Pin=D1-1
+Added Pin To Net: NetName=KEY_UP Pin=D1-2
+Added Pin To Net: NetName=KEY_INT Pin=D2-1
+Added Pin To Net: NetName=KEY_DOWN Pin=D2-2
+Added Pin To Net: NetName=KEY_INT Pin=D3-1
+Added Pin To Net: NetName=KEY_LEFT Pin=D3-2
+Added Pin To Net: NetName=KEY_INT Pin=D4-1
+Added Pin To Net: NetName=KEY_RIGHT Pin=D4-2
+Added Pin To Net: NetName=KEY_INT Pin=D5-1
+Added Pin To Net: NetName=KEY_ESC Pin=D5-2
+Added Pin To Net: NetName=KEY_INT Pin=D6-1
+Added Pin To Net: NetName=KEY_ENTER Pin=D6-2
+Added Pin To Net: NetName=KEY_INT Pin=R9-1
+Added Pin To Net: NetName=3.3V Pin=R9-2
+Added Member To Class: ClassName=lcd&key Member=Component D1 LL4148
+Added Member To Class: ClassName=lcd&key Member=Component D2 LL4148
+Added Member To Class: ClassName=lcd&key Member=Component D3 LL4148
+Added Member To Class: ClassName=lcd&key Member=Component D4 LL4148
+Added Member To Class: ClassName=lcd&key Member=Component D5 LL4148
+Added Member To Class: ClassName=lcd&key Member=Component D6 LL4148

@@ -1,0 +1,37 @@
+Added Component: Designator=U12(SO8_N)
+Added Component: Designator=U18(SO8_N)
+Added Pin To Net: NetName=DATA_RX Pin=U12-1
+Added Pin To Net: NetName=GNDA Pin=U12-2
+Added Pin To Net: NetName=NetR60_2 Pin=U12-3
+Added Pin To Net: NetName=DATA_TX Pin=U12-4
+Added Pin To Net: NetName=GNDA Pin=U12-5
+Added Pin To Net: NetName=NetR68_1 Pin=U12-6
+Added Pin To Net: NetName=NetR72_2 Pin=U12-7
+Added Pin To Net: NetName=5VA Pin=U12-8
+Added Pin To Net: NetName=NetR85_2 Pin=U18-1
+Added Pin To Net: NetName=NetD27_2 Pin=U18-2
+Added Pin To Net: NetName=NetR90_2 Pin=U18-3
+Added Pin To Net: NetName=GNDA Pin=U18-4
+Added Pin To Net: NetName=NetR100_1 Pin=U18-5
+Added Pin To Net: NetName=NetD28_2 Pin=U18-6
+Added Pin To Net: NetName=NetR95_1 Pin=U18-7
+Added Pin To Net: NetName=24V Pin=U18-8
+Added Member To Class: ClassName=drvcomm Member=Component U12 SN65HVD1176D
+Added Member To Class: ClassName=drvinput1 Member=Component U18 LM293D
+Added Room: Name=cpucore
+Added Room: Name=cpuinterface
+Added Room: Name=cpuledin
+Added Room: Name=cpuledout
+Added Room: Name=cpuotg
+Added Room: Name=drvamap
+Added Room: Name=drvcomm
+Added Room: Name=drveth
+Added Room: Name=drvinput0
+Added Room: Name=drvinput1
+Added Room: Name=drvoutput0
+Added Room: Name=drvoutput1
+Added Room: Name=drvoutput2
+Added Room: Name=drvoutput3
+Added Room: Name=drvoutput4
+Added Room: Name=lcd&key
+Added Room: Name=power

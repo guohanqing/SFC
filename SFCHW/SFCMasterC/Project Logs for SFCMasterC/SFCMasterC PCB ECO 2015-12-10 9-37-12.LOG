@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=RMT_STARTUP_IN Pin=U7-1
+Removed Pin From Net: NetName=DP_STARTUP_IN Pin=U7-2
+Removed Pin From Net: NetName=DETECT_IN1 Pin=U7-4
+Removed Pin From Net: NetName=DETECT_IN2 Pin=U7-5
+Removed Pin From Net: NetName=GND Pin=U7-7
+Removed Pin From Net: NetName=DETECT_IN4 Pin=U7-9
+Removed Pin From Net: NetName=DETECT_IN5 Pin=U7-10
+Removed Pin From Net: NetName=DETECT_IN6 Pin=U7-12
+Removed Pin From Net: NetName=DETECT_IN7 Pin=U7-13
+Removed Pin From Net: NetName=3.3V Pin=U7-14
+Removed Pin From Net: NetName=DETECT_IN8 Pin=U8-1
+Removed Pin From Net: NetName=DETECT_IN9 Pin=U8-2
+Removed Pin From Net: NetName=DETECT_IN10 Pin=U8-4
+Removed Pin From Net: NetName=GND Pin=U8-7
+Removed Pin From Net: NetName=PORT_INT Pin=U8-8
+Removed Pin From Net: NetName=3.3V Pin=U8-14
+Removed Member From Class: ClassName=cpuledin Member=U7
+Removed Member From Class: ClassName=cpuledin Member=U8
+Added Component: Designator=D31(CD2012-0805)
+Added Component: Designator=D32(CD2012-0805)
+Added Component: Designator=D33(CD2012-0805)
+Added Component: Designator=D34(CD2012-0805)
+Added Component: Designator=D35(CD2012-0805)
+Added Component: Designator=D36(CD2012-0805)
+Added Component: Designator=D37(CD2012-0805)
+Added Component: Designator=D38(CD2012-0805)
+Added Component: Designator=D39(CD2012-0805)
+Added Component: Designator=D40(CD2012-0805)
+Added Component: Designator=D41(CD2012-0805)
+Added Component: Designator=D42(CD2012-0805)
+Added Pin To Net: NetName=PORT_INT Pin=D31-1
+Added Pin To Net: NetName=DP_STARTUP_IN Pin=D31-2
+Added Pin To Net: NetName=PORT_INT Pin=D32-1
+Added Pin To Net: NetName=RMT_STARTUP_IN Pin=D32-2
+Added Pin To Net: NetName=PORT_INT Pin=D33-1
+Added Pin To Net: NetName=DETECT_IN1 Pin=D33-2
+Added Pin To Net: NetName=PORT_INT Pin=D34-1
+Added Pin To Net: NetName=DETECT_IN2 Pin=D34-2
+Added Pin To Net: NetName=PORT_INT Pin=D35-1
+Added Pin To Net: NetName=DETECT_IN3 Pin=D35-2
+Added Pin To Net: NetName=PORT_INT Pin=D36-1
+Added Pin To Net: NetName=DETECT_IN4 Pin=D36-2
+Added Pin To Net: NetName=PORT_INT Pin=D37-1
+Added Pin To Net: NetName=DETECT_IN5 Pin=D37-2
+Added Pin To Net: NetName=PORT_INT Pin=D38-1
+Added Pin To Net: NetName=DETECT_IN6 Pin=D38-2
+Added Pin To Net: NetName=PORT_INT Pin=D39-1
+Added Pin To Net: NetName=DETECT_IN7 Pin=D39-2
+Added Pin To Net: NetName=PORT_INT Pin=D40-1
+Added Pin To Net: NetName=DETECT_IN8 Pin=D40-2
+Added Pin To Net: NetName=PORT_INT Pin=D41-1
+Added Pin To Net: NetName=DETECT_IN9 Pin=D41-2
+Added Pin To Net: NetName=PORT_INT Pin=D42-1
+Added Pin To Net: NetName=DETECT_IN10 Pin=D42-2
+Added Member To Class: ClassName=cpuledin Member=Component D31 LL4148
+Added Member To Class: ClassName=cpuledin Member=Component D32 LL4148
+Added Member To Class: ClassName=cpuledin Member=Component D33 LL4148
+Added Member To Class: ClassName=cpuledin Member=Component D34 LL4148
+Added Member To Class: ClassName=cpuledin Member=Component D35 LL4148
+Added Member To Class: ClassName=cpuledin Member=Component D36 LL4148
+Added Member To Class: ClassName=cpuledin Member=Component D37 LL4148
+Added Member To Class: ClassName=cpuledin Member=Component D38 LL4148
+Added Member To Class: ClassName=cpuledin Member=Component D39 LL4148
+Added Member To Class: ClassName=cpuledin Member=Component D40 LL4148
+Added Member To Class: ClassName=cpuledin Member=Component D41 LL4148
+Added Member To Class: ClassName=cpuledin Member=Component D42 LL4148

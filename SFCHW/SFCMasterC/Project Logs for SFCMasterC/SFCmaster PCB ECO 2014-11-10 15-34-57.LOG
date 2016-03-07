@@ -1,0 +1,116 @@
+Removed Pin From Net: NetName=VALVE_DRIVER_COM Pin=L3-2
+Removed Pin From Net: NetName=VALVE_DRIVER_L Pin=L4-2
+Removed Pin From Net: NetName=VALVE_DRIVER_COM Pin=L5-2
+Removed Pin From Net: NetName=VALVE_DRIVER_L Pin=L6-2
+Removed Pin From Net: NetName=VALVE_DRIVER_COM Pin=L7-2
+Removed Pin From Net: NetName=VALVE_DRIVER_L Pin=L8-2
+Removed Pin From Net: NetName=VALVE_DRIVER_L Pin=L9-2
+Removed Pin From Net: NetName=VALVE_DRIVER_L Pin=L10-2
+Removed Pin From Net: NetName=VALVE_DRIVER_L Pin=L11-2
+Removed Pin From Net: NetName=VALVE_DRIVER_L Pin=L12-2
+Removed Member From Class: ClassName=drvoutput0 Member=L3
+Removed Member From Class: ClassName=drvoutput0 Member=L4
+Removed Member From Class: ClassName=drvoutput1 Member=L5
+Removed Member From Class: ClassName=drvoutput1 Member=L6
+Removed Member From Class: ClassName=drvoutput2 Member=L7
+Removed Member From Class: ClassName=drvoutput2 Member=L8
+Removed Member From Class: ClassName=drvoutput3 Member=L9
+Removed Member From Class: ClassName=drvoutput3 Member=L10
+Removed Member From Class: ClassName=drvoutput4 Member=L11
+Removed Member From Class: ClassName=drvoutput4 Member=L12
+Change Component Comment : Designator=R110 Old Comment=1K New Comment=510R
+Change Component Comment : Designator=R116 Old Comment=1K New Comment=510R
+Change Component Comment : Designator=R122 Old Comment=1K New Comment=510R
+Change Component Comment : Designator=R128 Old Comment=1K New Comment=510R
+Change Component Comment : Designator=R134 Old Comment=1K New Comment=510R
+Change Component Comment : Designator=R140 Old Comment=1K New Comment=510R
+Change Component Comment : Designator=R146 Old Comment=1K New Comment=510R
+Change Component Comment : Designator=R152 Old Comment=1K New Comment=510R
+Change Component Comment : Designator=R158 Old Comment=1K New Comment=510R
+Change Component Comment : Designator=R164 Old Comment=1K New Comment=510R
+Change Component Comment : Designator=LR1 Old Comment=CBG321609U102 New Comment=CBG201209U102
+Change Component Comment : Designator=LR2 Old Comment=CBG321609U102 New Comment=CBG201209U102
+Added Component: Designator=LR3(INDC2012M)
+Added Component: Designator=LR4(INDC2012M)
+Added Component: Designator=LR5(INDC2012M)
+Added Component: Designator=LR6(INDC2012M)
+Added Component: Designator=LR7(INDC2012M)
+Added Component: Designator=LR8(INDC2012M)
+Added Component: Designator=LR9(INDC2012M)
+Added Component: Designator=LR10(INDC2012M)
+Added Component: Designator=LR11(INDC2012M)
+Added Component: Designator=LR12(INDC2012M)
+Added Component: Designator=P19(HDR1A3LH)
+Added Component: Designator=S2(PBST-2R)
+Added Component: Designator=U2(SOT23_M)
+Added Component: Designator=U3(SOT-143_N)
+Added Component: Designator=Y1(HC-49U)
+Added Pin To Net: NetName=VALVE_DRIVER_COM Pin=LR3-1
+Added Pin To Net: NetName=VALVE_DRIVER_L Pin=LR4-1
+Added Pin To Net: NetName=VALVE_DRIVER_COM Pin=LR5-1
+Added Pin To Net: NetName=VALVE_DRIVER_L Pin=LR6-1
+Added Pin To Net: NetName=VALVE_DRIVER_COM Pin=LR7-1
+Added Pin To Net: NetName=VALVE_DRIVER_L Pin=LR8-1
+Added Pin To Net: NetName=VALVE_DRIVER_L Pin=LR9-1
+Added Pin To Net: NetName=VALVE_DRIVER_L Pin=LR10-1
+Added Pin To Net: NetName=VALVE_DRIVER_L Pin=LR11-1
+Added Pin To Net: NetName=VALVE_DRIVER_L Pin=LR12-1
+Added Pin To Net: NetName=POWER_PORT_L Pin=P19-1
+Added Pin To Net: NetName=POWER_PORT_N Pin=P19-2
+Added Pin To Net: NetName=POWER_PORT_GND Pin=P19-3
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=NetS2_2 Pin=S2-2
+Added Pin To Net: NetName=VDDA Pin=U2-1
+Added Pin To Net: NetName=VREF Pin=U2-2
+Added Pin To Net: NetName=VSSA Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=SYS_NRST Pin=U3-2
+Added Pin To Net: NetName=NetS2_2 Pin=U3-3
+Added Pin To Net: NetName=3.3V Pin=U3-4
+Added Pin To Net: NetName=RCC_OSC_IN Pin=Y1-1
+Added Pin To Net: NetName=RCC_OSC_OUT Pin=Y1-2
+Added Pin To Net: NetName=NetLR3_2 Pin=LR3-2
+Added Pin To Net: NetName=NetLR3_2 Pin=R110-1
+Added Net: Name=NetLR3_2
+Added Pin To Net: NetName=NetLR4_2 Pin=LR4-2
+Added Pin To Net: NetName=NetLR4_2 Pin=R116-1
+Added Net: Name=NetLR4_2
+Added Pin To Net: NetName=NetLR5_2 Pin=LR5-2
+Added Pin To Net: NetName=NetLR5_2 Pin=R122-1
+Added Net: Name=NetLR5_2
+Added Pin To Net: NetName=NetLR6_2 Pin=LR6-2
+Added Pin To Net: NetName=NetLR6_2 Pin=R128-1
+Added Net: Name=NetLR6_2
+Added Pin To Net: NetName=NetLR7_2 Pin=LR7-2
+Added Pin To Net: NetName=NetLR7_2 Pin=R134-1
+Added Net: Name=NetLR7_2
+Added Pin To Net: NetName=NetLR8_2 Pin=LR8-2
+Added Pin To Net: NetName=NetLR8_2 Pin=R140-1
+Added Net: Name=NetLR8_2
+Added Pin To Net: NetName=NetLR9_2 Pin=LR9-2
+Added Pin To Net: NetName=NetLR9_2 Pin=R146-1
+Added Net: Name=NetLR9_2
+Added Pin To Net: NetName=NetLR10_2 Pin=LR10-2
+Added Pin To Net: NetName=NetLR10_2 Pin=R152-1
+Added Net: Name=NetLR10_2
+Added Pin To Net: NetName=NetLR11_2 Pin=LR11-2
+Added Pin To Net: NetName=NetLR11_2 Pin=R158-1
+Added Net: Name=NetLR11_2
+Added Pin To Net: NetName=NetLR12_2 Pin=LR12-2
+Added Pin To Net: NetName=NetLR12_2 Pin=R164-1
+Added Net: Name=NetLR12_2
+Added Member To Class: ClassName=drvoutput0 Member=Component LR3 CBG201209U102
+Added Member To Class: ClassName=drvoutput0 Member=Component LR4 CBG201209U102
+Added Member To Class: ClassName=drvoutput1 Member=Component LR5 CBG201209U102
+Added Member To Class: ClassName=drvoutput1 Member=Component LR6 CBG201209U102
+Added Member To Class: ClassName=drvoutput2 Member=Component LR7 CBG201209U102
+Added Member To Class: ClassName=drvoutput2 Member=Component LR8 CBG201209U102
+Added Member To Class: ClassName=drvoutput3 Member=Component LR9 CBG201209U102
+Added Member To Class: ClassName=drvoutput3 Member=Component LR10 CBG201209U102
+Added Member To Class: ClassName=drvoutput4 Member=Component LR11 CBG201209U102
+Added Member To Class: ClassName=drvoutput4 Member=Component LR12 CBG201209U102
+Added Member To Class: ClassName=power Member=Component P19 Header A3
+Added Member To Class: ClassName=cpuinterface Member=Component S2 SW-PB
+Added Member To Class: ClassName=cpuinterface Member=Component U2 REF3025
+Added Member To Class: ClassName=cpuinterface Member=Component U3 MIC811TU
+Added Member To Class: ClassName=cpuinterface Member=Component Y1 8MHz@20pF

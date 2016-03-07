@@ -1,0 +1,104 @@
+Removed Pin From Net: NetName=VBAT Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=3.3V Pin=C25-2
+Removed Pin From Net: NetName=12V Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=VSSA Pin=C28-1
+Removed Pin From Net: NetName=VREF Pin=C28-2
+Removed Pin From Net: NetName=VSSA Pin=C29-1
+Removed Pin From Net: NetName=VREF Pin=C29-2
+Removed Pin From Net: NetName=VSSA Pin=C30-1
+Removed Pin From Net: NetName=VDDA Pin=C30-2
+Removed Pin From Net: NetName=VSSA Pin=C31-1
+Removed Pin From Net: NetName=VDDA Pin=C31-2
+Removed Pin From Net: NetName=RCC_OSC_IN Pin=C32-1
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Pin From Net: NetName=LEVEL_DETECT_L1 Pin=P2-3
+Removed Pin From Net: NetName=LEVEL_DETECT_H1 Pin=P2-4
+Removed Pin From Net: NetName=LEVEL_DETECT_L2 Pin=P2-5
+Removed Pin From Net: NetName=LEVEL_DETECT_H2 Pin=P2-6
+Removed Pin From Net: NetName=RMT_STARTUP Pin=P2-7
+Removed Pin From Net: NetName=DP_STARTUP Pin=P2-8
+Removed Pin From Net: NetName=VLV_MAIN_DRIVER Pin=P2-9
+Removed Pin From Net: NetName=VLV_DLY_DRIVER Pin=P2-10
+Removed Pin From Net: NetName=VALVE_DRIVER1 Pin=P2-11
+Removed Pin From Net: NetName=VALVE_DRIVER2 Pin=P2-12
+Removed Pin From Net: NetName=VAVLE_DRIVER3 Pin=P2-13
+Removed Pin From Net: NetName=VALVE_DRIVER4 Pin=P2-14
+Removed Pin From Net: NetName=VALVE_DRIVER5 Pin=P2-15
+Removed Pin From Net: NetName=VALVE_DRIVER6 Pin=P2-16
+Removed Pin From Net: NetName=VALVE_DRIVER7 Pin=P2-17
+Removed Pin From Net: NetName=VALVE_DRIVER8 Pin=P2-18
+Removed Pin From Net: NetName=LEVEL_DRV_OUT1 Pin=P2-19
+Removed Pin From Net: NetName=LEVEL_DRV_OUT2 Pin=P2-20
+Removed Pin From Net: NetName=VDDA Pin=U4-1
+Removed Pin From Net: NetName=VREF Pin=U4-2
+Removed Pin From Net: NetName=VSSA Pin=U4-3
+Removed Pin From Net: NetName=GND Pin=U5-1
+Removed Pin From Net: NetName=SYS_NRST Pin=U5-2
+Removed Pin From Net: NetName=NetS2_2 Pin=U5-3
+Removed Pin From Net: NetName=3.3V Pin=U5-4
+Added Component: Designator=C24(CAPC2012M)
+Added Component: Designator=C25(CAPC2012M)
+Added Component: Designator=C27(CAPC2012M)
+Added Component: Designator=C28(CAPC2012M)
+Added Component: Designator=C29(CAPC2012M)
+Added Component: Designator=C30(CAPC2012M)
+Added Component: Designator=C31(CAPC2012M)
+Added Component: Designator=C32(CAPC2012M)
+Added Component: Designator=U4(SOT23_M)
+Added Component: Designator=U5(SOT-143_N)
+Added Pin To Net: NetName=VBAT Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=3.3V Pin=C25-2
+Added Pin To Net: NetName=12V Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=VSSA Pin=C28-1
+Added Pin To Net: NetName=VREF Pin=C28-2
+Added Pin To Net: NetName=VSSA Pin=C29-1
+Added Pin To Net: NetName=VREF Pin=C29-2
+Added Pin To Net: NetName=VSSA Pin=C30-1
+Added Pin To Net: NetName=VDDA Pin=C30-2
+Added Pin To Net: NetName=VSSA Pin=C31-1
+Added Pin To Net: NetName=VDDA Pin=C31-2
+Added Pin To Net: NetName=RCC_OSC_IN Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=LEVEL_DETECT_L1 Pin=P2-2
+Added Pin To Net: NetName=LEVEL_DETECT_H1 Pin=P2-3
+Added Pin To Net: NetName=LEVEL_DETECT_L2 Pin=P2-4
+Added Pin To Net: NetName=LEVEL_DETECT_H2 Pin=P2-5
+Added Pin To Net: NetName=RMT_STARTUP Pin=P2-6
+Added Pin To Net: NetName=DP_STARTUP Pin=P2-7
+Added Pin To Net: NetName=VLV_MAIN_DRIVER Pin=P2-8
+Added Pin To Net: NetName=VLV_DLY_DRIVER Pin=P2-9
+Added Pin To Net: NetName=VALVE_DRIVER1 Pin=P2-10
+Added Pin To Net: NetName=VALVE_DRIVER2 Pin=P2-11
+Added Pin To Net: NetName=VAVLE_DRIVER3 Pin=P2-12
+Added Pin To Net: NetName=VALVE_DRIVER4 Pin=P2-13
+Added Pin To Net: NetName=VALVE_DRIVER5 Pin=P2-14
+Added Pin To Net: NetName=VALVE_DRIVER6 Pin=P2-15
+Added Pin To Net: NetName=VALVE_DRIVER7 Pin=P2-16
+Added Pin To Net: NetName=VALVE_DRIVER8 Pin=P2-17
+Added Pin To Net: NetName=LEVEL_DRV_OUT1 Pin=P2-18
+Added Pin To Net: NetName=LEVEL_DRV_OUT2 Pin=P2-19
+Added Pin To Net: NetName=GND Pin=P2-20
+Added Pin To Net: NetName=VDDA Pin=U4-1
+Added Pin To Net: NetName=VREF Pin=U4-2
+Added Pin To Net: NetName=VSSA Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=SYS_NRST Pin=U5-2
+Added Pin To Net: NetName=NetS2_2 Pin=U5-3
+Added Pin To Net: NetName=3.3V Pin=U5-4
+Added Member To Class: ClassName=cpuinterface Member=Component C24 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C25 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C27 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C28 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C29 1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C30 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C31 1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C32 20pF
+Added Member To Class: ClassName=cpuinterface Member=Component U4 REF3025
+Added Member To Class: ClassName=cpuinterface Member=Component U5 MIC811TU

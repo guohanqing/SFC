@@ -1,0 +1,6 @@
+Added Component: Designator=P4(HDR1X2)
+Added Pin To Net: NetName=24V Pin=P4-1
+Added Net: Name=24V
+Added Pin To Net: NetName=GNDA Pin=P4-2
+Added Net: Name=GNDA
+Added Member To Class: ClassName=cpuinterface Member=Component P4 Header 2

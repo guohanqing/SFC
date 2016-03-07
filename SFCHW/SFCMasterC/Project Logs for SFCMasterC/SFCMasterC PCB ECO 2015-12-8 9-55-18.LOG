@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=KEY_ENTER Pin=U1-61
+Removed Pin From Net: NetName=KEY_INT Pin=U1-62
+Added Pin To Net: NetName=KEY_ESC Pin=U1-61
+Added Pin To Net: NetName=KEY_ENTER Pin=U1-62
+Added Pin To Net: NetName=KEY_INT Pin=U1-65
+Added Pin To Net: NetName=USART_DP_LINK Pin=D9-2
+Added Pin To Net: NetName=USART_DP_LINK Pin=U1-96
+Added Net: Name=USART_DP_LINK

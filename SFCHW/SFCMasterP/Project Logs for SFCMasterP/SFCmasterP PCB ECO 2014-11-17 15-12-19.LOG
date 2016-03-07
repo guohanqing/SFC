@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=24V_PWR Pin=P2-1
+Removed Pin From Net: NetName=GNDA_PWR Pin=P2-3
+Removed Pin From Net: NetName=FG_PWR Pin=P2-5
+Added Pin To Net: NetName=FG_PWR Pin=P2-1
+Added Pin To Net: NetName=24V_PWR Pin=P2-3
+Added Pin To Net: NetName=GNDA_PWR Pin=P2-5

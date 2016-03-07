@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=WIFI_USART6_RST Pin=P9-1
+Removed Member From Class: ClassName=cpuinterface Member=P9

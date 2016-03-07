@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=U1 Old Footprint=DIP-4 New Footprint=SOP-4
+Change Component Footprint: Designator=U5 Old Footprint=DIP-4 New Footprint=SOP-4
+Change Component Footprint: Designator=U2 Old Footprint=DIP-8C New Footprint=SMD-8C
+Change Component Footprint: Designator=U7 Old Footprint=DIP-8C New Footprint=SMD-8C
+Added Member To Class: ClassName=powerA Member=Component U2 TNY275PN(GN)

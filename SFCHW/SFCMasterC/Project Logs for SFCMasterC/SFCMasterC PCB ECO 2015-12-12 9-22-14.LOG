@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=TIM2_CH3_CAP_IN Pin=D31-2
+Removed Pin From Net: NetName=RMT_STARTUP_IN Pin=D32-2
+Removed Pin From Net: NetName=DETECT_IN1 Pin=D33-2
+Removed Pin From Net: NetName=DETECT_IN2 Pin=D34-2
+Removed Pin From Net: NetName=DETECT_IN3 Pin=D35-2
+Removed Pin From Net: NetName=DETECT_IN4 Pin=D36-2
+Removed Pin From Net: NetName=DETECT_IN5 Pin=D37-2
+Removed Pin From Net: NetName=DETECT_IN6 Pin=D38-2
+Removed Pin From Net: NetName=DETECT_IN7 Pin=D39-2
+Removed Pin From Net: NetName=DETECT_IN8 Pin=D40-2
+Removed Pin From Net: NetName=DETECT_IN9 Pin=D41-2
+Removed Pin From Net: NetName=DETECT_IN10 Pin=D42-2
+Removed Pin From Net: NetName=DETECT_IN11 Pin=D45-2
+Removed Pin From Net: NetName=DETECT_IN12 Pin=D46-2
+Change Component Designator: OldDesignator=D31 NewDesignator=D43
+Change Component Designator: OldDesignator=D43 NewDesignator=D31
+Change Component Designator: OldDesignator=D46 NewDesignator=D44
+Added Pin To Net: NetName=TIM2_CH3_CAP_IN Pin=D32-2
+Added Pin To Net: NetName=RMT_STARTUP_IN Pin=D33-2
+Added Pin To Net: NetName=DETECT_IN1 Pin=D34-2
+Added Pin To Net: NetName=DETECT_IN2 Pin=D35-2
+Added Pin To Net: NetName=DETECT_IN3 Pin=D36-2
+Added Pin To Net: NetName=DETECT_IN4 Pin=D37-2
+Added Pin To Net: NetName=DETECT_IN5 Pin=D38-2
+Added Pin To Net: NetName=DETECT_IN6 Pin=D39-2
+Added Pin To Net: NetName=DETECT_IN7 Pin=D40-2
+Added Pin To Net: NetName=DETECT_IN8 Pin=D41-2
+Added Pin To Net: NetName=DETECT_IN9 Pin=D42-2
+Added Pin To Net: NetName=DETECT_IN10 Pin=D43-2
+Added Pin To Net: NetName=DETECT_IN11 Pin=D44-2
+Added Pin To Net: NetName=DETECT_IN12 Pin=D45-2
+Change Net Name : Old Net Name=NetD43_1 New Net Name=NetD31_1

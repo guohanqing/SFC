@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=24V Pin=C5-1
+Removed Pin From Net: NetName=GNDA Pin=C5-2
+Removed Pin From Net: NetName=24V Pin=C6-1
+Removed Pin From Net: NetName=GNDA Pin=C6-2
+Removed Pin From Net: NetName=5VA Pin=C7-1
+Removed Pin From Net: NetName=GNDA Pin=C7-2
+Removed Pin From Net: NetName=GNDA Pin=C8-1
+Removed Pin From Net: NetName=5VA Pin=C8-2
+Removed Pin From Net: NetName=GNDA Pin=D1-1
+Removed Pin From Net: NetName=5VA Pin=L1-2
+Removed Pin From Net: NetName=VBAT_SRC Pin=P5-1
+Removed Pin From Net: NetName=GND Pin=P5-2
+Removed Pin From Net: NetName=12V Pin=P5-3
+Removed Pin From Net: NetName=FG Pin=P5-4
+Removed Pin From Net: NetName=24V Pin=P5-6
+Removed Pin From Net: NetName=24V Pin=U1-1
+Removed Pin From Net: NetName=GNDA Pin=U1-3
+Removed Pin From Net: NetName=5VA Pin=U1-4
+Removed Pin From Net: NetName=GNDA Pin=U1-5
+Removed Pin From Net: NetName=GNDA Pin=U1-6
+Removed Member From Class: ClassName=drvamap Member=C5
+Removed Member From Class: ClassName=drvamap Member=C6
+Removed Member From Class: ClassName=drvamap Member=C7
+Removed Member From Class: ClassName=drvamap Member=C8
+Removed Member From Class: ClassName=drvamap Member=D1
+Removed Member From Class: ClassName=drvamap Member=L1
+Removed Member From Class: ClassName=drvamap Member=U1
+Change Component DesignItemId : Designator=P5 Old DesignItemId=Header 6 New DesignItemId=Header 7
+Change Component Footprint: Designator=P5 Old Footprint=HDR1X6 New Footprint=HDR1X7
+Change Component Comment : Designator=R7 Old Comment=3K New Comment=5.1K
+Change Component Comment : Designator=P5 Old Comment=Header 6 New Comment=Header 7
+Added Pin To Net: NetName=FG Pin=P5-1
+Added Pin To Net: NetName=VBAT_SRC Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=24V Pin=P5-7
+Change Net Name : Old Net Name=NetR9_2 New Net Name=LED2
+Added Pin To Net: NetName=5V Pin=P5-6
+Added Net: Name=5V
+Added Pin To Net: NetName=9V Pin=P5-4
+Added Net: Name=9V
+Added Pin To Net: NetName=LED1 Pin=U2-11
+Added Net: Name=LED1

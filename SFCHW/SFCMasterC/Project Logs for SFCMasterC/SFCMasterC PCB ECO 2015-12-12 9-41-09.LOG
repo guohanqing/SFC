@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetD26_1 Pin=R14-1
+Removed Pin From Net: NetName=NetD27_1 Pin=R15-1
+Removed Pin From Net: NetName=NetD28_1 Pin=R16-1
+Removed Pin From Net: NetName=NetD29_1 Pin=R17-1
+Removed Pin From Net: NetName=NetD30_1 Pin=R18-1
+Removed Pin From Net: NetName=NetD31_1 Pin=R19-1
+Removed Pin From Net: NetName=3.3V Pin=R19-2
+Removed Member From Class: ClassName=cpuledin Member=R19
+Added Component: Designator=R13(RESC2012M)
+Added Pin To Net: NetName=NetD26_1 Pin=R13-1
+Added Pin To Net: NetName=3.3V Pin=R13-2
+Added Pin To Net: NetName=NetD27_1 Pin=R14-1
+Added Pin To Net: NetName=NetD28_1 Pin=R15-1
+Added Pin To Net: NetName=NetD29_1 Pin=R16-1
+Added Pin To Net: NetName=NetD30_1 Pin=R17-1
+Added Pin To Net: NetName=NetD31_1 Pin=R18-1
+Added Member To Class: ClassName=cpuledin Member=Component R13 1K

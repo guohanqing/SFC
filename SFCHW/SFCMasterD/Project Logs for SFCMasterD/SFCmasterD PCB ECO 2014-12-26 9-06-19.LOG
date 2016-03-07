@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VALVE_DRIVER_L Pin=L2-1
+Removed Pin From Net: NetName=VALVE_DRIVER_LO Pin=L2-2
+Added Pin To Net: NetName=VALVE_DRIVER_L Pin=L2-2

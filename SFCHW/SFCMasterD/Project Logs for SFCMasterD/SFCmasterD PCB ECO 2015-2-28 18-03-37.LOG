@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=5V Pin=C1-2
+Removed Pin From Net: NetName=5V Pin=P1-2
+Removed Pin From Net: NetName=3.3V Pin=P1-3
+Change Component Comment : Designator=C3 Old Comment=0.1uF New Comment=10uF
+Added Component: Designator=U33(SOT-223)
+Added Pin To Net: NetName=3.3V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=U33-1
+Added Pin To Net: NetName=3.3V Pin=U33-2
+Added Pin To Net: NetName=12V Pin=U33-3
+Added Pin To Net: NetName=CAN1_RX Pin=P1-2
+Added Net: Name=CAN1_RX
+Added Pin To Net: NetName=CAN1_TX Pin=P1-3
+Added Net: Name=CAN1_TX
+Added Member To Class: ClassName=drvamap Member=Component U33 ASM1117-3.3

@@ -1,0 +1,100 @@
+Removed Pin From Net: NetName=3.3V Pin=C44-1
+Removed Pin From Net: NetName=GND Pin=C44-2
+Removed Pin From Net: NetName=5V Pin=C50-1
+Removed Pin From Net: NetName=5V Pin=C51-1
+Removed Pin From Net: NetName=5V Pin=D25-1
+Removed Pin From Net: NetName=3.3V Pin=R51-2
+Removed Pin From Net: NetName=NetR56_2 Pin=U10-2
+Removed Pin From Net: NetName=5V Pin=U10-8
+Removed Pin From Net: NetName=WIFI_USART6_RST Pin=U11-1
+Removed Pin From Net: NetName=WIFI_USART6_CS Pin=U11-3
+Removed Pin From Net: NetName=GND Pin=U11-10
+Removed Member From Class: ClassName=cpuinterface Member=C44
+Removed Member From Class: ClassName=cpupwrbackup Member=C50
+Removed Member From Class: ClassName=cpupwrbackup Member=C51
+Removed Member From Class: ClassName=cpupwrbackup Member=D25
+Removed Member From Class: ClassName=cpupwrbackup Member=R53
+Removed Member From Class: ClassName=cpupwrbackup Member=R56
+Change Component Comment : Designator=R53 Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R56 Old Comment=3K New Comment=1K
+Change Component Comment : Designator=C50 Old Comment=10uF New Comment=0.1uF
+Change Component Comment : Designator=D26 Old Comment=ERR New Comment=RED
+Added Component: Designator=C59(CAPC2012M)
+Added Component: Designator=C60(CAPC2012M)
+Added Component: Designator=P4(HDR1A1)
+Added Component: Designator=P9(HDR1A1)
+Added Component: Designator=R61(RESC2012M)
+Added Component: Designator=R62(RESC2012M)
+Added Component: Designator=R63(RESC2012M)
+Added Component: Designator=R64(RESC2012M)
+Added Component: Designator=R65(RESC2012M)
+Added Component: Designator=S4(DS-01)
+Added Component: Designator=U13(PDSO-G8)
+Added Component: Designator=U14(SOT89M)
+Added Pin To Net: NetName=3.3V Pin=C50-1
+Added Pin To Net: NetName=5V Pin=C59-1
+Added Pin To Net: NetName=GND Pin=C59-2
+Added Pin To Net: NetName=5V Pin=C60-1
+Added Pin To Net: NetName=GND Pin=C60-2
+Added Pin To Net: NetName=WIFI_USART6_CS Pin=P4-1
+Added Pin To Net: NetName=WIFI_USART6_RST Pin=P9-1
+Added Pin To Net: NetName=3.3V Pin=R51-1
+Added Pin To Net: NetName=3.3V Pin=R53-1
+Added Pin To Net: NetName=5V Pin=R61-2
+Added Pin To Net: NetName=5V Pin=R62-1
+Added Pin To Net: NetName=5V Pin=R63-2
+Added Pin To Net: NetName=5V Pin=R64-2
+Added Pin To Net: NetName=GND Pin=R65-1
+Added Pin To Net: NetName=GND Pin=S4-2
+Added Pin To Net: NetName=NetR56_2 Pin=U11-10
+Added Pin To Net: NetName=GND Pin=U13-4
+Added Pin To Net: NetName=5V Pin=U13-8
+Added Pin To Net: NetName=VBAT_SRC Pin=U14-2
+Added Pin To Net: NetName=VBAT_SRC Pin=U14-2
+Added Pin To Net: NetName=GND Pin=U14-3
+Added Pin To Net: NetName=CHARGE_EN Pin=R64-1
+Added Pin To Net: NetName=CHARGE_EN Pin=U10-8
+Added Pin To Net: NetName=CHARGE_EN Pin=U13-3
+Added Net: Name=CHARGE_EN
+Added Pin To Net: NetName=CHARGE_FINISH Pin=R61-1
+Added Pin To Net: NetName=CHARGE_FINISH Pin=U10-6
+Added Pin To Net: NetName=CHARGE_FINISH Pin=U13-1
+Added Pin To Net: NetName=CHARGE_FINISH Pin=U13-2
+Added Net: Name=CHARGE_FINISH
+Added Pin To Net: NetName=NetC51_1 Pin=C51-1
+Added Pin To Net: NetName=NetC51_1 Pin=R51-2
+Added Pin To Net: NetName=NetC51_1 Pin=U11-1
+Added Net: Name=NetC51_1
+Added Pin To Net: NetName=NetR53_2 Pin=R53-2
+Added Pin To Net: NetName=NetR53_2 Pin=U11-3
+Added Net: Name=NetR53_2
+Added Pin To Net: NetName=NetR62_2 Pin=R62-2
+Added Pin To Net: NetName=NetR62_2 Pin=U13-6
+Added Pin To Net: NetName=NetR62_2 Pin=U13-7
+Added Net: Name=NetR62_2
+Added Pin To Net: NetName=NetR65_2 Pin=R65-2
+Added Pin To Net: NetName=NetR65_2 Pin=U10-2
+Added Net: Name=NetR65_2
+Added Pin To Net: NetName=NetS4_1 Pin=S4-1
+Added Pin To Net: NetName=NetS4_1 Pin=U11-12
+Added Net: Name=NetS4_1
+Added Pin To Net: NetName=VDECT_OUT Pin=R63-1
+Added Pin To Net: NetName=VDECT_OUT Pin=U13-5
+Added Pin To Net: NetName=VDECT_OUT Pin=U14-1
+Added Net: Name=VDECT_OUT
+Added Member To Class: ClassName=cpuinterface Member=Component C50 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C51 0.1uF
+Added Member To Class: ClassName=cpupwrbackup Member=Component C59 0.1uF
+Added Member To Class: ClassName=cpupwrbackup Member=Component C60 10uF
+Added Member To Class: ClassName=cpuinterface Member=Component P4 Header A1
+Added Member To Class: ClassName=cpuinterface Member=Component P9 Header A1
+Added Member To Class: ClassName=cpuinterface Member=Component R53 100R
+Added Member To Class: ClassName=cpuinterface Member=Component R56 1K
+Added Member To Class: ClassName=cpupwrbackup Member=Component R61 10K
+Added Member To Class: ClassName=cpupwrbackup Member=Component R62 10K
+Added Member To Class: ClassName=cpupwrbackup Member=Component R63 10K
+Added Member To Class: ClassName=cpupwrbackup Member=Component R64 10K
+Added Member To Class: ClassName=cpupwrbackup Member=Component R65 3K
+Added Member To Class: ClassName=cpuinterface Member=Component S4 DS-01
+Added Member To Class: ClassName=cpupwrbackup Member=Component U13 SN74LVC2G00
+Added Member To Class: ClassName=cpupwrbackup Member=Component U14 HT7036A-1

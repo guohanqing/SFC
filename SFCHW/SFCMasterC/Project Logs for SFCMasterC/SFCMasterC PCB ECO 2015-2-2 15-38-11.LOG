@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LEVEL_DRV1_OUT Pin=U1-43
+Removed Pin From Net: NetName=LEVEL_DRV2_OUT Pin=U1-46
+Added Pin To Net: NetName=LEVEL_DRV1 Pin=U1-43
+Added Pin To Net: NetName=LEVEL_DRV2 Pin=U1-46

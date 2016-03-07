@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=BOOT0 Pin=R3-2
+Removed Pin From Net: NetName=NetR2_1 Pin=S1-1
+Removed Pin From Net: NetName=BOOT0 Pin=S1-2
+Removed Member From Class: ClassName=cpuinterface Member=R3
+Removed Member From Class: ClassName=cpuinterface Member=S1
+Added Component: Designator=SW1(SW-9x3.5x3.5RS)
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=BOOT0 Pin=SW1-2
+Added Pin To Net: NetName=NetR2_1 Pin=SW1-3
+Added Member To Class: ClassName=cpuinterface Member=Component SW1 SW-SPDT

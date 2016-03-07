@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=PORT_OUT_EN Pin=U16-19
+Removed Pin From Net: NetName=PORT_OUT_EN Pin=U17-19
+Added Component: Designator=C20(CAPC2012M)
+Added Component: Designator=TF1(TF-EXT)
+Added Pin To Net: NetName=3.3V Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=PORT_OUT_EN Pin=TF1-1
+Added Pin To Net: NetName=FLASH_SPI3_MOSI Pin=TF1-2
+Added Pin To Net: NetName=GND Pin=TF1-3
+Added Pin To Net: NetName=3.3V Pin=TF1-4
+Added Pin To Net: NetName=FLASH_SPI3_SCK Pin=TF1-5
+Added Pin To Net: NetName=FLASH_SPI3_MISO Pin=TF1-7
+Added Pin To Net: NetName=GND Pin=TF1-10
+Added Pin To Net: NetName=GND Pin=TF1-10
+Added Pin To Net: NetName=GND Pin=TF1-10
+Added Pin To Net: NetName=GND Pin=TF1-10
+Added Pin To Net: NetName=PORT_IN_EN Pin=U16-19
+Added Pin To Net: NetName=PORT_IN_EN Pin=U17-19
+Change Net Name : Old Net Name=PORT_IN_EN New Net Name=DRV_IO_EN
+Change Net Name : Old Net Name=PORT_OUT_EN New Net Name=SPI_SD_NSS
+Added Member To Class: ClassName=cpuinterface Member=Component C20 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component TF1 TF

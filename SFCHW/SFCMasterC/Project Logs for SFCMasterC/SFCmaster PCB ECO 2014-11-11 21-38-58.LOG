@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=KEY_ESC_LK Pin=P18-8
+Change Component Footprint: Designator=P18 Old Footprint= New Footprint=HDR1X8SMT
+Added Pin To Net: NetName=GND_LK Pin=P18-8

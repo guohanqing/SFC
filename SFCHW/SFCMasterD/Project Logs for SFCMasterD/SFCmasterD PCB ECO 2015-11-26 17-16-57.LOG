@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GNDA Pin=DP1-2
+Removed Pin From Net: NetName=NetC22_2 Pin=DP1-3
+Added Pin To Net: NetName=NetC22_2 Pin=DP1-2
+Added Pin To Net: NetName=GNDA Pin=DP1-3
+Change Net Name : Old Net Name=NetC22_2 New Net Name=VACIN

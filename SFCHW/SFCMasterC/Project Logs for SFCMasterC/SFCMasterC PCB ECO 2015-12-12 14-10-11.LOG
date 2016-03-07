@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RMT_STARTUP_IN Pin=U1-36
+Removed Pin From Net: NetName=DETECT_IN7 Pin=U1-53
+Added Pin To Net: NetName=DETECT_IN7 Pin=U1-36
+Added Pin To Net: NetName=RMT_STARTUP_IN Pin=U1-53

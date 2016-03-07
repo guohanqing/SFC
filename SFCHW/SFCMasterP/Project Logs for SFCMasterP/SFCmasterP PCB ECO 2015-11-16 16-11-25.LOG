@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C3 Old Footprint=CAPPR5-8x12 New Footprint=CAPPR5-10x16
+Change Component Comment : Designator=R1 Old Comment=130R New Comment=130R %1
+Change Component Comment : Designator=R4 Old Comment=133R 1% New Comment=130R 1%

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SUB_SYS_RST Pin=U1-67
+Removed Pin From Net: NetName=DETECT_IN6 Pin=U1-92
+Added Pin To Net: NetName=DETECT_IN6 Pin=U1-67
+Added Pin To Net: NetName=SUB_SYS_RST Pin=U1-92

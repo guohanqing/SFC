@@ -1,0 +1,246 @@
+Removed Pin From Net: NetName=24V Pin=C6-1
+Removed Pin From Net: NetName=GNDA Pin=C6-2
+Removed Pin From Net: NetName=5V Pin=C7-1
+Removed Pin From Net: NetName=GNDA Pin=C7-2
+Removed Pin From Net: NetName=GNDA Pin=C8-1
+Removed Pin From Net: NetName=5V Pin=C8-2
+Removed Pin From Net: NetName=DC1+ Pin=C9-1
+Removed Pin From Net: NetName=DC1- Pin=C9-2
+Removed Pin From Net: NetName=POWER_PORT_RT Pin=C10-1
+Removed Pin From Net: NetName=NetBR1_2 Pin=C10-2
+Removed Pin From Net: NetName=DC1- Pin=C12-2
+Removed Pin From Net: NetName=DC2+ Pin=C13-1
+Removed Pin From Net: NetName=GNDA Pin=C13-2
+Removed Pin From Net: NetName=GNDA Pin=C15-2
+Removed Pin From Net: NetName=24V Pin=C16-1
+Removed Pin From Net: NetName=GNDA Pin=C16-2
+Removed Pin From Net: NetName=DC2- Pin=C21-2
+Removed Pin From Net: NetName=GNDA Pin=D1-1
+Removed Pin From Net: NetName=NetC2_1 Pin=D2-2
+Removed Pin From Net: NetName=5V Pin=L1-2
+Removed Pin From Net: NetName=NetC2_1 Pin=L2-1
+Removed Pin From Net: NetName=9V Pin=L2-2
+Removed Pin From Net: NetName=D+ Pin=L3-1
+Removed Pin From Net: NetName=DC1+ Pin=L3-2
+Removed Pin From Net: NetName=POWER_PORT_L Pin=P1-1
+Removed Pin From Net: NetName=POWER_PORT_N Pin=P1-2
+Removed Pin From Net: NetName=POWER_PORT_GND Pin=P1-3
+Removed Pin From Net: NetName=DC1+ Pin=R2-2
+Removed Pin From Net: NetName=NetR4_1 Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=DC2+ Pin=R12-2
+Removed Pin From Net: NetName=24V Pin=R16-2
+Removed Pin From Net: NetName=GNDA Pin=R17-1
+Removed Pin From Net: NetName=DC1+ Pin=T1-1
+Removed Pin From Net: NetName=GND Pin=T1-5
+Removed Pin From Net: NetName=24V Pin=U1-1
+Removed Pin From Net: NetName=GNDA Pin=U1-3
+Removed Pin From Net: NetName=5V Pin=U1-4
+Removed Pin From Net: NetName=GNDA Pin=U1-5
+Removed Pin From Net: NetName=GNDA Pin=U1-6
+Removed Pin From Net: NetName=NetR4_1 Pin=U2-1
+Removed Pin From Net: NetName=DC1- Pin=U2-3
+Removed Pin From Net: NetName=DC1- Pin=U3-5
+Removed Pin From Net: NetName=DC1- Pin=U3-6
+Removed Pin From Net: NetName=DC1- Pin=U3-7
+Removed Pin From Net: NetName=DC1- Pin=U3-8
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Pin From Net: NetName=DC2- Pin=U5-3
+Removed Pin From Net: NetName=NetR13_2 Pin=U5-4
+Removed Pin From Net: NetName=GNDA Pin=U6-3
+Removed Member From Class: ClassName=powerB Member=C6
+Removed Member From Class: ClassName=powerB Member=C7
+Removed Member From Class: ClassName=powerB Member=C8
+Removed Member From Class: ClassName=powerA Member=C9
+Removed Member From Class: ClassName=powerA Member=C10
+Removed Member From Class: ClassName=powerA Member=C11
+Removed Member From Class: ClassName=powerA Member=C12
+Removed Member From Class: ClassName=powerB Member=C13
+Removed Member From Class: ClassName=powerB Member=C14
+Removed Member From Class: ClassName=powerB Member=C15
+Removed Member From Class: ClassName=powerB Member=C16
+Removed Member From Class: ClassName=powerB Member=C20
+Removed Member From Class: ClassName=powerB Member=C21
+Removed Member From Class: ClassName=powerB Member=D1
+Removed Member From Class: ClassName=powerA Member=D2
+Removed Member From Class: ClassName=powerA Member=D3
+Removed Member From Class: ClassName=powerB Member=D4
+Removed Member From Class: ClassName=powerB Member=L1
+Removed Member From Class: ClassName=powerA Member=L2
+Removed Member From Class: ClassName=powerA Member=L3
+Removed Member From Class: ClassName=powerA Member=P1
+Removed Member From Class: ClassName=powerA Member=R2
+Removed Member From Class: ClassName=powerA Member=R3
+Removed Member From Class: ClassName=powerA Member=R6
+Removed Member From Class: ClassName=powerA Member=R8
+Removed Member From Class: ClassName=powerB Member=R9
+Removed Member From Class: ClassName=powerB Member=R12
+Removed Member From Class: ClassName=powerB Member=R14
+Removed Member From Class: ClassName=powerB Member=R15
+Removed Member From Class: ClassName=powerB Member=R16
+Removed Member From Class: ClassName=powerB Member=R17
+Removed Member From Class: ClassName=powerA Member=T1
+Removed Member From Class: ClassName=powerB Member=U1
+Removed Member From Class: ClassName=powerA Member=U2
+Removed Member From Class: ClassName=powerA Member=U3
+Removed Member From Class: ClassName=powerA Member=U4
+Removed Member From Class: ClassName=powerB Member=U5
+Removed Member From Class: ClassName=powerB Member=U6
+Change Component Designator: OldDesignator=BT1 NewDesignator=BT?
+Change Component Designator: OldDesignator=C4 NewDesignator=C?
+Change Component Designator: OldDesignator=C5 NewDesignator=C?
+Change Component Designator: OldDesignator=C17 NewDesignator=C?
+Change Component Designator: OldDesignator=C18 NewDesignator=C?
+Change Component Designator: OldDesignator=D5 NewDesignator=D?
+Change Component Designator: OldDesignator=F1 NewDesignator=F?
+Change Component Designator: OldDesignator=L4 NewDesignator=L?
+Change Component Designator: OldDesignator=L5 NewDesignator=L?
+Change Component Designator: OldDesignator=L6 NewDesignator=L?
+Change Component Designator: OldDesignator=P2 NewDesignator=P?
+Change Component Designator: OldDesignator=R1 NewDesignator=R?
+Change Component Designator: OldDesignator=R7 NewDesignator=R?
+Change Component Designator: OldDesignator=R10 NewDesignator=R?
+Change Component Designator: OldDesignator=R11 NewDesignator=R?
+Change Component Designator: OldDesignator=RT1 NewDesignator=RT?
+Change Component Designator: OldDesignator=RT2 NewDesignator=RT?
+Change Component Designator: OldDesignator=RT3 NewDesignator=RT?
+Change Component Designator: OldDesignator=T2 NewDesignator=T?
+Change Component Designator: OldDesignator=U7 NewDesignator=U?
+Change Component Designator: OldDesignator=VD1 NewDesignator=VD?
+Change Component Designator: OldDesignator=VR1 NewDesignator=VR?
+Added Component: Designator=C?(CAPPR2.5-6.3x11.5)
+Added Component: Designator=C?(CAPPR5-10x16)
+Added Component: Designator=C?(CAPC3216M)
+Added Component: Designator=C?(CAPC3216M)
+Added Component: Designator=C?(CAPPR2.5-6.3x11.5)
+Added Component: Designator=C?(CAPRD5-4.5x3A)
+Added Component: Designator=C?(CAPRD5-9x3B)
+Added Component: Designator=C?(CAPC3216M)
+Added Component: Designator=C?(CAPRD5-4.5x3A)
+Added Component: Designator=C?(CAPPR7.5-16x25B)
+Added Component: Designator=C?(CAPRD10-12x6)
+Added Component: Designator=C?(CAPC3216M)
+Added Component: Designator=C?(CAPC3216M)
+Added Component: Designator=D?(SMA)
+Added Component: Designator=D?(CD4532-1812)
+Added Component: Designator=D?(CD4532-1812)
+Added Component: Designator=D?(SMA)
+Added Component: Designator=L?(L0810)
+Added Component: Designator=L?(L0810)
+Added Component: Designator=P?(DG500HH-5.08-3)
+Added Component: Designator=R?(RESC3216M)
+Added Component: Designator=R?(RESC3216M)
+Added Component: Designator=R?(RESC3216M)
+Added Component: Designator=R?(RESC3216M)
+Added Component: Designator=R?(RESC3216M)
+Added Component: Designator=R?(RESC3216M)
+Added Component: Designator=R?(RESC3216M)
+Added Component: Designator=R?(RESC3216M)
+Added Component: Designator=R?(RESC3216M)
+Added Component: Designator=R?(RESC3216M)
+Added Component: Designator=T?(EE19W(4+4))
+Added Component: Designator=U?(TO-263-5)
+Added Component: Designator=U?(SOT-23_M)
+Added Component: Designator=U?(DIP-4)
+Added Component: Designator=U?(SOT-23_M)
+Added Component: Designator=U?(DIP-8C)
+Added Component: Designator=U?(DIP-4)
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=24V Pin=C?-1
+Added Pin To Net: NetName=24V Pin=C?-1
+Added Pin To Net: NetName=DC1+ Pin=C?-1
+Added Pin To Net: NetName=DC2+ Pin=C?-1
+Added Pin To Net: NetName=GNDA Pin=C?-1
+Added Pin To Net: NetName=POWER_PORT_RT Pin=C?-1
+Added Pin To Net: NetName=5V Pin=C?-2
+Added Pin To Net: NetName=DC1- Pin=C?-2
+Added Pin To Net: NetName=DC1- Pin=C?-2
+Added Pin To Net: NetName=DC2- Pin=C?-2
+Added Pin To Net: NetName=GNDA Pin=C?-2
+Added Pin To Net: NetName=GNDA Pin=C?-2
+Added Pin To Net: NetName=GNDA Pin=C?-2
+Added Pin To Net: NetName=GNDA Pin=C?-2
+Added Pin To Net: NetName=GNDA Pin=C?-2
+Added Pin To Net: NetName=NetBR1_2 Pin=C?-2
+Added Pin To Net: NetName=GNDA Pin=D?-1
+Added Pin To Net: NetName=NetC2_1 Pin=D?-2
+Added Pin To Net: NetName=D+ Pin=L?-1
+Added Pin To Net: NetName=NetC2_1 Pin=L?-1
+Added Pin To Net: NetName=5V Pin=L?-2
+Added Pin To Net: NetName=9V Pin=L?-2
+Added Pin To Net: NetName=DC1+ Pin=L?-2
+Added Pin To Net: NetName=POWER_PORT_L Pin=P?-1
+Added Pin To Net: NetName=POWER_PORT_N Pin=P?-2
+Added Pin To Net: NetName=POWER_PORT_GND Pin=P?-3
+Added Pin To Net: NetName=GNDA Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=24V Pin=R?-2
+Added Pin To Net: NetName=DC1+ Pin=R?-2
+Added Pin To Net: NetName=DC2+ Pin=R?-2
+Added Pin To Net: NetName=NetR4_1 Pin=R?-2
+Added Pin To Net: NetName=DC1+ Pin=T?-1
+Added Pin To Net: NetName=GND Pin=T?-5
+Added Pin To Net: NetName=24V Pin=U?-1
+Added Pin To Net: NetName=NetR4_1 Pin=U?-1
+Added Pin To Net: NetName=DC1- Pin=U?-3
+Added Pin To Net: NetName=DC2- Pin=U?-3
+Added Pin To Net: NetName=GNDA Pin=U?-3
+Added Pin To Net: NetName=GNDA Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=5V Pin=U?-4
+Added Pin To Net: NetName=NetR13_2 Pin=U?-4
+Change Net Name : Old Net Name=NetBT1_1 New Net Name=NetBT?_1
+Change Net Name : Old Net Name=NetC17_2 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD?_1
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetD?_2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-2
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=R?-1
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-1
+Added Pin To Net: NetName=NetR?_2 Pin=U?-4
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=powerA Member=Component C? (C6) 22uF/450V
+Added Member To Class: ClassName=powerA Member=Component C? (C7) 0.1uF/275V
+Added Member To Class: ClassName=powerA Member=Component C? (C9) 10uF/16V
+Added Member To Class: ClassName=powerA Member=Component C? (C8) 100nF/16V
+Added Member To Class: ClassName=powerB Member=Component C? (C13) 100uF/35V
+Added Member To Class: ClassName=powerB Member=Component C? (C12) 330uF/50V
+Added Member To Class: ClassName=powerB Member=Component C? (C19) 0.47uF/50V
+Added Member To Class: ClassName=powerB Member=Component C? (C18) 0.1uF
+Added Member To Class: ClassName=powerB Member=Component C? (C17) 220uF/10V
+Added Member To Class: ClassName=powerB Member=Component C? (C20) 10uF/16V
+Added Member To Class: ClassName=powerB Member=Component C? (C10) 2.2nF/250V
+Added Member To Class: ClassName=powerB Member=Component C? (C16) 0.1uF
+Added Member To Class: ClassName=powerB Member=Component C? (C11) 22pF/1KV
+Added Member To Class: ClassName=powerA Member=Component D? (D2) FR106(RS1M)
+Added Member To Class: ClassName=powerA Member=Component D? (D1) UF4004
+Added Member To Class: ClassName=powerB Member=Component D? (D3) UF4004
+Added Member To Class: ClassName=powerB Member=Component D? (D5) 1N5825
+Added Member To Class: ClassName=powerA Member=Component L? (L2) 1mH/0.19A
+Added Member To Class: ClassName=powerA Member=Component L? (L1) 3.3uH/2.66A
+Added Member To Class: ClassName=powerB Member=Component L? (L6) 33uH/3A
+Added Member To Class: ClassName=powerA Member=Component P? (P1) Header A3
+Added Member To Class: ClassName=powerA Member=Component R? (R8) 13K 1%
+Added Member To Class: ClassName=powerA Member=Component R? (R6) 1K %1
+Added Member To Class: ClassName=powerA Member=Component R? (R3) 2M
+Added Member To Class: ClassName=powerA Member=Component R? (R2) 2M
+Added Member To Class: ClassName=powerB Member=Component R? (R17) 15K 1%
+Added Member To Class: ClassName=powerB Member=Component R? (R16) 130K 1%
+Added Member To Class: ClassName=powerB Member=Component R? (R9) 470R
+Added Member To Class: ClassName=powerB Member=Component R? (R15) 1K %1
+Added Member To Class: ClassName=powerB Member=Component R? (R14) 499R 1%
+Added Member To Class: ClassName=powerB Member=Component R? (R12) 2M
+Added Member To Class: ClassName=powerA Member=Component T? (T1) Trans 4C
+Added Member To Class: ClassName=powerA Member=Component U? (U3) TL431(DBZ)
+Added Member To Class: ClassName=powerA Member=Component U? (U2) TNY275PN(GN)
+Added Member To Class: ClassName=powerA Member=Component U? (U1A) PS2501-1-K-A
+Added Member To Class: ClassName=powerB Member=Component U? (U4) LM2596S-5.0
+Added Member To Class: ClassName=powerB Member=Component U? (U6) TL431(DBZ)
+Added Member To Class: ClassName=powerB Member=Component U? (U5A) PS2501-1-K-A

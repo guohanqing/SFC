@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=24V_PWR Pin=P2-2
+Removed Pin From Net: NetName=24V_PWR Pin=P2-3
+Removed Pin From Net: NetName=GNDA_PWR Pin=P2-4
+Removed Pin From Net: NetName=GNDA_PWR Pin=P2-5
+Removed Pin From Net: NetName=12V_PWR Pin=P2-6
+Removed Pin From Net: NetName=12V_PWR Pin=P2-7
+Removed Pin From Net: NetName=GND_PWR Pin=P2-8
+Removed Pin From Net: NetName=GND_PWR Pin=P2-9
+Added Pin To Net: NetName=12V_PWR Pin=P2-2
+Added Pin To Net: NetName=12V_PWR Pin=P2-3
+Added Pin To Net: NetName=GND_PWR Pin=P2-4
+Added Pin To Net: NetName=GND_PWR Pin=P2-5
+Added Pin To Net: NetName=24V_PWR Pin=P2-6
+Added Pin To Net: NetName=24V_PWR Pin=P2-7
+Added Pin To Net: NetName=GNDA_PWR Pin=P2-8
+Added Pin To Net: NetName=GNDA_PWR Pin=P2-9

@@ -1,0 +1,177 @@
+Removed Pin From Net: NetName=3.3V Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=3.3V Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=NetC12_1 Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C18-2
+Removed Pin From Net: NetName=NetC12_1 Pin=CN1-6
+Removed Pin From Net: NetName=GND Pin=CN1-10
+Removed Pin From Net: NetName=GND Pin=CN1-12
+Removed Pin From Net: NetName=NetC12_1 Pin=R15-2
+Removed Pin From Net: NetName=GND Pin=R19-1
+Change Component DesignItemId : Designator=C14 Old DesignItemId=Cap New DesignItemId=Cap Pol1
+Change Component DesignItemId : Designator=U6 Old DesignItemId=LAN8720A New DesignItemId=DM9161
+Change Component Footprint: Designator=C14 Old Footprint=CAPC2012M New Footprint=CAPC3528MS
+Change Component Footprint: Designator=LR2 Old Footprint=INDC3216M New Footprint=INDC2012M
+Change Component Footprint: Designator=U6 Old Footprint=QFN24E New Footprint=LQFP48_N
+Change Component Comment : Designator=R20 Old Comment=1K New Comment=510
+Change Component Comment : Designator=R21 Old Comment=1K New Comment=510
+Change Component Comment : Designator=C12 Old Comment=10pF New Comment=0.1uF
+Change Component Comment : Designator=C13 Old Comment=10pF New Comment=0.1uF
+Change Component Comment : Designator=C15 Old Comment=10pF New Comment=0.01uF
+Change Component Comment : Designator=C14 Old Comment=10pF New Comment=220uF/6.3V
+Change Component Comment : Designator=R19 Old Comment=12.1K New Comment=10K
+Change Component Comment : Designator=R15 Old Comment=51R New Comment=49.9R%1
+Change Component Comment : Designator=R16 Old Comment=51R New Comment=49.9R%1
+Change Component Comment : Designator=R17 Old Comment=51R New Comment=49.9R%1
+Change Component Comment : Designator=R18 Old Comment=51R New Comment=49.9R%1
+Change Component Comment : Designator=LR2 Old Comment=CBW321609U101T New Comment=CBW201209U101T
+Change Component Comment : Designator=U6 Old Comment=LAN8720A New Comment=DM9161
+Change Component Designator: OldDesignator=C10 NewDesignator=C12
+Change Component Designator: OldDesignator=C11 NewDesignator=C13
+Change Component Designator: OldDesignator=C12 NewDesignator=C10
+Change Component Designator: OldDesignator=C13 NewDesignator=C11
+Change Component Designator: OldDesignator=R15 NewDesignator=R8
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Added Component: Designator=C18(CAPC2012M)
+Added Component: Designator=C27(CAPC2012M)
+Added Component: Designator=LR16(INDC2012M)
+Added Component: Designator=LR17(INDC2012M)
+Added Component: Designator=Q9(SOT-23_N)
+Added Component: Designator=R16(RESC2012M)
+Added Component: Designator=R109(RESC2012M)
+Added Component: Designator=R134(RESC2012M)
+Added Component: Designator=R139(RESC2012M)
+Added Component: Designator=Y1(X-CPX75)
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=3.3V Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=3.3V Pin=LR2-1
+Added Pin To Net: NetName=NetC12_1 Pin=LR16-2
+Added Pin To Net: NetName=GND Pin=LR17-2
+Added Pin To Net: NetName=3.3V Pin=R16-1
+Added Pin To Net: NetName=3.3V Pin=R19-1
+Added Pin To Net: NetName=3.3V Pin=R20-1
+Added Pin To Net: NetName=3.3V Pin=R21-1
+Added Pin To Net: NetName=GND Pin=R134-1
+Added Pin To Net: NetName=GND Pin=R139-1
+Added Pin To Net: NetName=NetC12_1 Pin=U6-1
+Added Pin To Net: NetName=NetC12_1 Pin=U6-2
+Added Pin To Net: NetName=NetC12_1 Pin=U6-9
+Added Pin To Net: NetName=GND Pin=U6-10
+Added Pin To Net: NetName=GND Pin=U6-15
+Added Pin To Net: NetName=ETH_RMII_TXD1 Pin=U6-19
+Added Pin To Net: NetName=ETH_RMII_TXD0 Pin=U6-20
+Added Pin To Net: NetName=ETH_RMII_TX_EN Pin=U6-21
+Added Pin To Net: NetName=ETH_RMII_MDC Pin=U6-24
+Added Pin To Net: NetName=ETH_PHY_MDIO Pin=U6-25
+Added Pin To Net: NetName=ETH_RMII_RXD1 Pin=U6-28
+Added Pin To Net: NetName=ETH_RMII_RXD0 Pin=U6-29
+Added Pin To Net: NetName=SYS_MCO1 Pin=U6-32
+Added Pin To Net: NetName=GND Pin=U6-33
+Added Pin To Net: NetName=GND Pin=U6-35
+Added Pin To Net: NetName=GND Pin=U6-36
+Added Pin To Net: NetName=ETH_RMII_CRS_DV Pin=U6-37
+Added Pin To Net: NetName=GND Pin=U6-39
+Added Pin To Net: NetName=ETH_PHY_RST Pin=U6-40
+Added Pin To Net: NetName=ETH_REF_CLK Pin=U6-42
+Added Pin To Net: NetName=GND Pin=U6-44
+Added Pin To Net: NetName=GND Pin=U6-47
+Added Pin To Net: NetName=GND Pin=Y1-2
+Change Net Name : Old Net Name=SYS_MCO1 New Net Name=ETH_RMII_INT
+Added Pin To Net: NetName=1.8VPHY Pin=C13-1
+Added Pin To Net: NetName=1.8VPHY Pin=C14-1
+Added Pin To Net: NetName=1.8VPHY Pin=C17-1
+Added Pin To Net: NetName=1.8VPHY Pin=CN1-4
+Added Pin To Net: NetName=1.8VPHY Pin=CN1-5
+Added Pin To Net: NetName=1.8VPHY Pin=LR16-1
+Added Net: Name=1.8VPHY
+Added Pin To Net: NetName=3.3VPHY Pin=C15-1
+Added Pin To Net: NetName=3.3VPHY Pin=C16-1
+Added Pin To Net: NetName=3.3VPHY Pin=C18-1
+Added Pin To Net: NetName=3.3VPHY Pin=LR2-2
+Added Pin To Net: NetName=3.3VPHY Pin=U6-23
+Added Pin To Net: NetName=3.3VPHY Pin=U6-30
+Added Pin To Net: NetName=3.3VPHY Pin=U6-31
+Added Pin To Net: NetName=3.3VPHY Pin=U6-41
+Added Pin To Net: NetName=3.3VPHY Pin=Y1-4
+Added Net: Name=3.3VPHY
+Added Pin To Net: NetName=AGND Pin=C10-2
+Added Pin To Net: NetName=AGND Pin=C11-2
+Added Pin To Net: NetName=AGND Pin=C12-2
+Added Pin To Net: NetName=AGND Pin=C13-2
+Added Pin To Net: NetName=AGND Pin=C14-2
+Added Pin To Net: NetName=AGND Pin=C17-2
+Added Pin To Net: NetName=AGND Pin=LR17-1
+Added Net: Name=AGND
+Added Pin To Net: NetName=LINKACT2 Pin=CN1-10
+Added Pin To Net: NetName=LINKACT2 Pin=R19-2
+Added Pin To Net: NetName=LINKACT2 Pin=U6-13
+Added Net: Name=LINKACT2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=R8-1
+Added Pin To Net: NetName=NetC10_1 Pin=R15-1
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=R17-1
+Added Pin To Net: NetName=NetC11_1 Pin=R18-1
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetCN1_1 Pin=CN1-1
+Added Pin To Net: NetName=NetCN1_1 Pin=R8-2
+Added Pin To Net: NetName=NetCN1_1 Pin=U6-7
+Added Net: Name=NetCN1_1
+Added Pin To Net: NetName=NetCN1_2 Pin=CN1-2
+Added Pin To Net: NetName=NetCN1_2 Pin=R15-2
+Added Pin To Net: NetName=NetCN1_2 Pin=U6-8
+Added Net: Name=NetCN1_2
+Added Pin To Net: NetName=NetCN1_3 Pin=CN1-3
+Added Pin To Net: NetName=NetCN1_3 Pin=R17-2
+Added Pin To Net: NetName=NetCN1_3 Pin=U6-3
+Added Net: Name=NetCN1_3
+Added Pin To Net: NetName=NetCN1_6 Pin=CN1-6
+Added Pin To Net: NetName=NetCN1_6 Pin=R18-2
+Added Pin To Net: NetName=NetCN1_6 Pin=U6-4
+Added Net: Name=NetCN1_6
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=NetQ9_1 Pin=R109-2
+Added Net: Name=NetQ9_1
+Added Pin To Net: NetName=NetQ9_2 Pin=Q9-2
+Added Pin To Net: NetName=NetQ9_2 Pin=U6-12
+Added Net: Name=NetQ9_2
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=U6-11
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR109_1 Pin=R109-1
+Added Pin To Net: NetName=NetR109_1 Pin=U6-14
+Added Net: Name=NetR109_1
+Added Pin To Net: NetName=NetR134_2 Pin=R134-2
+Added Pin To Net: NetName=NetR134_2 Pin=U6-38
+Added Net: Name=NetR134_2
+Added Pin To Net: NetName=NetR139_2 Pin=R139-2
+Added Pin To Net: NetName=NetR139_2 Pin=U6-48
+Added Net: Name=NetR139_2
+Added Pin To Net: NetName=NetU6_5 Pin=U6-5
+Added Pin To Net: NetName=NetU6_5 Pin=U6-6
+Added Pin To Net: NetName=NetU6_5 Pin=U6-46
+Added Net: Name=NetU6_5
+Added Pin To Net: NetName=NetU6_43 Pin=U6-43
+Added Pin To Net: NetName=NetU6_43 Pin=Y1-3
+Added Net: Name=NetU6_43
+Added Pin To Net: NetName=SPEEDLED2 Pin=CN1-12
+Added Pin To Net: NetName=SPEEDLED2 Pin=Q9-3
+Added Net: Name=SPEEDLED2
+Added Member To Class: ClassName=drveth Member=Component C18 0.1uF
+Added Member To Class: ClassName=drveth Member=Component C27 0.01uF
+Added Member To Class: ClassName=drveth Member=Component LR16 CBW201209U101T
+Added Member To Class: ClassName=drveth Member=Component LR17 CBW201209U101T
+Added Member To Class: ClassName=drveth Member=Component Q9 SS8050
+Added Member To Class: ClassName=drveth Member=Component R15 49.9R%1
+Added Member To Class: ClassName=drveth Member=Component R16 10K
+Added Member To Class: ClassName=drveth Member=Component R109 4.7K
+Added Member To Class: ClassName=drveth Member=Component R134 10K
+Added Member To Class: ClassName=drveth Member=Component R139 6.8K
+Added Member To Class: ClassName=drveth Member=Component Y1 XATLS

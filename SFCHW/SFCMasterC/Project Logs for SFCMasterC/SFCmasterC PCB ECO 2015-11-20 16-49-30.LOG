@@ -1,0 +1,6 @@
+Added Component: Designator=P5(HDR1X4H-2.0)
+Added Pin To Net: NetName=3.3V Pin=P5-1
+Added Pin To Net: NetName=SYS_SWDIO Pin=P5-2
+Added Pin To Net: NetName=SYS_SWCLK Pin=P5-3
+Added Pin To Net: NetName=GND Pin=P5-4
+Added Member To Class: ClassName=cpuinterface Member=Component P5 Header 4H

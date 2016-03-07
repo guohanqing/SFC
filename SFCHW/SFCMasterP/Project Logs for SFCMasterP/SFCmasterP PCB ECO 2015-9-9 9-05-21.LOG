@@ -1,0 +1,317 @@
+Removed Pin From Net: NetName=DC+ Pin=BR1-1
+Removed Pin From Net: NetName=DC- Pin=BR1-4
+Removed Pin From Net: NetName=24V Pin=C5-1
+Removed Pin From Net: NetName=DC+ Pin=C6-1
+Removed Pin From Net: NetName=DC- Pin=C6-2
+Removed Pin From Net: NetName=POWER_PORT_RT Pin=C7-1
+Removed Pin From Net: NetName=DC- Pin=C11-2
+Removed Pin From Net: NetName=NetC12_1 Pin=C12-1
+Removed Pin From Net: NetName=NetC14_2 Pin=C14-2
+Removed Pin From Net: NetName=DC- Pin=C15-2
+Removed Pin From Net: NetName=DC- Pin=C16-2
+Removed Pin From Net: NetName=NetC2_1 Pin=D1-2
+Removed Pin From Net: NetName=NetD4_1 Pin=D4-1
+Removed Pin From Net: NetName=NetC2_1 Pin=L1-1
+Removed Pin From Net: NetName=24V Pin=L1-2
+Removed Pin From Net: NetName=NetBR1_2 Pin=L3-1
+Removed Pin From Net: NetName=POWER_PORT_RT Pin=L3-3
+Removed Pin From Net: NetName=VBAT_SRC Pin=P5-1
+Removed Pin From Net: NetName=FG Pin=P5-4
+Removed Pin From Net: NetName=GNDA Pin=P5-5
+Removed Pin From Net: NetName=24V Pin=P5-6
+Removed Pin From Net: NetName=NetD3_2 Pin=R3-2
+Removed Pin From Net: NetName=NetD2_1 Pin=R5-2
+Removed Pin From Net: NetName=NetC2_1 Pin=R7-2
+Removed Pin From Net: NetName=NetC12_1 Pin=R8-1
+Removed Pin From Net: NetName=NetC14_2 Pin=R9-1
+Removed Pin From Net: NetName=NetC12_1 Pin=R9-2
+Removed Pin From Net: NetName=24V Pin=R10-2
+Removed Pin From Net: NetName=DC- Pin=R11-2
+Removed Pin From Net: NetName=DRAIN Pin=T1-3
+Removed Pin From Net: NetName=DC- Pin=T1-4
+Removed Pin From Net: NetName=NetD4_1 Pin=T1-5
+Removed Pin From Net: NetName=NetD2_1 Pin=T1-7
+Removed Pin From Net: NetName=GNDA Pin=T1-9
+Removed Pin From Net: NetName=NetC12_1 Pin=U1-1
+Removed Pin From Net: NetName=NetC14_2 Pin=U1-2
+Removed Pin From Net: NetName=DC- Pin=U2-4
+Removed Pin From Net: NetName=DC- Pin=U2-5
+Removed Pin From Net: NetName=DRAIN Pin=U2-7
+Removed Pin From Net: NetName=NetC14_1 Pin=U3-1
+Removed Pin From Net: NetName=GNDA Pin=U3-2
+Removed Pin From Net: NetName=NetC14_2 Pin=U3-3
+Removed Member From Class: ClassName=power Member=C6
+Removed Member From Class: ClassName=power Member=C8
+Removed Member From Class: ClassName=power Member=C10
+Removed Member From Class: ClassName=power Member=C14
+Removed Member From Class: ClassName=power Member=C15
+Removed Member From Class: ClassName=power Member=C16
+Removed Member From Class: ClassName=power Member=D1
+Removed Member From Class: ClassName=power Member=D4
+Removed Member From Class: ClassName=power Member=H1
+Removed Member From Class: ClassName=power Member=L1
+Removed Member From Class: ClassName=power Member=P5
+Removed Member From Class: ClassName=power Member=R9
+Removed Member From Class: ClassName=power Member=R10
+Removed Member From Class: ClassName=power Member=R11
+Removed Member From Class: ClassName=power Member=R12
+Removed Member From Class: ClassName=power Member=R13
+Removed Member From Class: ClassName=power Member=U2
+Change Component DesignItemId : Designator=C7 Old DesignItemId=Cap New DesignItemId=Cap Pol1
+Change Component DesignItemId : Designator=C6 Old DesignItemId=Cap Pol2 New DesignItemId=Cap
+Change Component DesignItemId : Designator=D1 Old DesignItemId=Diode 11DQ03 New DesignItemId=D Zener
+Change Component DesignItemId : Designator=L1 Old DesignItemId=Inductor Iron Dot New DesignItemId=Inductor
+Change Component DesignItemId : Designator=L3 Old DesignItemId=Inductor Iron Dot Inphase New DesignItemId=Inductor Iron Dot
+Change Component DesignItemId : Designator=U1 Old DesignItemId=PC817D New DesignItemId=LM2596S-5.0
+Change Component DesignItemId : Designator=U3 Old DesignItemId=TL431CLP New DesignItemId=TNY279PN
+Change Component DesignItemId : Designator=T1 Old DesignItemId=TRANS2-3B New DesignItemId=Trans 4C
+Change Component Footprint: Designator=C9 Old Footprint=CAPPR3.5-8x12 New Footprint=CAPPR7.5-16x20
+Change Component Footprint: Designator=L1 Old Footprint=CAPPR5-8x8A New Footprint=CD127-330
+Change Component Footprint: Designator=C6 Old Footprint=CAPPR7.5-18x31.5B New Footprint=CAPC3216M
+Change Component Footprint: Designator=C2 Old Footprint=CAPRD5-4.5x3A New Footprint=CAPC3216M
+Change Component Footprint: Designator=C8 Old Footprint=CAPRD5-4.5x3A New Footprint=CAPC3216M
+Change Component Footprint: Designator=C14 Old Footprint=CAPRD5-4.5x3A New Footprint=CAPC3216M
+Change Component Footprint: Designator=C16 Old Footprint=CAPRD5-4.5x3A New Footprint=CAPC3216M
+Change Component Footprint: Designator=C7 Old Footprint=CAPRD10-12x6 New Footprint=CAPPR2.5-6.3x11.5
+Change Component Footprint: Designator=D3 Old Footprint=DIO8.38-5.1x2.3 New Footprint=CD4532-1812
+Change Component Footprint: Designator=D2 Old Footprint=DIO10.36-5.2x2.8 New Footprint=SMA
+Change Component Footprint: Designator=D1 Old Footprint=DIO18.84-9.6x5.6 New Footprint=CD4532-1812
+Change Component Footprint: Designator=U1 Old Footprint=DIP-4 New Footprint=TO-263-5
+Change Component Footprint: Designator=T1 Old Footprint=EFD25(5+5) New Footprint=EE19W(4+4)
+Change Component Footprint: Designator=R3 Old Footprint=RES10.35-6.8X2.8 New Footprint=RESC3216M
+Change Component Footprint: Designator=R4 Old Footprint=RES10.35-6.8X2.8 New Footprint=RESC3216M
+Change Component Footprint: Designator=R6 Old Footprint=RES10.35-6.8X2.8 New Footprint=RESC3216M
+Change Component Footprint: Designator=R8 Old Footprint=RES10.35-6.8X2.8 New Footprint=RESC3216M
+Change Component Footprint: Designator=R10 Old Footprint=RES10.35-6.8X2.8 New Footprint=RESC3216M
+Change Component Footprint: Designator=R13 Old Footprint=RES10.35-6.8X2.8 New Footprint=RESC3216M
+Change Component Footprint: Designator=R1 Old Footprint=RES10.55-7X2.8 New Footprint=RESC3216M
+Change Component Footprint: Designator=R5 Old Footprint=RES10.55-7X2.8 New Footprint=RESC3216M
+Change Component Footprint: Designator=R9 Old Footprint=RES10.55-7X2.8 New Footprint=RESC3216M
+Change Component Footprint: Designator=U3 Old Footprint=TO-92AA New Footprint=DIP-8C
+Change Component Footprint: Designator=L3 Old Footprint=TRF_4A New Footprint=L0810
+Change Component Comment : Designator=C16 Old Comment=0.1uF/50V New Comment=10uF/16V
+Change Component Comment : Designator=C7 Old Comment=0.1uF/275V New Comment=220uF/10V
+Change Component Comment : Designator=L1 Old Comment=3.3uH/2.66A New Comment=33uH/3A
+Change Component Comment : Designator=R3 Old Comment=5.1R New Comment=13R
+Change Component Comment : Designator=L3 Old Comment=6mH/1.6A New Comment=1mH/0.19A
+Change Component Comment : Designator=R8 Old Comment=9.1K 1% New Comment=133R 1%
+Change Component Comment : Designator=R13 Old Comment=15K 1% New Comment=13K 1%
+Change Component Comment : Designator=C2 Old Comment=22pF/1KV New Comment=82pF/100V
+Change Component Comment : Designator=C14 Old Comment=33nF/50V New Comment=100nF/16V
+Change Component Comment : Designator=C8 Old Comment=100pF/100V New Comment=0.1uF
+Change Component Comment : Designator=C5 Old Comment=100uF/35V New Comment=100uF/16V
+Change Component Comment : Designator=C6 Old Comment=100uF/450V New Comment=0.1uF
+Change Component Comment : Designator=R10 Old Comment=130K 1% New Comment=34K 1%
+Change Component Comment : Designator=C9 Old Comment=220uF/25V New Comment=22uF/450V
+Change Component Comment : Designator=R5 Old Comment=390R New Comment=4.7K
+Change Component Comment : Designator=R1 Old Comment=470R New Comment=130R
+Change Component Comment : Designator=C4 Old Comment=680uF/35V New Comment=680uF/16V
+Change Component Comment : Designator=T1 Old Comment=EFD25 New Comment=Trans 4C
+Change Component Comment : Designator=D3 Old Comment=FR107 New Comment=FR106(RS1M)
+Change Component Comment : Designator=U1 Old Comment=PS2501-1-K-A New Comment=LM2596S-5.0
+Change Component Comment : Designator=U3 Old Comment=TL431AILP New Comment=TNY280PN(GN)
+Change Component Comment : Designator=D1 Old Comment=UF5404 New Comment=1N5825
+Change Component Designator: OldDesignator=C3 NewDesignator=C17
+Change Component Designator: OldDesignator=C4 NewDesignator=C3
+Change Component Designator: OldDesignator=C5 NewDesignator=C4
+Change Component Designator: OldDesignator=C14 NewDesignator=C11
+Change Component Designator: OldDesignator=C16 NewDesignator=C12
+Change Component Designator: OldDesignator=R2 NewDesignator=R10
+Change Component Designator: OldDesignator=R3 NewDesignator=R11
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=R6 NewDesignator=R3
+Change Component Designator: OldDesignator=R8 NewDesignator=R4
+Change Component Designator: OldDesignator=R9 NewDesignator=R6
+Change Component Designator: OldDesignator=R10 NewDesignator=R7
+Change Component Designator: OldDesignator=R13 NewDesignator=R8
+Change Component Designator: OldDesignator=RT2 NewDesignator=RT3
+Change Component Designator: OldDesignator=RT3 NewDesignator=RT2
+Change Component Designator: OldDesignator=VR2 NewDesignator=VR1
+Added Component: Designator=C5(CAPPR7.5-16x20)
+Added Component: Designator=C10(CAPRD10-12x6)
+Added Component: Designator=C13(CAPRD5-9x3B)
+Added Component: Designator=C14(CAPRD5-4.5x3A)
+Added Component: Designator=C15(CAPPR5-12.5x20)
+Added Component: Designator=C16(CAPPR2.5-6.3x11.5)
+Added Component: Designator=C18(CAPPR7.5-16x20)
+Added Component: Designator=C19(CAPPR7.5-16x20)
+Added Component: Designator=C20(CAPC3216M)
+Added Component: Designator=C21(CAPRD5-4.5x3A)
+Added Component: Designator=D4(SMA)
+Added Component: Designator=D5(CD4532-1812)
+Added Component: Designator=L4(L0810)
+Added Component: Designator=L6(TRF_4A)
+Added Component: Designator=P2(HDR1X7)
+Added Component: Designator=R9(RESC3216M)
+Added Component: Designator=R12(RESC3216M)
+Added Component: Designator=R13(RESC3216M)
+Added Component: Designator=R14(RESC3216M)
+Added Component: Designator=R15(RESC3216M)
+Added Component: Designator=R16(RESC3216M)
+Added Component: Designator=R17(RESC3216M)
+Added Component: Designator=T2(EE22W(4+4))
+Added Component: Designator=U2(DIP-4)
+Added Component: Designator=U4(TO-92AA)
+Added Component: Designator=U5(DIP-4)
+Added Component: Designator=U6(TO-92AA)
+Added Component: Designator=U7(DIP-8C)
+Added Component: Designator=VD1(SMB)
+Added Pin To Net: NetName=POWER_PORT_RT Pin=BR1-3
+Added Pin To Net: NetName=GNDA Pin=BT1-2
+Added Pin To Net: NetName=GNDA Pin=BT1-2
+Added Pin To Net: NetName=24V Pin=C6-1
+Added Pin To Net: NetName=DC+ Pin=C9-1
+Added Pin To Net: NetName=GNDA Pin=C9-2
+Added Pin To Net: NetName=POWER_PORT_RT Pin=C10-1
+Added Pin To Net: NetName=NetBR1_2 Pin=C10-2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=GNDA Pin=C12-2
+Added Pin To Net: NetName=DC+ Pin=C13-1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=24V Pin=C16-1
+Added Pin To Net: NetName=DC+ Pin=C18-1
+Added Pin To Net: NetName=DC- Pin=C18-2
+Added Pin To Net: NetName=DC+ Pin=C19-1
+Added Pin To Net: NetName=DC- Pin=C19-2
+Added Pin To Net: NetName=DC- Pin=C21-2
+Added Pin To Net: NetName=NetC2_1 Pin=D2-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=DRAIN Pin=D5-1
+Added Pin To Net: NetName=NetBR1_2 Pin=F1-2
+Added Pin To Net: NetName=NetC2_1 Pin=L2-1
+Added Pin To Net: NetName=DC+ Pin=L3-2
+Added Pin To Net: NetName=GNDA Pin=L4-2
+Added Pin To Net: NetName=DC- Pin=L6-1
+Added Pin To Net: NetName=DC+ Pin=L6-2
+Added Pin To Net: NetName=VBAT_SRC Pin=P2-1
+Added Pin To Net: NetName=GNDA Pin=P2-2
+Added Pin To Net: NetName=FG Pin=P2-4
+Added Pin To Net: NetName=24V Pin=P2-7
+Added Pin To Net: NetName=NetD2_1 Pin=R1-2
+Added Pin To Net: NetName=GNDA Pin=R5-1
+Added Pin To Net: NetName=NetC14_2 Pin=R9-1
+Added Pin To Net: NetName=NetD4_1 Pin=R9-2
+Added Pin To Net: NetName=DC+ Pin=R12-2
+Added Pin To Net: NetName=24V Pin=R16-2
+Added Pin To Net: NetName=DRAIN Pin=T1-4
+Added Pin To Net: NetName=GNDA Pin=T1-5
+Added Pin To Net: NetName=NetD2_1 Pin=T1-8
+Added Pin To Net: NetName=DC+ Pin=T2-1
+Added Pin To Net: NetName=DRAIN Pin=T2-4
+Added Pin To Net: NetName=NetD4_1 Pin=T2-8
+Added Pin To Net: NetName=24V Pin=U1-1
+Added Pin To Net: NetName=GNDA Pin=U2-3
+Added Pin To Net: NetName=NetC12_1 Pin=U3-2
+Added Pin To Net: NetName=DRAIN Pin=U3-4
+Added Pin To Net: NetName=GNDA Pin=U3-5
+Added Pin To Net: NetName=GNDA Pin=U3-6
+Added Pin To Net: NetName=GNDA Pin=U3-7
+Added Pin To Net: NetName=GNDA Pin=U3-8
+Added Pin To Net: NetName=NetC14_1 Pin=U4-1
+Added Pin To Net: NetName=GNDA Pin=U4-2
+Added Pin To Net: NetName=DC- Pin=U5-3
+Added Pin To Net: NetName=DC- Pin=U6-2
+Added Pin To Net: NetName=DRAIN Pin=U7-4
+Added Pin To Net: NetName=DC- Pin=U7-5
+Added Pin To Net: NetName=DC- Pin=U7-6
+Added Pin To Net: NetName=DC- Pin=U7-7
+Added Pin To Net: NetName=DC- Pin=U7-8
+Added Pin To Net: NetName=DC+ Pin=VD1-1
+Added Pin To Net: NetName=NetD3_2 Pin=VD1-2
+Added Pin To Net: NetName=NetBR1_2 Pin=VR1-1
+Change Net Name : Old Net Name=GNDA New Net Name=GND
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC17_2
+Change Net Name : Old Net Name=NetC14_1 New Net Name=NetC11_1
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR2_1
+Added Pin To Net: NetName=5V Pin=C7-1
+Added Pin To Net: NetName=5V Pin=C8-2
+Added Pin To Net: NetName=5V Pin=L1-2
+Added Pin To Net: NetName=5V Pin=P2-6
+Added Pin To Net: NetName=5V Pin=U1-4
+Added Net: Name=5V
+Added Pin To Net: NetName=9V Pin=C4-1
+Added Pin To Net: NetName=9V Pin=L2-2
+Added Pin To Net: NetName=9V Pin=P2-3
+Added Pin To Net: NetName=9V Pin=R7-2
+Added Net: Name=9V
+Added Pin To Net: NetName=D+ Pin=BR1-1
+Added Pin To Net: NetName=D+ Pin=C5-1
+Added Pin To Net: NetName=D+ Pin=L3-1
+Added Pin To Net: NetName=D+ Pin=L6-4
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=BR1-4
+Added Pin To Net: NetName=D- Pin=C5-2
+Added Pin To Net: NetName=D- Pin=L4-1
+Added Pin To Net: NetName=D- Pin=L6-3
+Added Pin To Net: NetName=D- Pin=R5-2
+Added Net: Name=D-
+Added Pin To Net: NetName=GNDA Pin=P2-5
+Added Net: Name=GNDA
+Added Pin To Net: NetName=GNDB Pin=C6-2
+Added Pin To Net: NetName=GNDB Pin=C7-2
+Added Pin To Net: NetName=GNDB Pin=C8-1
+Added Pin To Net: NetName=GNDB Pin=C13-2
+Added Pin To Net: NetName=GNDB Pin=C15-2
+Added Pin To Net: NetName=GNDB Pin=C16-2
+Added Pin To Net: NetName=GNDB Pin=D1-1
+Added Pin To Net: NetName=GNDB Pin=R17-1
+Added Pin To Net: NetName=GNDB Pin=T2-5
+Added Pin To Net: NetName=GNDB Pin=U1-3
+Added Pin To Net: NetName=GNDB Pin=U1-5
+Added Pin To Net: NetName=GNDB Pin=U1-6
+Added Net: Name=GNDB
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=R6-1
+Added Pin To Net: NetName=NetC11_2 Pin=U2-2
+Added Pin To Net: NetName=NetC11_2 Pin=U4-3
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=C15-1
+Added Pin To Net: NetName=NetC14_1 Pin=D4-2
+Added Pin To Net: NetName=NetC14_1 Pin=R14-2
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC20_1 Pin=R16-1
+Added Pin To Net: NetName=NetC20_1 Pin=R17-2
+Added Pin To Net: NetName=NetC20_1 Pin=U6-1
+Added Net: Name=NetC20_1
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=NetC20_2 Pin=R15-1
+Added Pin To Net: NetName=NetC20_2 Pin=U5-2
+Added Pin To Net: NetName=NetC20_2 Pin=U6-3
+Added Net: Name=NetC20_2
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=NetC21_1 Pin=U7-2
+Added Net: Name=NetC21_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=L1-1
+Added Pin To Net: NetName=NetD1_2 Pin=U1-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R11-2
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U2-4
+Added Pin To Net: NetName=NetR3_2 Pin=U3-1
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R6-2
+Added Pin To Net: NetName=NetR4_1 Pin=U2-1
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=R13-1
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=U5-4
+Added Pin To Net: NetName=NetR13_2 Pin=U7-1
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=R15-2
+Added Pin To Net: NetName=NetR14_1 Pin=U5-1
+Added Net: Name=NetR14_1
+Change Class Name : Old Net Name=power New Net Name=powerA
+Added Class: Name=powerB
+Added Member To Class: ClassName=powerA Member=Component L4 1mH/0.19A
+Added Member To Class: ClassName=powerA Member=Component P2 Header 7
+Added Member To Class: ClassName=powerA Member=Component U4 TL431AILP
+Added Member To Class: ClassName=powerA Member=Component VD1 SMBJ180A

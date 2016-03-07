@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RCT_AF Pin=J1-1
+Removed Member From Class: ClassName=cpucore Member=J1
+Change Component Footprint: Designator=Y2 Old Footprint=HC-RTC New Footprint=HC-RTC-H
+Added Pin To Net: NetName=RCT_AF Pin=U1-63

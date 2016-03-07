@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=ETH_RMII_INT Pin=U1-67
+Removed Pin From Net: NetName=USART1_RS485_DTS Pin=U1-95
+Change Component Comment : Designator=Y1 Old Comment=12MHz@20pF New Comment=8MHz@20pF
+Added Pin To Net: NetName=ETH_RMII_INT Pin=U1-95
+Added Pin To Net: NetName=MCO1 Pin=U1-67
+Added Net: Name=MCO1

@@ -1,0 +1,188 @@
+Removed Pin From Net: NetName=3.3V Pin=CN1-4
+Removed Pin From Net: NetName=3.3V Pin=CN1-5
+Removed Pin From Net: NetName=VLV_MAIN_DRIVER_ON Pin=D29-2
+Removed Pin From Net: NetName=VLV_DLY_DRIVER_ON Pin=D31-2
+Removed Pin From Net: NetName=VALVE_DRIVER1_ON Pin=D33-2
+Removed Pin From Net: NetName=VALVE_DRIVER2_ON Pin=D35-2
+Removed Pin From Net: NetName=VAVLE_DRIVER3_ON Pin=D37-2
+Removed Pin From Net: NetName=VALVE_DRIVER4_ON Pin=D39-2
+Removed Pin From Net: NetName=VALVE_DRIVER5_ON Pin=D41-2
+Removed Pin From Net: NetName=VALVE_DRIVER6_ON Pin=D43-2
+Removed Pin From Net: NetName=VALVE_DRIVER7_ON Pin=D45-2
+Removed Pin From Net: NetName=VALVE_DRIVER8_ON Pin=D47-2
+Removed Pin From Net: NetName=VLV_MAIN_DRIVER_ON Pin=K1-1
+Removed Pin From Net: NetName=NetC71_2 Pin=K1-3
+Removed Pin From Net: NetName=VLV_DLY_DRIVER_ON Pin=K2-1
+Removed Pin From Net: NetName=NetC72_2 Pin=K2-3
+Removed Pin From Net: NetName=VALVE_DRIVER1_ON Pin=K3-1
+Removed Pin From Net: NetName=NetC73_2 Pin=K3-3
+Removed Pin From Net: NetName=VALVE_DRIVER2_ON Pin=K4-1
+Removed Pin From Net: NetName=NetC74_2 Pin=K4-3
+Removed Pin From Net: NetName=VAVLE_DRIVER3_ON Pin=K5-1
+Removed Pin From Net: NetName=NetC75_2 Pin=K5-3
+Removed Pin From Net: NetName=VALVE_DRIVER4_ON Pin=K6-1
+Removed Pin From Net: NetName=NetC76_2 Pin=K6-3
+Removed Pin From Net: NetName=VALVE_DRIVER5_ON Pin=K7-1
+Removed Pin From Net: NetName=NetC77_2 Pin=K7-3
+Removed Pin From Net: NetName=VALVE_DRIVER6_ON Pin=K8-1
+Removed Pin From Net: NetName=NetC78_2 Pin=K8-3
+Removed Pin From Net: NetName=VALVE_DRIVER7_ON Pin=K9-1
+Removed Pin From Net: NetName=NetC79_2 Pin=K9-3
+Removed Pin From Net: NetName=VALVE_DRIVER8_ON Pin=K10-1
+Removed Pin From Net: NetName=NetC80_2 Pin=K10-3
+Removed Pin From Net: NetName=VALVE_DRIVER_COM Pin=LR3-1
+Removed Pin From Net: NetName=VALVE_DRIVER_L Pin=LR4-1
+Removed Pin From Net: NetName=VALVE_DRIVER_COM Pin=LR5-1
+Removed Pin From Net: NetName=VALVE_DRIVER_L Pin=LR6-1
+Removed Pin From Net: NetName=VALVE_DRIVER_COM Pin=LR7-1
+Removed Pin From Net: NetName=VALVE_DRIVER_L Pin=LR8-1
+Removed Pin From Net: NetName=VALVE_DRIVER_L Pin=LR9-1
+Removed Pin From Net: NetName=VALVE_DRIVER_L Pin=LR10-1
+Removed Pin From Net: NetName=VALVE_DRIVER_L Pin=LR11-1
+Removed Pin From Net: NetName=VALVE_DRIVER_L Pin=LR12-1
+Removed Pin From Net: NetName=3.3V Pin=R73-1
+Removed Pin From Net: NetName=3.3V Pin=R74-1
+Removed Pin From Net: NetName=3.3V Pin=R75-1
+Removed Pin From Net: NetName=3.3V Pin=R76-1
+Removed Pin From Net: NetName=3.3V Pin=U14-1
+Removed Pin From Net: NetName=3.3V Pin=U14-9
+Removed Pin From Net: NetName=3.3V Pin=U14-19
+Removed Member From Class: ClassName=cpuinterface Member=C3
+Removed Member From Class: ClassName=cpuinterface Member=C4
+Removed Member From Class: ClassName=cpuinterface Member=C5
+Removed Member From Class: ClassName=cpuinterface Member=C6
+Removed Member From Class: ClassName=cpuinterface Member=C7
+Removed Member From Class: ClassName=cpuinterface Member=C8
+Removed Member From Class: ClassName=cpuinterface Member=C9
+Removed Member From Class: ClassName=cpuinterface Member=C10
+Removed Member From Class: ClassName=cpuinterface Member=C11
+Removed Member From Class: ClassName=cpuinterface Member=C12
+Removed Member From Class: ClassName=cpuinterface Member=C13
+Removed Member From Class: ClassName=cpuinterface Member=C14
+Removed Member From Class: ClassName=cpuinterface Member=C15
+Change Component DesignItemId : Designator=K1 Old DesignItemId=Relay-SPST New DesignItemId=JZC-32F-HS3
+Change Component DesignItemId : Designator=K2 Old DesignItemId=Relay-SPST New DesignItemId=JZC-32F-HS3
+Change Component DesignItemId : Designator=K3 Old DesignItemId=Relay-SPST New DesignItemId=JZC-32F-HS3
+Change Component DesignItemId : Designator=K4 Old DesignItemId=Relay-SPST New DesignItemId=JZC-32F-HS3
+Change Component DesignItemId : Designator=K5 Old DesignItemId=Relay-SPST New DesignItemId=JZC-32F-HS3
+Change Component DesignItemId : Designator=K6 Old DesignItemId=Relay-SPST New DesignItemId=JZC-32F-HS3
+Change Component DesignItemId : Designator=K7 Old DesignItemId=Relay-SPST New DesignItemId=JZC-32F-HS3
+Change Component DesignItemId : Designator=K8 Old DesignItemId=Relay-SPST New DesignItemId=JZC-32F-HS3
+Change Component DesignItemId : Designator=K9 Old DesignItemId=Relay-SPST New DesignItemId=JZC-32F-HS3
+Change Component DesignItemId : Designator=K10 Old DesignItemId=Relay-SPST New DesignItemId=JZC-32F-HS3
+Change Component Footprint: Designator=U14 Old Footprint=QFN24 New Footprint=QFN24E
+Change Component Footprint: Designator=USB1 Old Footprint=USB0.8-2V5 New Footprint=USB-MINI1
+Change Component Comment : Designator=R86 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R96 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R85 Old Comment=4.7K New Comment=10K
+Change Component Comment : Designator=R95 Old Comment=4.7K New Comment=10K
+Change Component Comment : Designator=K1 Old Comment=JZC-32F-024-HS3 New Comment=JZC-32F-HS3
+Change Component Comment : Designator=K2 Old Comment=JZC-32F-024-HS3 New Comment=JZC-32F-HS3
+Change Component Comment : Designator=K3 Old Comment=JZC-32F-024-HS3 New Comment=JZC-32F-HS3
+Change Component Comment : Designator=K4 Old Comment=JZC-32F-024-HS3 New Comment=JZC-32F-HS3
+Change Component Comment : Designator=K5 Old Comment=JZC-32F-024-HS3 New Comment=JZC-32F-HS3
+Change Component Comment : Designator=K6 Old Comment=JZC-32F-024-HS3 New Comment=JZC-32F-HS3
+Change Component Comment : Designator=K7 Old Comment=JZC-32F-024-HS3 New Comment=JZC-32F-HS3
+Change Component Comment : Designator=K8 Old Comment=JZC-32F-024-HS3 New Comment=JZC-32F-HS3
+Change Component Comment : Designator=K9 Old Comment=JZC-32F-024-HS3 New Comment=JZC-32F-HS3
+Change Component Comment : Designator=K10 Old Comment=JZC-32F-024-HS3 New Comment=JZC-32F-HS3
+Change Component Description : Designator=K1 Old Description=Single-Pole Single-Throw Relay New Description=Intermediate  Power  Relay
+Change Component Description : Designator=K2 Old Description=Single-Pole Single-Throw Relay New Description=Intermediate  Power  Relay
+Change Component Description : Designator=K3 Old Description=Single-Pole Single-Throw Relay New Description=Intermediate  Power  Relay
+Change Component Description : Designator=K4 Old Description=Single-Pole Single-Throw Relay New Description=Intermediate  Power  Relay
+Change Component Description : Designator=K5 Old Description=Single-Pole Single-Throw Relay New Description=Intermediate  Power  Relay
+Change Component Description : Designator=K6 Old Description=Single-Pole Single-Throw Relay New Description=Intermediate  Power  Relay
+Change Component Description : Designator=K7 Old Description=Single-Pole Single-Throw Relay New Description=Intermediate  Power  Relay
+Change Component Description : Designator=K8 Old Description=Single-Pole Single-Throw Relay New Description=Intermediate  Power  Relay
+Change Component Description : Designator=K9 Old Description=Single-Pole Single-Throw Relay New Description=Intermediate  Power  Relay
+Change Component Description : Designator=K10 Old Description=Single-Pole Single-Throw Relay New Description=Intermediate  Power  Relay
+Added Component: Designator=LR13(INDC2012M)
+Added Pin To Net: NetName=VALVE_DRIVER_COM Pin=D29-2
+Added Pin To Net: NetName=VALVE_DRIVER_L Pin=D31-2
+Added Pin To Net: NetName=VALVE_DRIVER_COM Pin=D33-2
+Added Pin To Net: NetName=VALVE_DRIVER_L Pin=D35-2
+Added Pin To Net: NetName=VALVE_DRIVER_COM Pin=D37-2
+Added Pin To Net: NetName=VALVE_DRIVER_L Pin=D39-2
+Added Pin To Net: NetName=VALVE_DRIVER_L Pin=D41-2
+Added Pin To Net: NetName=VALVE_DRIVER_L Pin=D43-2
+Added Pin To Net: NetName=VALVE_DRIVER_L Pin=D45-2
+Added Pin To Net: NetName=VALVE_DRIVER_L Pin=D47-2
+Added Pin To Net: NetName=NetC71_2 Pin=K1-1
+Added Pin To Net: NetName=VLV_MAIN_DRIVER_ON Pin=K1-3
+Added Pin To Net: NetName=GNDA Pin=K1-5
+Added Pin To Net: NetName=NetC72_2 Pin=K2-1
+Added Pin To Net: NetName=VLV_DLY_DRIVER_ON Pin=K2-3
+Added Pin To Net: NetName=GNDA Pin=K2-5
+Added Pin To Net: NetName=NetC73_2 Pin=K3-1
+Added Pin To Net: NetName=VALVE_DRIVER1_ON Pin=K3-3
+Added Pin To Net: NetName=GNDA Pin=K3-5
+Added Pin To Net: NetName=NetC74_2 Pin=K4-1
+Added Pin To Net: NetName=VALVE_DRIVER2_ON Pin=K4-3
+Added Pin To Net: NetName=GNDA Pin=K4-5
+Added Pin To Net: NetName=NetC75_2 Pin=K5-1
+Added Pin To Net: NetName=VAVLE_DRIVER3_ON Pin=K5-3
+Added Pin To Net: NetName=GNDA Pin=K5-5
+Added Pin To Net: NetName=NetC76_2 Pin=K6-1
+Added Pin To Net: NetName=VALVE_DRIVER4_ON Pin=K6-3
+Added Pin To Net: NetName=GNDA Pin=K6-5
+Added Pin To Net: NetName=NetC77_2 Pin=K7-1
+Added Pin To Net: NetName=VALVE_DRIVER5_ON Pin=K7-3
+Added Pin To Net: NetName=GNDA Pin=K7-5
+Added Pin To Net: NetName=NetC78_2 Pin=K8-1
+Added Pin To Net: NetName=VALVE_DRIVER6_ON Pin=K8-3
+Added Pin To Net: NetName=GNDA Pin=K8-5
+Added Pin To Net: NetName=NetC79_2 Pin=K9-1
+Added Pin To Net: NetName=VALVE_DRIVER7_ON Pin=K9-3
+Added Pin To Net: NetName=GNDA Pin=K9-5
+Added Pin To Net: NetName=NetC80_2 Pin=K10-1
+Added Pin To Net: NetName=VALVE_DRIVER8_ON Pin=K10-3
+Added Pin To Net: NetName=GNDA Pin=K10-5
+Added Pin To Net: NetName=VLV_MAIN_DRIVER_ON Pin=LR3-1
+Added Pin To Net: NetName=VLV_DLY_DRIVER_ON Pin=LR4-1
+Added Pin To Net: NetName=VALVE_DRIVER1_ON Pin=LR5-1
+Added Pin To Net: NetName=VALVE_DRIVER2_ON Pin=LR6-1
+Added Pin To Net: NetName=VAVLE_DRIVER3_ON Pin=LR7-1
+Added Pin To Net: NetName=VALVE_DRIVER4_ON Pin=LR8-1
+Added Pin To Net: NetName=VALVE_DRIVER5_ON Pin=LR9-1
+Added Pin To Net: NetName=VALVE_DRIVER6_ON Pin=LR10-1
+Added Pin To Net: NetName=VALVE_DRIVER7_ON Pin=LR11-1
+Added Pin To Net: NetName=VALVE_DRIVER8_ON Pin=LR12-1
+Added Pin To Net: NetName=3.3V Pin=LR13-2
+Added Pin To Net: NetName=GND Pin=U14-25
+Added Pin To Net: NetName=GND Pin=U14-25
+Added Pin To Net: NetName=GND Pin=U14-25
+Added Pin To Net: NetName=GND Pin=U14-25
+Added Pin To Net: NetName=OTG_FS_VBUS Pin=USB1-1
+Added Pin To Net: NetName=NetR55_1 Pin=USB1-2
+Added Pin To Net: NetName=NetR56_1 Pin=USB1-3
+Added Pin To Net: NetName=OTG_FS_ID Pin=USB1-4
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=NetC38_1 Pin=USB1-6
+Added Pin To Net: NetName=NetC38_1 Pin=USB1-7
+Added Pin To Net: NetName=NetC38_1 Pin=USB1-8
+Added Pin To Net: NetName=NetC38_1 Pin=USB1-9
+Added Pin To Net: NetName=NetCN1_4 Pin=CN1-4
+Added Pin To Net: NetName=NetCN1_4 Pin=CN1-5
+Added Pin To Net: NetName=NetCN1_4 Pin=LR13-1
+Added Pin To Net: NetName=NetCN1_4 Pin=R73-1
+Added Pin To Net: NetName=NetCN1_4 Pin=R74-1
+Added Pin To Net: NetName=NetCN1_4 Pin=R75-1
+Added Pin To Net: NetName=NetCN1_4 Pin=R76-1
+Added Pin To Net: NetName=NetCN1_4 Pin=U14-1
+Added Pin To Net: NetName=NetCN1_4 Pin=U14-9
+Added Pin To Net: NetName=NetCN1_4 Pin=U14-19
+Added Net: Name=NetCN1_4
+Added Member To Class: ClassName=cpucore Member=Component C3 0.1uF
+Added Member To Class: ClassName=cpucore Member=Component C4 0.1uF
+Added Member To Class: ClassName=cpucore Member=Component C5 0.1uF
+Added Member To Class: ClassName=cpucore Member=Component C6 0.1uF
+Added Member To Class: ClassName=cpucore Member=Component C7 0.1uF
+Added Member To Class: ClassName=cpucore Member=Component C8 0.1uF
+Added Member To Class: ClassName=cpucore Member=Component C9 0.1uF
+Added Member To Class: ClassName=cpucore Member=Component C10 0.1uF
+Added Member To Class: ClassName=cpucore Member=Component C11 0.1uF
+Added Member To Class: ClassName=cpucore Member=Component C12 0.1uF
+Added Member To Class: ClassName=cpucore Member=Component C13 0.1uF
+Added Member To Class: ClassName=cpucore Member=Component C14 0.1uF
+Added Member To Class: ClassName=cpucore Member=Component C15 0.1uF
+Added Member To Class: ClassName=drveth Member=Component LR13 CBG201209U102

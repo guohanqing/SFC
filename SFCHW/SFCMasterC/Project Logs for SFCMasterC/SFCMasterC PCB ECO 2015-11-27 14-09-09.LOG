@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=USART1_RS485_TX Pin=P1-15
+Added Pin To Net: NetName=USART1_RS485_RX Pin=P1-16
+Change Net Name : Old Net Name=USART1_RS485_RX New Net Name=USART1_DP_RX
+Change Net Name : Old Net Name=USART1_RS485_TX New Net Name=USART1_DP_TX

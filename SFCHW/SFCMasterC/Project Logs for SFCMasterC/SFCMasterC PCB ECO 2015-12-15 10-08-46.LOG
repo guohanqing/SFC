@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ETH_RMII_TX_EN Pin=P1-15
+Removed Pin From Net: NetName=ETH_RMII_TXD1 Pin=P1-16
+Added Pin To Net: NetName=ETH_RMII_TXD1 Pin=P1-15
+Added Pin To Net: NetName=ETH_RMII_TX_EN Pin=P1-16

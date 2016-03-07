@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=5VA Pin=DP1-2
+Removed Pin From Net: NetName=GNDA Pin=DP1-3
+Removed Pin From Net: NetName=NetC22_2 Pin=DP1-4
+Change Component DesignItemId : Designator=DP1 Old DesignItemId=MPXV5100DP New DesignItemId=Header 3
+Change Component Footprint: Designator=DP1 Old Footprint=MPXV5100DP New Footprint=HDR1X3
+Change Component Comment : Designator=DP1 Old Comment=MPXV5100DP New Comment=Header 3
+Added Pin To Net: NetName=5VA Pin=DP1-1
+Added Pin To Net: NetName=GNDA Pin=DP1-2
+Added Pin To Net: NetName=NetC22_2 Pin=DP1-3

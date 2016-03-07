@@ -1,0 +1,140 @@
+Removed Pin From Net: NetName=GND_LK Pin=C81-1
+Removed Pin From Net: NetName=3.3V_LK Pin=C81-2
+Removed Pin From Net: NetName=3.3V_LK Pin=C82-1
+Removed Pin From Net: NetName=LCD_RST_LK Pin=C83-1
+Removed Pin From Net: NetName=GND_LK Pin=C84-2
+Removed Pin From Net: NetName=KEY_UP_LK Pin=P16-2
+Removed Pin From Net: NetName=KEY_DOWN_LK Pin=P16-3
+Removed Pin From Net: NetName=KEY_LEFT_LK Pin=P16-4
+Removed Pin From Net: NetName=KEY_RIGHT_LK Pin=P16-5
+Removed Pin From Net: NetName=KEY_ESC_LK Pin=P16-6
+Removed Pin From Net: NetName=KEY_ENTER_LK Pin=P16-7
+Removed Pin From Net: NetName=GND_LK Pin=P16-8
+Removed Pin From Net: NetName=3.3V_LK Pin=P17-1
+Removed Pin From Net: NetName=LCD_SPI1_NSS_LK Pin=P17-2
+Removed Pin From Net: NetName=LCD_SPI1_SCK_LK Pin=P17-3
+Removed Pin From Net: NetName=LCD_SPI1_MOSI_LK Pin=P17-4
+Removed Pin From Net: NetName=LCD_SPI1_A0_LK Pin=P17-5
+Removed Pin From Net: NetName=LCD_SPI1_BL_LK Pin=P17-6
+Removed Pin From Net: NetName=GND_LK Pin=P17-7
+Removed Pin From Net: NetName=GND_LK Pin=P18-2
+Removed Pin From Net: NetName=GND_LK Pin=P18-3
+Removed Pin From Net: NetName=GND_LK Pin=P18-5
+Removed Pin From Net: NetName=LCD_RST_LK Pin=P18-6
+Removed Pin From Net: NetName=LCD_SPI1_A0_LK Pin=P18-7
+Removed Pin From Net: NetName=LCD_SPI1_MOSI_LK Pin=P18-8
+Removed Pin From Net: NetName=LCD_SPI1_SCK_LK Pin=P18-9
+Removed Pin From Net: NetName=LCD_SPI1_NSS_LK Pin=P18-12
+Removed Pin From Net: NetName=GND_LK Pin=P18-13
+Removed Pin From Net: NetName=3.3V_LK Pin=Q52-2
+Removed Pin From Net: NetName=LCD_SPI1_BL_LK Pin=R218-2
+Removed Pin From Net: NetName=3.3V_LK Pin=R219-1
+Removed Pin From Net: NetName=LCD_RST_LK Pin=R219-2
+Removed Pin From Net: NetName=KEY_UP_LK Pin=R220-1
+Removed Pin From Net: NetName=3.3V_LK Pin=R220-2
+Removed Pin From Net: NetName=KEY_DOWN_LK Pin=R221-1
+Removed Pin From Net: NetName=3.3V_LK Pin=R221-2
+Removed Pin From Net: NetName=KEY_LEFT_LK Pin=R222-1
+Removed Pin From Net: NetName=3.3V_LK Pin=R222-2
+Removed Pin From Net: NetName=KEY_RIGHT_LK Pin=R223-1
+Removed Pin From Net: NetName=3.3V_LK Pin=R223-2
+Removed Pin From Net: NetName=KEY_ESC_LK Pin=R224-1
+Removed Pin From Net: NetName=3.3V_LK Pin=R224-2
+Removed Pin From Net: NetName=KEY_ENTER_LK Pin=R225-1
+Removed Pin From Net: NetName=3.3V_LK Pin=R225-2
+Change Component DesignItemId : Designator=P17 Old DesignItemId=Header 7 New DesignItemId=Header 14
+Change Component DesignItemId : Designator=P16 Old DesignItemId=Header 8 New DesignItemId=Header 7
+Change Component DesignItemId : Designator=P18 Old DesignItemId=Header 14 New DesignItemId=Header 8
+Change Component Footprint: Designator=P18 Old Footprint=FPC14 New Footprint=HDR1X8SMT
+Change Component Footprint: Designator=P17 Old Footprint=HDR1X7SMT New Footprint=FPC14
+Change Component Footprint: Designator=P16 Old Footprint=HDR1X8SMT New Footprint=HDR1X7SMT
+Change Component Comment : Designator=C84 Old Comment=0.1uF New Comment=10uF
+Change Component Comment : Designator=C85 Old Comment=10uF New Comment=0.1uF
+Change Component Comment : Designator=P17 Old Comment=Header 7 New Comment=Header 14
+Change Component Comment : Designator=P16 Old Comment=Header 8 New Comment=Header 7
+Change Component Comment : Designator=P18 Old Comment=Header 14 New Comment=Header 8
+Change Component Designator: OldDesignator=C81 NewDesignator=C1
+Change Component Designator: OldDesignator=C82 NewDesignator=C3
+Change Component Designator: OldDesignator=C83 NewDesignator=C4
+Change Component Designator: OldDesignator=C84 NewDesignator=C5
+Change Component Designator: OldDesignator=C85 NewDesignator=C2
+Change Component Designator: OldDesignator=C86 NewDesignator=C6
+Change Component Designator: OldDesignator=C87 NewDesignator=C7
+Change Component Designator: OldDesignator=C88 NewDesignator=C8
+Change Component Designator: OldDesignator=C89 NewDesignator=C9
+Change Component Designator: OldDesignator=C90 NewDesignator=C10
+Change Component Designator: OldDesignator=C91 NewDesignator=C11
+Change Component Designator: OldDesignator=P16 NewDesignator=P1
+Change Component Designator: OldDesignator=P17 NewDesignator=P3
+Change Component Designator: OldDesignator=P18 NewDesignator=P2
+Change Component Designator: OldDesignator=S4 NewDesignator=S1
+Change Component Designator: OldDesignator=S5 NewDesignator=S2
+Change Component Designator: OldDesignator=S6 NewDesignator=S3
+Change Component Designator: OldDesignator=S7 NewDesignator=S4
+Change Component Designator: OldDesignator=S8 NewDesignator=S5
+Change Component Designator: OldDesignator=S9 NewDesignator=S6
+Added Component: Designator=Q1(SOT-23_N)
+Added Component: Designator=R1(RESC2012M)
+Added Component: Designator=R2(RESC2012M)
+Added Component: Designator=R3(RESC2012M)
+Added Component: Designator=R4(RESC2012M)
+Added Component: Designator=R5(RESC2012M)
+Added Component: Designator=R6(RESC2012M)
+Added Component: Designator=R7(RESC2012M)
+Added Component: Designator=R8(RESC2012M)
+Added Pin To Net: NetName=3.3V_LK Pin=C1-1
+Added Pin To Net: NetName=GND_LK Pin=C1-2
+Added Pin To Net: NetName=3.3V_LK Pin=C2-2
+Added Pin To Net: NetName=LCD_RST_LK Pin=C3-1
+Added Pin To Net: NetName=GND_LK Pin=C5-1
+Added Pin To Net: NetName=LCD_SPI1_NSS_LK Pin=P1-2
+Added Pin To Net: NetName=LCD_SPI1_SCK_LK Pin=P1-3
+Added Pin To Net: NetName=LCD_SPI1_MOSI_LK Pin=P1-4
+Added Pin To Net: NetName=LCD_SPI1_A0_LK Pin=P1-5
+Added Pin To Net: NetName=LCD_SPI1_BL_LK Pin=P1-6
+Added Pin To Net: NetName=GND_LK Pin=P1-7
+Added Pin To Net: NetName=3.3V_LK Pin=P2-1
+Added Pin To Net: NetName=KEY_UP_LK Pin=P2-2
+Added Pin To Net: NetName=KEY_DOWN_LK Pin=P2-3
+Added Pin To Net: NetName=KEY_LEFT_LK Pin=P2-4
+Added Pin To Net: NetName=KEY_RIGHT_LK Pin=P2-5
+Added Pin To Net: NetName=KEY_ESC_LK Pin=P2-6
+Added Pin To Net: NetName=KEY_ENTER_LK Pin=P2-7
+Added Pin To Net: NetName=GND_LK Pin=P2-8
+Added Pin To Net: NetName=GND_LK Pin=P3-2
+Added Pin To Net: NetName=GND_LK Pin=P3-3
+Added Pin To Net: NetName=GND_LK Pin=P3-5
+Added Pin To Net: NetName=LCD_RST_LK Pin=P3-6
+Added Pin To Net: NetName=LCD_SPI1_A0_LK Pin=P3-7
+Added Pin To Net: NetName=LCD_SPI1_MOSI_LK Pin=P3-8
+Added Pin To Net: NetName=LCD_SPI1_SCK_LK Pin=P3-9
+Added Pin To Net: NetName=LCD_SPI1_NSS_LK Pin=P3-12
+Added Pin To Net: NetName=GND_LK Pin=P3-13
+Added Pin To Net: NetName=3.3V_LK Pin=Q1-2
+Added Pin To Net: NetName=LCD_SPI1_BL_LK Pin=R1-2
+Added Pin To Net: NetName=3.3V_LK Pin=R2-1
+Added Pin To Net: NetName=LCD_RST_LK Pin=R2-2
+Added Pin To Net: NetName=KEY_UP_LK Pin=R3-1
+Added Pin To Net: NetName=3.3V_LK Pin=R3-2
+Added Pin To Net: NetName=KEY_DOWN_LK Pin=R4-1
+Added Pin To Net: NetName=3.3V_LK Pin=R4-2
+Added Pin To Net: NetName=KEY_LEFT_LK Pin=R5-1
+Added Pin To Net: NetName=3.3V_LK Pin=R5-2
+Added Pin To Net: NetName=KEY_RIGHT_LK Pin=R6-1
+Added Pin To Net: NetName=3.3V_LK Pin=R6-2
+Added Pin To Net: NetName=KEY_ESC_LK Pin=R7-1
+Added Pin To Net: NetName=3.3V_LK Pin=R7-2
+Added Pin To Net: NetName=KEY_ENTER_LK Pin=R8-1
+Added Pin To Net: NetName=3.3V_LK Pin=R8-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=C5-2
+Added Pin To Net: NetName=NetC4_1 Pin=P3-10
+Added Pin To Net: NetName=NetC4_1 Pin=P3-11
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetP3_4 Pin=P3-4
+Added Pin To Net: NetName=NetP3_4 Pin=Q1-3
+Added Net: Name=NetP3_4
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-1
+Added Net: Name=NetQ1_1
+Added Class: Name=lcd&key

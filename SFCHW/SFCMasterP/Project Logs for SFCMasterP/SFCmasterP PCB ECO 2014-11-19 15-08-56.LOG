@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=L1 Old DesignItemId=Inductor New DesignItemId=Inductor Iron Dot
+Change Component DesignItemId : Designator=L2 Old DesignItemId=Inductor New DesignItemId=Inductor Iron Dot
+Change Component Description : Designator=L1 Old Description=Inductor with Winding No Polarity Marking New Description=Magnetic-Core Inductor with Winding Polarity Marking
+Change Component Description : Designator=L2 Old Description=Inductor with Winding No Polarity Marking New Description=Magnetic-Core Inductor with Winding Polarity Marking
+Change Component Library : Designator=L1 Old Library=UserLib.IntLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=L2 Old Library=UserLib.IntLib New Library=Miscellaneous Devices.IntLib

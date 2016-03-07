@@ -1,0 +1,10 @@
+Added Component: Designator=U34(SO-8LA)
+Added Pin To Net: NetName=3.3V Pin=U34-1
+Added Pin To Net: NetName=NetR103_1 Pin=U34-2
+Added Pin To Net: NetName=NetR104_1 Pin=U34-3
+Added Pin To Net: NetName=GND Pin=U34-4
+Added Pin To Net: NetName=GNDA Pin=U34-5
+Added Pin To Net: NetName=NetC25_2 Pin=U34-6
+Added Pin To Net: NetName=NetC24_2 Pin=U34-7
+Added Pin To Net: NetName=5VA Pin=U34-8
+Added Member To Class: ClassName=drvcomm Member=Component U34 ISO1050DUB

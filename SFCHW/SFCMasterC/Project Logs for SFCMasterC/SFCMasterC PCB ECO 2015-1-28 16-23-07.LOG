@@ -1,0 +1,4 @@
+Added Component: Designator=S2(PBSMT-6x3x3.5R)
+Added Pin To Net: NetName=NetS2_1 Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Member To Class: ClassName=cpuinterface Member=Component S2 SW-PB

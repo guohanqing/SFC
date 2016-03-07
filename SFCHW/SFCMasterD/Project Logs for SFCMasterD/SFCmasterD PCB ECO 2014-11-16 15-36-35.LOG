@@ -1,0 +1,129 @@
+Removed Member From Class: ClassName=drvinput2 Member=D1
+Removed Member From Class: ClassName=drvinput3 Member=D3
+Removed Member From Class: ClassName=drvinput0 Member=D6
+Removed Member From Class: ClassName=drvinput1 Member=D8
+Removed Member From Class: ClassName=drvinput3 Member=Q4
+Removed Member From Class: ClassName=drvcomm Member=Q5
+Removed Member From Class: ClassName=drvinput0 Member=Q6
+Removed Member From Class: ClassName=drvinput1 Member=Q7
+Removed Member From Class: ClassName=drvinput1 Member=R2
+Removed Member From Class: ClassName=drvinput1 Member=R6
+Removed Member From Class: ClassName=drvinput1 Member=R10
+Removed Member From Class: ClassName=drvinput1 Member=R13
+Removed Member From Class: ClassName=drvinput2 Member=R16
+Removed Member From Class: ClassName=drvinput2 Member=R17
+Removed Member From Class: ClassName=drvcomm Member=R18
+Removed Member From Class: ClassName=drvinput2 Member=R18
+Removed Member From Class: ClassName=drvinput2 Member=R20
+Removed Member From Class: ClassName=drvcomm Member=R22
+Removed Member From Class: ClassName=drvinput2 Member=R22
+Removed Member From Class: ClassName=drvinput2 Member=R27
+Removed Member From Class: ClassName=drvinput2 Member=R28
+Removed Member From Class: ClassName=drvinput2 Member=R32
+Removed Member From Class: ClassName=drvinput3 Member=R36
+Removed Member From Class: ClassName=drvcomm Member=R37
+Removed Member From Class: ClassName=drvinput0 Member=R37
+Removed Member From Class: ClassName=drvinput2 Member=R37
+Removed Member From Class: ClassName=drvinput3 Member=R37
+Removed Member From Class: ClassName=drvinput3 Member=R39
+Removed Member From Class: ClassName=drvinput3 Member=R40
+Removed Member From Class: ClassName=drvinput3 Member=R41
+Removed Member From Class: ClassName=drvinput3 Member=R43
+Removed Member From Class: ClassName=drvinput3 Member=R45
+Removed Member From Class: ClassName=drvinput3 Member=R47
+Removed Member From Class: ClassName=drvinput3 Member=R49
+Removed Member From Class: ClassName=drvinput3 Member=R51
+Removed Member From Class: ClassName=drvinput3 Member=R53
+Removed Member From Class: ClassName=drvinput3 Member=R55
+Removed Member From Class: ClassName=drvcomm Member=R58
+Removed Member From Class: ClassName=drvcomm Member=R65
+Removed Member From Class: ClassName=drvcomm Member=R69
+Removed Member From Class: ClassName=drvcomm Member=R73
+Removed Member From Class: ClassName=drveth Member=R73
+Removed Member From Class: ClassName=drvcomm Member=R77
+Removed Member From Class: ClassName=drveth Member=R77
+Removed Member From Class: ClassName=drvinput0 Member=R82
+Removed Member From Class: ClassName=drvinput0 Member=R86
+Removed Member From Class: ClassName=drvinput0 Member=R88
+Removed Member From Class: ClassName=drvinput2 Member=R88
+Removed Member From Class: ClassName=drvinput0 Member=R90
+Removed Member From Class: ClassName=drvinput0 Member=R92
+Removed Member From Class: ClassName=drvinput2 Member=R92
+Removed Member From Class: ClassName=drvinput1 Member=R96
+Removed Member From Class: ClassName=drvinput1 Member=R100
+Removed Member From Class: ClassName=drvinput0 Member=U3
+Removed Member From Class: ClassName=drvinput0 Member=U4
+Removed Member From Class: ClassName=drvinput1 Member=U6
+Removed Member From Class: ClassName=drvinput1 Member=U7
+Removed Member From Class: ClassName=drvinput1 Member=U8
+Removed Member From Class: ClassName=drvinput3 Member=U8
+Removed Member From Class: ClassName=drvinput2 Member=U12
+Removed Member From Class: ClassName=drvinput1 Member=U18
+Added Pin To Net: NetName=VALVE_DRIVER_L Pin=D9-2
+Added Pin To Net: NetName=VALVE_DRIVER_L Pin=D13-2
+Added Pin To Net: NetName=VALVE_DRIVER_L Pin=D17-2
+Added Pin To Net: NetName=VALVE_DRIVER_L Pin=K1-2
+Added Pin To Net: NetName=VALVE_DRIVER_L Pin=K3-2
+Added Pin To Net: NetName=VALVE_DRIVER_L Pin=K5-2
+Added Member To Class: ClassName=drvinput0 Member=Component D2 SMB24CA
+Added Member To Class: ClassName=drvinput1 Member=Component D4 SMB24CA
+Added Member To Class: ClassName=drvinput2 Member=Component D5 SMB24CA
+Added Member To Class: ClassName=drvinput3 Member=Component D7 SMB24CA
+Added Member To Class: ClassName=drvcomm Member=Component Q1 SS8550
+Added Member To Class: ClassName=drvinput0 Member=Component Q2 SS8050
+Added Member To Class: ClassName=drvinput1 Member=Component Q3 SS8050
+Added Member To Class: ClassName=drvinput3 Member=Component Q8 SS8050
+Added Member To Class: ClassName=drvcomm Member=Component R1 1K
+Added Member To Class: ClassName=drvcomm Member=Component R3 300R
+Added Member To Class: ClassName=drvcomm Member=Component R5 100R
+Added Member To Class: ClassName=drvcomm Member=Component R7 4.7K
+Added Member To Class: ClassName=drvcomm Member=Component R8 10K
+Added Member To Class: ClassName=drvcomm Member=Component R9 4.7K
+Added Member To Class: ClassName=drvcomm Member=Component R11 3K
+Added Member To Class: ClassName=drvcomm Member=Component R12 470R
+Added Member To Class: ClassName=drveth Member=Component R16 51R
+Added Member To Class: ClassName=drveth Member=Component R20 1K
+Added Member To Class: ClassName=drvinput0 Member=Component R24 32K
+Added Member To Class: ClassName=drvinput0 Member=Component R25 100K
+Added Member To Class: ClassName=drvinput0 Member=Component R29 10K
+Added Member To Class: ClassName=drvinput0 Member=Component R31 51K
+Added Member To Class: ClassName=drvinput0 Member=Component R33 1K
+Added Member To Class: ClassName=drvinput0 Member=Component R35 100K
+Added Member To Class: ClassName=drvinput1 Member=Component R39 4.7K
+Added Member To Class: ClassName=drvinput1 Member=Component R43 1M
+Added Member To Class: ClassName=drvinput1 Member=Component R46 100K
+Added Member To Class: ClassName=drvinput1 Member=Component R50 4.7K
+Added Member To Class: ClassName=drvinput1 Member=Component R54 1K
+Added Member To Class: ClassName=drvinput1 Member=Component R57 100K
+Added Member To Class: ClassName=drvinput2 Member=Component R60 10K
+Added Member To Class: ClassName=drvinput2 Member=Component R61 4.7K
+Added Member To Class: ClassName=drvinput2 Member=Component R62 10K
+Added Member To Class: ClassName=drvinput2 Member=Component R64 51K
+Added Member To Class: ClassName=drvinput2 Member=Component R66 1K
+Added Member To Class: ClassName=drvinput2 Member=Component R68 100K
+Added Member To Class: ClassName=drvinput2 Member=Component R71 10K
+Added Member To Class: ClassName=drvinput2 Member=Component R72 4.7K
+Added Member To Class: ClassName=drvinput2 Member=Component R75 1M
+Added Member To Class: ClassName=drvinput2 Member=Component R76 1K
+Added Member To Class: ClassName=drvinput2 Member=Component R79 100K
+Added Member To Class: ClassName=drvinput3 Member=Component R80 10K
+Added Member To Class: ClassName=drvinput3 Member=Component R81 100K
+Added Member To Class: ClassName=drvinput3 Member=Component R83 4.7K
+Added Member To Class: ClassName=drvinput3 Member=Component R84 10K
+Added Member To Class: ClassName=drvinput3 Member=Component R85 470R
+Added Member To Class: ClassName=drvinput3 Member=Component R87 1K
+Added Member To Class: ClassName=drvinput3 Member=Component R89 100K
+Added Member To Class: ClassName=drvinput3 Member=Component R91 100K
+Added Member To Class: ClassName=drvinput3 Member=Component R93 4.7K
+Added Member To Class: ClassName=drvinput3 Member=Component R95 10K
+Added Member To Class: ClassName=drvinput3 Member=Component R97 1M
+Added Member To Class: ClassName=drvinput3 Member=Component R99 51K
+Added Member To Class: ClassName=drvcomm Member=Component U5 6N137
+Added Member To Class: ClassName=drvinput0 Member=Component U9 LMV321
+Added Member To Class: ClassName=drvinput0 Member=Component U10 LM293D
+Added Member To Class: ClassName=drvinput1 Member=Component U12 LM293D
+Added Member To Class: ClassName=drvinput1 Member=Component U13 EL817C
+Added Member To Class: ClassName=drvinput1 Member=Component U14 EL817C
+Added Member To Class: ClassName=drvinput2 Member=Component U16 EL817C
+Added Member To Class: ClassName=drvinput3 Member=Component U19 EL817C
+Added Member To Class: ClassName=drvinput3 Member=Component U20 EL817C

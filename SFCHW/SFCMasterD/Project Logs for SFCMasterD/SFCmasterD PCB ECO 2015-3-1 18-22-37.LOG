@@ -1,0 +1,30 @@
+Change Component DesignItemId : Designator=U3 Old DesignItemId=HCPL-2601/2611 New DesignItemId=6N137
+Change Component DesignItemId : Designator=U5 Old DesignItemId=HCPL-2601/2611 New DesignItemId=6N137
+Change Component Comment : Designator=U3 Old Comment=HCPL-2601/2611 New Comment=6N137
+Change Component Comment : Designator=U5 Old Comment=HCPL-2601/2611 New Comment=6N137
+Added Component: Designator=U34(SO-8LA)
+Added Component: Designator=U35(SO8_N)
+Added Component: Designator=U36(SO-8LA)
+Added Pin To Net: NetName=CANL_PORT Pin=P6-2
+Added Pin To Net: NetName=NetR103_1 Pin=U34-2
+Added Pin To Net: NetName=CAN1_TX Pin=U34-3
+Added Pin To Net: NetName=GNDA Pin=U34-5
+Added Pin To Net: NetName=NetR110_2 Pin=U34-6
+Added Pin To Net: NetName=NetR104_2 Pin=U34-7
+Added Pin To Net: NetName=5VA Pin=U34-8
+Added Pin To Net: NetName=NetR110_2 Pin=U35-1
+Added Pin To Net: NetName=GNDA Pin=U35-2
+Added Pin To Net: NetName=5VA Pin=U35-3
+Added Pin To Net: NetName=NetU35_4 Pin=U35-4
+Added Pin To Net: NetName=NetC25_2 Pin=U35-6
+Added Pin To Net: NetName=NetC24_2 Pin=U35-7
+Added Pin To Net: NetName=NetR115_2 Pin=U35-8
+Added Pin To Net: NetName=NetR128_1 Pin=U36-2
+Added Pin To Net: NetName=NetU35_4 Pin=U36-3
+Added Pin To Net: NetName=GND Pin=U36-5
+Added Pin To Net: NetName=CAN1_RX Pin=U36-6
+Added Pin To Net: NetName=NetR127_2 Pin=U36-7
+Added Pin To Net: NetName=5V Pin=U36-8
+Added Member To Class: ClassName=drvcomm Member=Component U34 6N137
+Added Member To Class: ClassName=drvcomm Member=Component U35 PCA82C250/251
+Added Member To Class: ClassName=drvcomm Member=Component U36 6N137

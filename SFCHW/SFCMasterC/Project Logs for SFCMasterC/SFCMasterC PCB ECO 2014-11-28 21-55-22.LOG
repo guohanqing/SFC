@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=SYS_ERR_LED New Net Name=WIFI_RUN_LED
+Change Net Name : Old Net Name=SYS_RUN_LED New Net Name=BT_RUN_LED
+Change Net Name : Old Net Name=USART3_EN New Net Name=BT_USART3_EN
+Change Net Name : Old Net Name=USART3_RX New Net Name=BT_USART3_RX
+Change Net Name : Old Net Name=USART3_STATE New Net Name=BT_USART3_STATE
+Change Net Name : Old Net Name=USART3_TX New Net Name=BT_USART3_TX

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=KEY_UP_LK Pin=P18-2
+Removed Pin From Net: NetName=KEY_DOWN_LK Pin=P18-3
+Removed Pin From Net: NetName=KEY_ESC_LK Pin=P18-6
+Added Pin To Net: NetName=KEY_ESC_LK Pin=P18-2
+Added Pin To Net: NetName=KEY_PRIOR_LK Pin=P18-3
+Added Pin To Net: NetName=KEY_UP_LK Pin=P18-4
+Added Pin To Net: NetName=KEY_DOWN_LK Pin=P18-5
+Added Pin To Net: NetName=KEY_NEXT_LK Pin=P18-6
+Change Net Name : Old Net Name=KEY_DOWN_LK New Net Name=KEY_RIGHT_LK
+Change Net Name : Old Net Name=KEY_ESC_LK New Net Name=KEY_UP_LK
+Change Net Name : Old Net Name=KEY_NEXT_LK New Net Name=KEY_ESC_LK
+Change Net Name : Old Net Name=KEY_PRIOR_LK New Net Name=KEY_DOWN_LK
+Change Net Name : Old Net Name=KEY_UP_LK New Net Name=KEY_LEFT_LK

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C4 Old Footprint=CAPPR2.5-6.3x11.5 New Footprint=CAPPR2-5x7
+Change Component Footprint: Designator=C3 Old Footprint=CAPPR5-12.5x20 New Footprint=CAPPR5-8x12
+Change Component Footprint: Designator=C15 Old Footprint=CAPPR5-12.5x20 New Footprint=CAPPR5-10x16
+Change Component Comment : Designator=C15 Old Comment=270uF/50V New Comment=330uF/50V

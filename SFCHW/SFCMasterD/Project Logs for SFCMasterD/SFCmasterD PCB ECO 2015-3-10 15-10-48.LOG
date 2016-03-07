@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetCN1_1 Pin=R8-2
+Removed Pin From Net: NetName=NetCN1_2 Pin=R15-2
+Removed Pin From Net: NetName=NetCN1_3 Pin=R17-2
+Removed Pin From Net: NetName=NetCN1_6 Pin=R18-2
+Change Component Footprint: Designator=U6 Old Footprint=LQFP48_L New Footprint=LQFP48_N
+Added Pin To Net: NetName=NetCN1_3 Pin=R8-2
+Added Pin To Net: NetName=NetCN1_6 Pin=R15-2
+Added Pin To Net: NetName=NetCN1_1 Pin=R17-2
+Added Pin To Net: NetName=NetCN1_2 Pin=R18-2

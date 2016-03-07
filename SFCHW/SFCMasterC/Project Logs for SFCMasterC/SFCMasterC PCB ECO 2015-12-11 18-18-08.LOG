@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=3.3V Pin=R50-1
+Removed Member From Class: ClassName=cpuledout Member=D22
+Removed Member From Class: ClassName=cpuledout Member=R50

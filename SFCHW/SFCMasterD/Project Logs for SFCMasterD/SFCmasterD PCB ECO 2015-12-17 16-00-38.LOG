@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=USART_DP_TX Pin=U2-42
+Added Pin To Net: NetName=USART_DP_RX Pin=U2-43

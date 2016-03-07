@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GND_PWR Pin=BT1-2
+Added Pin To Net: NetName=GND_PWR Pin=BT1-2
+Change Net Name : Old Net Name=VBAT_DRV New Net Name=VBAT_PWR

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetC20_2 Pin=R15-1
+Removed Pin From Net: NetName=NetR14_1 Pin=R15-2
+Removed Member From Class: ClassName=powerA Member=C7
+Removed Member From Class: ClassName=powerB Member=R8
+Removed Member From Class: ClassName=powerA Member=U1
+Change Component Footprint: Designator=L1 Old Footprint=CD127-330 New Footprint=L0810
+Added Component: Designator=R15(RESC3216M)
+Added Pin To Net: NetName=NetC20_2 Pin=R15-1
+Added Pin To Net: NetName=NetR14_1 Pin=R15-2
+Added Member To Class: ClassName=powerA Member=Component C10 0.1uF/275V
+Added Member To Class: ClassName=powerB Member=Component C15 270uF/50V
+Added Member To Class: ClassName=powerB Member=Component C20 0.47uF/50V
+Added Member To Class: ClassName=powerB Member=Component C21 10uF/16V
+Added Member To Class: ClassName=powerB Member=Component D4 UF4004
+Added Member To Class: ClassName=powerB Member=Component R12 2M
+Added Member To Class: ClassName=powerB Member=Component R13 2M
+Added Member To Class: ClassName=powerB Member=Component R14 499R 1%
+Added Member To Class: ClassName=powerB Member=Component R17 15K 1%
+Added Member To Class: ClassName=powerA Member=Component U2 PS2501-1-K-A

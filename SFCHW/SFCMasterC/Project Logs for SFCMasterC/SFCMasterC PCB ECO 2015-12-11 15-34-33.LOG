@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SPI3_TF_CD Pin=U1-71
+Removed Pin From Net: NetName=SPI1_LCD_BL Pin=U1-84
+Added Pin To Net: NetName=SPI1_LCD_BL Pin=U1-71
+Added Pin To Net: NetName=SPI3_TF_CD Pin=U1-84

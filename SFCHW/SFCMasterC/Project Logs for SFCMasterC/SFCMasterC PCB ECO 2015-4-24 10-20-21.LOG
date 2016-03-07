@@ -1,0 +1,17 @@
+Change Net Name : Old Net Name=PRO_SEL New Net Name=_USART6_WIFI_PROSEL
+Change Net Name : Old Net Name=RS232_RXD1 New Net Name=RS232_EXT_RXD1
+Change Net Name : Old Net Name=RS232_RXD2 New Net Name=RS232_PC_RXD2
+Change Net Name : Old Net Name=RS232_TXD1 New Net Name=RS232_EXT_TXD1
+Change Net Name : Old Net Name=RS232_TXD2 New Net Name=RS232_PC_TXD2
+Change Net Name : Old Net Name=USART1_DTS New Net Name=USART1_RS485_DTS
+Change Net Name : Old Net Name=USART1_LINK New Net Name=USART1_RS485_LINK
+Change Net Name : Old Net Name=USART1_RX New Net Name=USART1_RS485_RX
+Change Net Name : Old Net Name=USART1_TX New Net Name=USART1_RS485_TX
+Change Net Name : Old Net Name=USART2_LINK New Net Name=USART2_EXT_LINK
+Change Net Name : Old Net Name=USART2_RX New Net Name=USART2_EXT_RX
+Change Net Name : Old Net Name=USART2_TX New Net Name=USART2_EXT_TX
+Change Net Name : Old Net Name=USART3_RX New Net Name=USART3_PC_RX
+Change Net Name : Old Net Name=USART3_TX New Net Name=USART3_PC_TX
+Change Net Name : Old Net Name=WIFI_USART6_LINK New Net Name=USART6_WIFI_LINK
+Change Net Name : Old Net Name=WIFI_USART6_RX New Net Name=USART6_WIFI_RX
+Change Net Name : Old Net Name=WIFI_USART6_TX New Net Name=USART6_WIFI_TX

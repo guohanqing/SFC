@@ -1,0 +1,11 @@
+Change Net Name : Old Net Name=FLASH_SPI3_MISO New Net Name=SPI3_MISO
+Change Net Name : Old Net Name=FLASH_SPI3_MOSI New Net Name=SPI3_MOSI
+Change Net Name : Old Net Name=FLASH_SPI3_NSS New Net Name=SPI3_FLASH_NSS
+Change Net Name : Old Net Name=FLASH_SPI3_SCK New Net Name=SPI3_SCK
+Change Net Name : Old Net Name=LCD_SPI1_A0 New Net Name=SPI1_LCD_A0
+Change Net Name : Old Net Name=LCD_SPI1_BL New Net Name=SPI1_LCD_BL
+Change Net Name : Old Net Name=LCD_SPI1_MOSI New Net Name=SPI1_LCD_MOSI
+Change Net Name : Old Net Name=LCD_SPI1_NSS New Net Name=SPI1_LCD_NSS
+Change Net Name : Old Net Name=LCD_SPI1_SCK New Net Name=SPI1_LCD_SCK
+Change Net Name : Old Net Name=SPI_SD_CD New Net Name=SPI3_TF_CD
+Change Net Name : Old Net Name=SPI_SD_NSS New Net Name=SPI3_TF_NSS

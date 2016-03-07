@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DETECT_IN2 Pin=U1-39
+Removed Pin From Net: NetName=DETECT_IN9 Pin=U1-88
+Added Pin To Net: NetName=DETECT_IN9 Pin=U1-39
+Added Pin To Net: NetName=DETECT_IN2 Pin=U1-88

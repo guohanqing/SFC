@@ -1,0 +1,53 @@
+Protel Design System Design Rule Check
+PCB File : E:\SFC\SFCHW\SFCMasterC\SFCMasterC.PcbDoc
+Date     : 2016/1/17
+Time     : 21:54:19
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.508mm) (Preferred=0.508mm) (InNet('9V') or InNet('3.3V') or InNet('5V') or InNet('5VA') or InNet('GND') or InNet('VBAT') or InNet('VBAT_SRC') or InNet('VDDA') or InNet('VREF') or InNet('VSSA') or InNet('24V')or InNet('GNDA') or InNet('GNDA1')or InNet('24VGNDA'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.25mm) (Max=0.254mm) (Preferred=0.25mm) (WithinRoom('RoomDefinitionU1'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (InComponent('U1')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.245mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.25mm) (InComponent('U8')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (InComponent('USB1')),(InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=1mm) ((InNamedPolygon('Bottom Layer-GND') OR InNamedPolygon('Top Layer-GND'))),((InNet('24V') OR InNet('24VGNDA')))
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:01

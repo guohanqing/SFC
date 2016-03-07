@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=LEVEL_DRV_OUT1_ON Pin=K11-3
+Removed Pin From Net: NetName=LEVEL_DRV_OUT2_ON Pin=K12-3
+Removed Pin From Net: NetName=LEVEL_DRV_OUT1_ON Pin=LR14-1
+Removed Pin From Net: NetName=LEVEL_DRV_OUT2_ON Pin=LR15-1
+Added Pin To Net: NetName=VAVLE_DRV_OUT9_ON Pin=K11-3
+Added Pin To Net: NetName=VAVLE_DRV_OUT9_ON Pin=LR14-1
+Added Net: Name=VAVLE_DRV_OUT9_ON
+Added Pin To Net: NetName=VAVLE_DRV_OUT10_ON Pin=K12-3
+Added Pin To Net: NetName=VAVLE_DRV_OUT10_ON Pin=LR15-1
+Added Net: Name=VAVLE_DRV_OUT10_ON

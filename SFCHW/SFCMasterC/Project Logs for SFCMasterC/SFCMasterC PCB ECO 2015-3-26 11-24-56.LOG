@@ -1,0 +1,4 @@
+Added Component: Designator=R1(RESC2012M)
+Added Pin To Net: NetName=SPI_SD_CD Pin=R1-1
+Added Pin To Net: NetName=3.3V Pin=R1-2
+Added Member To Class: ClassName=cpuinterface Member=Component R1 10K

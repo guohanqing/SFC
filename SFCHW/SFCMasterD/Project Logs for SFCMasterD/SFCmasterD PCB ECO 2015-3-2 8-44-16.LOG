@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CANH_PORT Pin=P6-1
+Removed Pin From Net: NetName=CANL_PORT Pin=P6-2
+Change Component DesignItemId : Designator=P6 Old DesignItemId=Header 2 New DesignItemId=Header 3
+Change Component Footprint: Designator=P6 Old Footprint=DG128-5.0-2 New Footprint=DG128-5.0-3
+Change Component Comment : Designator=P6 Old Comment=Header 2 New Comment=Header 3
+Added Pin To Net: NetName=FG Pin=P6-1
+Added Pin To Net: NetName=CANH_PORT Pin=P6-2
+Added Pin To Net: NetName=CANL_PORT Pin=P6-3

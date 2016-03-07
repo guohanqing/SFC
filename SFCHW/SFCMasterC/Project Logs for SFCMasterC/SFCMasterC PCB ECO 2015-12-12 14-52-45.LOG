@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=D23-2
+Removed Pin From Net: NetName=5V Pin=S3-1
+Removed Member From Class: ClassName=cpuinterface Member=D23
+Removed Member From Class: ClassName=cpuinterface Member=R47
+Removed Member From Class: ClassName=cpuinterface Member=S3
+Added Pin To Net: NetName=5V Pin=C41-1
+Added Pin To Net: NetName=5V Pin=C42-1
+Added Pin To Net: NetName=5V Pin=P3-3

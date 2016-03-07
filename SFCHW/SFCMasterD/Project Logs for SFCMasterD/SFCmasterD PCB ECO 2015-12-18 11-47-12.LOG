@@ -1,0 +1,17 @@
+Added Component: Designator=U12(SOIC-14AM)
+Added Pin To Net: NetName=NetR81_1 Pin=U12-1
+Added Pin To Net: NetName=NetR86_1 Pin=U12-2
+Added Pin To Net: NetName=3.3V Pin=U12-3
+Added Pin To Net: NetName=VREF Pin=U12-4
+Added Pin To Net: NetName=NetR85_2 Pin=U12-5
+Added Pin To Net: NetName=VREF Pin=U12-6
+Added Pin To Net: NetName=NetR80_2 Pin=U12-7
+Added Pin To Net: NetName=VREF Pin=U12-8
+Added Pin To Net: NetName=NetR90_2 Pin=U12-9
+Added Pin To Net: NetName=VREF Pin=U12-10
+Added Pin To Net: NetName=NetR95_2 Pin=U12-11
+Added Pin To Net: NetName=GND Pin=U12-12
+Added Pin To Net: NetName=NetR96_1 Pin=U12-13
+Added Pin To Net: NetName=NetR91_1 Pin=U12-14
+Added Member To Class: ClassName=drvoutput3 Member=Component D24 LL4148
+Added Member To Class: ClassName=drvinput5 Member=Component U12 LM2901

@@ -1,0 +1,22 @@
+Added Component: Designator=C34(CAPC2012M)
+Added Component: Designator=U5(SOIC8_W)
+Added Pin To Net: NetName=3.3V Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=3.3V Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=3.3V Pin=U5-7
+Added Pin To Net: NetName=3.3V Pin=U5-8
+Added Pin To Net: NetName=SPI1_FLASH_NSS Pin=U2-14
+Added Pin To Net: NetName=SPI1_FLASH_NSS Pin=U5-1
+Added Net: Name=SPI1_FLASH_NSS
+Added Pin To Net: NetName=SPI1_MISO Pin=U2-16
+Added Pin To Net: NetName=SPI1_MISO Pin=U5-2
+Added Net: Name=SPI1_MISO
+Added Pin To Net: NetName=SPI1_MOSI Pin=U2-17
+Added Pin To Net: NetName=SPI1_MOSI Pin=U5-5
+Added Net: Name=SPI1_MOSI
+Added Pin To Net: NetName=SPI1_SCK Pin=U2-15
+Added Pin To Net: NetName=SPI1_SCK Pin=U5-6
+Added Net: Name=SPI1_SCK
+Added Member To Class: ClassName=drvcomdp Member=Component C34 0.1uF
+Added Member To Class: ClassName=drvcomdp Member=Component U5 W25P64

@@ -1,0 +1,14 @@
+Change Net Name : Old Net Name=3.3V_LK New Net Name=3.3V
+Change Net Name : Old Net Name=GND_LK New Net Name=GND
+Change Net Name : Old Net Name=KEY_DOWN_LK New Net Name=KEY_DOWN
+Change Net Name : Old Net Name=KEY_ENTER_LK New Net Name=KEY_ENTER
+Change Net Name : Old Net Name=KEY_ESC_LK New Net Name=KEY_ESC
+Change Net Name : Old Net Name=KEY_LEFT_LK New Net Name=KEY_LEFT
+Change Net Name : Old Net Name=KEY_RIGHT_LK New Net Name=KEY_RIGHT
+Change Net Name : Old Net Name=KEY_UP_LK New Net Name=KEY_UP
+Change Net Name : Old Net Name=LCD_RST_LK New Net Name=LCD_RST
+Change Net Name : Old Net Name=LCD_SPI1_A0_LK New Net Name=LCD_SPI1_A0
+Change Net Name : Old Net Name=LCD_SPI1_BL_LK New Net Name=LCD_SPI1_BL
+Change Net Name : Old Net Name=LCD_SPI1_MOSI_LK New Net Name=LCD_SPI1_MOSI
+Change Net Name : Old Net Name=LCD_SPI1_NSS_LK New Net Name=LCD_SPI1_NSS
+Change Net Name : Old Net Name=LCD_SPI1_SCK_LK New Net Name=LCD_SPI1_SCK

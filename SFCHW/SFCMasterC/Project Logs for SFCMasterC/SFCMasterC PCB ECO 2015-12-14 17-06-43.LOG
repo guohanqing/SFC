@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=ETH_PHY_RST Pin=P1-9
+Removed Pin From Net: NetName=ETH_REF_CLK Pin=P1-10
+Removed Pin From Net: NetName=ETH_PHY_MDIO Pin=P1-11
+Added Pin To Net: NetName=ETH_REF_CLK Pin=P1-9
+Added Pin To Net: NetName=ETH_PHY_MDIO Pin=P1-10
+Added Pin To Net: NetName=ETH_PHY_RST Pin=P1-11

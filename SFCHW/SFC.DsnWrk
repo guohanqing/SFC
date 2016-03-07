@@ -1,0 +1,14 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=SFCMasterC\SFCMasterC.PrjPCB
+[Project2]
+ProjectPath=SFCMasterD\SFCMasterD.PrjPCB
+[Project3]
+ProjectPath=SFCMasterL\SFCMasterL.PrjPCB
+[Project4]
+ProjectPath=SFCMasterP\SFCMasterP.PrjPCB
+[Project5]
+ProjectPath=SFCRS232\SFCRS232.PrjPCB
+[Project6]
+ProjectPath=..\..\UserLib\UserLib.LibPkg

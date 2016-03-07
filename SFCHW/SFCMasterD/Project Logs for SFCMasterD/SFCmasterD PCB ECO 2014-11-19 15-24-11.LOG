@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VALVE_DRIVER_L Pin=P3-13
+Added Component: Designator=L2(CAPRD7.5-11x4A)
+Added Pin To Net: NetName=VALVE_DRIVER_L Pin=L2-1
+Added Pin To Net: NetName=VALVE_DRIVER_L1 Pin=L2-2
+Added Pin To Net: NetName=VALVE_DRIVER_L1 Pin=P3-13
+Added Net: Name=VALVE_DRIVER_L1
+Added Member To Class: ClassName=drvamap Member=Component L2 Inductor Iron

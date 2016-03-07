@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=FG_DRV Pin=LR1-1
+Change Net Name : Old Net Name=3.3V_DRV New Net Name=3.3V
+Change Net Name : Old Net Name=5V_DRV New Net Name=5V
+Change Net Name : Old Net Name=5VA_DRV New Net Name=5VA
+Change Net Name : Old Net Name=12V_DRV New Net Name=12V
+Change Net Name : Old Net Name=24V_DRV New Net Name=24V
+Change Net Name : Old Net Name=DP_CHECK_IN_DRV New Net Name=DP_CHECK_IN
+Change Net Name : Old Net Name=DP_STARTUP_DRV New Net Name=DP_STARTUP
+Change Net Name : Old Net Name=ETH_PHY_MDIO_DRV New Net Name=ETH_PHY_MDIO
+Change Net Name : Old Net Name=ETH_PHY_RST_DRV New Net Name=ETH_PHY_RST
+Change Net Name : Old Net Name=ETH_REF_CLK_DRV New Net Name=ETH_REF_CLK
+Change Net Name : Old Net Name=ETH_RMII_CRS_DV_DRV New Net Name=ETH_RMII_CRS_DV
+Change Net Name : Old Net Name=ETH_RMII_MDC_DRV New Net Name=ETH_RMII_MDC
+Change Net Name : Old Net Name=ETH_RMII_RXD0_DRV New Net Name=ETH_RMII_RXD0
+Change Net Name : Old Net Name=ETH_RMII_RXD1_DRV New Net Name=ETH_RMII_RXD1
+Change Net Name : Old Net Name=ETH_RMII_TX_EN_DRV New Net Name=ETH_RMII_TX_EN
+Change Net Name : Old Net Name=ETH_RMII_TXD0_DRV New Net Name=ETH_RMII_TXD0
+Change Net Name : Old Net Name=ETH_RMII_TXD1_DRV New Net Name=ETH_RMII_TXD1
+Change Net Name : Old Net Name=GND_DRV New Net Name=GND
+Change Net Name : Old Net Name=GNDA_DRV New Net Name=GNDA
+Change Net Name : Old Net Name=LEVEL_DETECT_H1_DRV New Net Name=LEVEL_DETECT_H1
+Change Net Name : Old Net Name=LEVEL_DETECT_H2_DRV New Net Name=LEVEL_DETECT_H2
+Change Net Name : Old Net Name=LEVEL_DETECT_L1_DRV New Net Name=LEVEL_DETECT_L1
+Change Net Name : Old Net Name=LEVEL_DETECT_L2_DRV New Net Name=LEVEL_DETECT_L2
+Change Net Name : Old Net Name=LEVEL_DRV_OUT1_DRV New Net Name=LEVEL_DRV_OUT1
+Change Net Name : Old Net Name=LEVEL_DRV_OUT2_DRV New Net Name=LEVEL_DRV_OUT2
+Change Net Name : Old Net Name=RMT_STARTUP_DRV New Net Name=RMT_STARTUP
+Change Net Name : Old Net Name=SYS_MCO1_DRV New Net Name=SYS_MCO1
+Change Net Name : Old Net Name=TIM2_CH3_CAP_DRV New Net Name=TIM2_CH3_CAP
+Change Net Name : Old Net Name=USART1_DTS_DRV New Net Name=USART1_DTS
+Change Net Name : Old Net Name=USART1_RX_DRV New Net Name=USART1_RX
+Change Net Name : Old Net Name=USART1_TX_DRV New Net Name=USART1_TX
+Change Net Name : Old Net Name=VALVE_DRIVER1_DRV New Net Name=VALVE_DRIVER1
+Change Net Name : Old Net Name=VALVE_DRIVER2_DRV New Net Name=VALVE_DRIVER2
+Change Net Name : Old Net Name=VALVE_DRIVER4_DRV New Net Name=VALVE_DRIVER4
+Change Net Name : Old Net Name=VALVE_DRIVER5_DRV New Net Name=VALVE_DRIVER5
+Change Net Name : Old Net Name=VALVE_DRIVER6_DRV New Net Name=VALVE_DRIVER6
+Change Net Name : Old Net Name=VALVE_DRIVER7_DRV New Net Name=VALVE_DRIVER7
+Change Net Name : Old Net Name=VALVE_DRIVER8_DRV New Net Name=VALVE_DRIVER8
+Change Net Name : Old Net Name=VAVLE_DRIVER3_DRV New Net Name=VAVLE_DRIVER3
+Change Net Name : Old Net Name=VBAT_DRV New Net Name=VBAT
+Change Net Name : Old Net Name=VLV_DLY_DRIVER_DRV New Net Name=VLV_DLY_DRIVER
+Change Net Name : Old Net Name=VLV_MAIN_DRIVER_DRV New Net Name=VLV_MAIN_DRIVER
+Added Pin To Net: NetName=FG Pin=LR1-1
+Added Net: Name=FG

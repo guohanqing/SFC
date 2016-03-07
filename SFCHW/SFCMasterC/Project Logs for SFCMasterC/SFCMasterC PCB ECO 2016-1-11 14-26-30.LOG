@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=SPI1_LCD_MOSI Pin=P7-12
+Removed Pin From Net: NetName=SPI1_LCD_NSS Pin=U1-29
+Removed Pin From Net: NetName=SPI1_LCD_SCK Pin=U1-30
+Removed Pin From Net: NetName=SPI1_LCD_MOSI Pin=U1-31
+Removed Pin From Net: NetName=USART6_WIFI_LINK Pin=U1-89
+Removed Pin From Net: NetName=USART6_WIFI_PROG Pin=U1-90
+Removed Pin From Net: NetName=RCT_AF Pin=U1-91
+Removed Pin From Net: NetName=SUB_SYS_RST Pin=U1-92
+Added Component: Designator=R25(RESC2012M)
+Added Component: Designator=R32(RESC2012M)
+Added Pin To Net: NetName=GND Pin=P1-12
+Added Pin To Net: NetName=SPI1_LCD_MOSI Pin=R25-1
+Added Pin To Net: NetName=USART6_WIFI_LINK Pin=U1-29
+Added Pin To Net: NetName=USART6_WIFI_PROG Pin=U1-30
+Added Pin To Net: NetName=SUB_SYS_RST Pin=U1-31
+Added Pin To Net: NetName=SPI1_LCD_SCK Pin=U1-89
+Added Pin To Net: NetName=SPI1_LCD_MOSI Pin=U1-91
+Added Pin To Net: NetName=SPI1_LCD_NSS Pin=U1-92
+Added Pin To Net: NetName=RCT_AF Pin=U1-96
+Added Pin To Net: NetName=SPI1_LCD_MISO Pin=R32-1
+Added Pin To Net: NetName=SPI1_LCD_MISO Pin=U1-90
+Added Net: Name=SPI1_LCD_MISO
+Added Pin To Net: NetName=SPI1_LCD_SDA Pin=P7-12
+Added Pin To Net: NetName=SPI1_LCD_SDA Pin=R25-2
+Added Pin To Net: NetName=SPI1_LCD_SDA Pin=R32-2
+Added Net: Name=SPI1_LCD_SDA
+Added Member To Class: ClassName=cpuinterface Member=Component R25 0R
+Added Member To Class: ClassName=cpuinterface Member=Component R32 0R

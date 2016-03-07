@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=VMAIN_DRIVER Pin=R56-1
+Added Pin To Net: NetName=VDLY_DRIVER Pin=R57-1
+Added Pin To Net: NetName=VDRIVER_OUT1 Pin=R58-1
+Added Pin To Net: NetName=VDRIVER_OUT2 Pin=R59-1
+Added Pin To Net: NetName=VDRIVER_OUT3 Pin=R60-1
+Added Pin To Net: NetName=VDRIVER_OUT4 Pin=R61-1
+Added Pin To Net: NetName=VDRIVER_OUT5 Pin=R62-1
+Added Pin To Net: NetName=VDRIVER_OUT6 Pin=R63-1
+Added Pin To Net: NetName=VDRIVER_OUT7 Pin=R64-1
+Added Pin To Net: NetName=VDRIVER_OUT8 Pin=R65-1
+Added Pin To Net: NetName=VDRIVER_OUT9 Pin=R66-1
+Added Pin To Net: NetName=VDRIVER_OUT10 Pin=R67-1

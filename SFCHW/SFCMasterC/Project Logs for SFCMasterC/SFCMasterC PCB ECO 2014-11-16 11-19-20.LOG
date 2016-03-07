@@ -1,0 +1,175 @@
+Removed Pin From Net: NetName=VBAT Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=3.3V Pin=C25-2
+Removed Pin From Net: NetName=12V Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=VSSA Pin=C28-1
+Removed Pin From Net: NetName=VREF Pin=C28-2
+Removed Pin From Net: NetName=VSSA Pin=C29-1
+Removed Pin From Net: NetName=VREF Pin=C29-2
+Removed Pin From Net: NetName=VSSA Pin=C30-1
+Removed Pin From Net: NetName=VDDA Pin=C30-2
+Removed Pin From Net: NetName=VSSA Pin=C31-1
+Removed Pin From Net: NetName=VDDA Pin=C31-2
+Removed Pin From Net: NetName=RCC_OSC_IN Pin=C32-1
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Pin From Net: NetName=NetD1_1 Pin=R9-2
+Removed Pin From Net: NetName=NetD2_1 Pin=R10-2
+Removed Pin From Net: NetName=NetD3_1 Pin=R11-2
+Removed Pin From Net: NetName=VDDA Pin=U4-1
+Removed Pin From Net: NetName=VREF Pin=U4-2
+Removed Pin From Net: NetName=VSSA Pin=U4-3
+Removed Pin From Net: NetName=GND Pin=U5-1
+Removed Pin From Net: NetName=SYS_NRST Pin=U5-2
+Removed Pin From Net: NetName=NetS2_2 Pin=U5-3
+Removed Pin From Net: NetName=3.3V Pin=U5-4
+Removed Member From Class: ClassName=cpucore Member=C41
+Removed Member From Class: ClassName=cpuledout Member=D7
+Removed Member From Class: ClassName=cpuotg Member=D23
+Removed Member From Class: ClassName=cpuledout Member=Q7
+Removed Member From Class: ClassName=cpuledout Member=R15
+Removed Member From Class: ClassName=cpuledout Member=R18
+Removed Member From Class: ClassName=cpuotg Member=R48
+Removed Member From Class: ClassName=cpuotg Member=R49
+Change Component Designator: OldDesignator=D4 NewDesignator=D6
+Change Component Designator: OldDesignator=D5 NewDesignator=D7
+Change Component Designator: OldDesignator=D6 NewDesignator=D4
+Change Component Designator: OldDesignator=D7 NewDesignator=D5
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q3
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q1
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q6
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q7
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q4
+Change Component Designator: OldDesignator=Q7 NewDesignator=Q5
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R11
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R14
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Component Designator: OldDesignator=R14 NewDesignator=R12
+Change Component Designator: OldDesignator=R15 NewDesignator=R13
+Change Component Designator: OldDesignator=R16 NewDesignator=R18
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R16
+Change Component Designator: OldDesignator=R19 NewDesignator=R17
+Added Component: Designator=C24(CAPC2012M)
+Added Component: Designator=C25(CAPC2012M)
+Added Component: Designator=C27(CAPC2012M)
+Added Component: Designator=C28(CAPC2012M)
+Added Component: Designator=C29(CAPC2012M)
+Added Component: Designator=C30(CAPC2012M)
+Added Component: Designator=C31(CAPC2012M)
+Added Component: Designator=C32(CAPC2012M)
+Added Component: Designator=D1(CD2012-0805)
+Added Component: Designator=D2(CD2012-0805)
+Added Component: Designator=D3(CD2012-0805)
+Added Component: Designator=U4(SOT23_M)
+Added Component: Designator=U5(SOT-143_N)
+Added Component: Designator=U6(SO8W)
+Added Component: Designator=U7(SOP-8)
+Added Component: Designator=U8(SOT23-6_L)
+Added Pin To Net: NetName=VBAT Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=3.3V Pin=C25-2
+Added Pin To Net: NetName=12V Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=VSSA Pin=C28-1
+Added Pin To Net: NetName=VREF Pin=C28-2
+Added Pin To Net: NetName=VSSA Pin=C29-1
+Added Pin To Net: NetName=VREF Pin=C29-2
+Added Pin To Net: NetName=VSSA Pin=C30-1
+Added Pin To Net: NetName=VDDA Pin=C30-2
+Added Pin To Net: NetName=VSSA Pin=C31-1
+Added Pin To Net: NetName=VDDA Pin=C31-2
+Added Pin To Net: NetName=RCC_OSC_IN Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=NetD1_1 Pin=R9-2
+Added Pin To Net: NetName=NetD2_1 Pin=R10-2
+Added Pin To Net: NetName=NetD3_1 Pin=R11-2
+Added Pin To Net: NetName=VDDA Pin=U4-1
+Added Pin To Net: NetName=VREF Pin=U4-2
+Added Pin To Net: NetName=VSSA Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=SYS_NRST Pin=U5-2
+Added Pin To Net: NetName=NetS2_2 Pin=U5-3
+Added Pin To Net: NetName=3.3V Pin=U5-4
+Added Pin To Net: NetName=FLASH_SPI3_NSS Pin=U6-1
+Added Pin To Net: NetName=FLASH_SPI3_MISO Pin=U6-2
+Added Pin To Net: NetName=3.3V Pin=U6-3
+Added Pin To Net: NetName=NetC44_2 Pin=U6-4
+Added Pin To Net: NetName=FLASH_SPI3_MOSI Pin=U6-5
+Added Pin To Net: NetName=FLASH_SPI3_SCK Pin=U6-6
+Added Pin To Net: NetName=3.3V Pin=U6-7
+Added Pin To Net: NetName=3.3V Pin=U6-8
+Added Pin To Net: NetName=OTG_FS_PWR Pin=U7-1
+Added Pin To Net: NetName=OTG_FS_FAULT Pin=U7-2
+Added Pin To Net: NetName=GND Pin=U7-6
+Added Pin To Net: NetName=NetR52_1 Pin=U7-7
+Added Pin To Net: NetName=OTG_FS_VBUS Pin=U7-8
+Added Pin To Net: NetName=NetR54_1 Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=OTG_FS_ID Pin=U8-3
+Added Pin To Net: NetName=OTG_FS_VBUS Pin=U8-5
+Added Pin To Net: NetName=NetR53_1 Pin=U8-6
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetD6_1
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD7_1
+Change Net Name : Old Net Name=NetD6_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetD7_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetQ3_1
+Change Net Name : Old Net Name=NetQ1_3 New Net Name=NetQ3_3
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetQ2_3 New Net Name=NetQ1_3
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ3_3 New Net Name=NetQ2_3
+Change Net Name : Old Net Name=NetQ4_1 New Net Name=NetQ6_1
+Change Net Name : Old Net Name=NetQ4_3 New Net Name=NetQ6_3
+Change Net Name : Old Net Name=NetQ5_1 New Net Name=NetQ7_1
+Change Net Name : Old Net Name=NetQ5_3 New Net Name=NetQ7_3
+Change Net Name : Old Net Name=NetQ6_1 New Net Name=NetQ4_1
+Change Net Name : Old Net Name=NetQ6_3 New Net Name=NetQ4_3
+Change Net Name : Old Net Name=NetQ7_1 New Net Name=NetQ5_1
+Change Net Name : Old Net Name=NetQ7_3 New Net Name=NetQ5_3
+Added Member To Class: ClassName=cpuinterface Member=Component C24 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C25 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C26 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C27 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C28 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C29 1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C30 0.1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C31 1uF
+Added Member To Class: ClassName=cpuinterface Member=Component C32 20pF
+Added Member To Class: ClassName=cpuotg Member=Component C45 10uF
+Added Member To Class: ClassName=cpuotg Member=Component C46 0.1uF
+Added Member To Class: ClassName=cpuotg Member=Component C47 0.1uF
+Added Member To Class: ClassName=cpuledin Member=Component D1 RUN
+Added Member To Class: ClassName=cpuledin Member=Component D2 RUN
+Added Member To Class: ClassName=cpuledin Member=Component D3 RUN
+Added Member To Class: ClassName=cpuledin Member=Component D7 RUN
+Added Member To Class: ClassName=cpuledout Member=Component D23 ERR
+Added Member To Class: ClassName=cpuotg Member=Component D24 LL4148
+Added Member To Class: ClassName=cpuinterface Member=Component P4 Header 6
+Added Member To Class: ClassName=cpuledin Member=Component Q7 SS8550
+Added Member To Class: ClassName=cpuledout Member=Component Q23 SS8550
+Added Member To Class: ClassName=cpuledin Member=Component R18 510
+Added Member To Class: ClassName=cpuledin Member=Component R19 510
+Added Member To Class: ClassName=cpuledout Member=Component R50 510
+Added Member To Class: ClassName=cpuledout Member=Component R51 510
+Added Member To Class: ClassName=cpuotg Member=Component R55 10K
+Added Member To Class: ClassName=cpuotg Member=Component R56 10K
+Added Member To Class: ClassName=cpuinterface Member=Component U4 REF3025
+Added Member To Class: ClassName=cpuinterface Member=Component U5 MIC811TU
+Added Member To Class: ClassName=cpuinterface Member=Component U6 W25P64
+Added Member To Class: ClassName=cpuotg Member=Component U7 AIC1526
+Added Member To Class: ClassName=cpuotg Member=Component U8 USBLC6-2

@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=DETECT_IN10 Pin=P4-3
+Removed Pin From Net: NetName=DETECT_IN9 Pin=P4-4
+Removed Pin From Net: NetName=DETECT_IN8 Pin=P4-5
+Removed Pin From Net: NetName=DETECT_IN7 Pin=P4-6
+Removed Pin From Net: NetName=DETECT_IN6 Pin=P4-7
+Removed Pin From Net: NetName=DETECT_IN5 Pin=P4-8
+Removed Pin From Net: NetName=USART2_EXT_LINK Pin=U1-85
+Change Component DesignItemId : Designator=P4 Old DesignItemId=Header 8 New DesignItemId=Header 10
+Change Component Footprint: Designator=P4 Old Footprint=HDR1X8 New Footprint=HDR1X10
+Change Component Comment : Designator=P4 Old Comment=Header 8 New Comment=Header 10
+Added Component: Designator=D43(CD2012-0805)
+Added Component: Designator=D44(CD2012-0805)
+Added Component: Designator=D45(CD2012-0805)
+Added Component: Designator=D46(CD2012-0805)
+Added Component: Designator=R11(RESC2012M)
+Added Component: Designator=R12(RESC2012M)
+Added Pin To Net: NetName=PORT_INT Pin=D45-1
+Added Pin To Net: NetName=PORT_INT Pin=D46-1
+Added Pin To Net: NetName=DETECT_IN10 Pin=P4-5
+Added Pin To Net: NetName=DETECT_IN9 Pin=P4-6
+Added Pin To Net: NetName=DETECT_IN8 Pin=P4-7
+Added Pin To Net: NetName=DETECT_IN7 Pin=P4-8
+Added Pin To Net: NetName=DETECT_IN6 Pin=P4-9
+Added Pin To Net: NetName=DETECT_IN5 Pin=P4-10
+Added Pin To Net: NetName=3.3V Pin=R11-2
+Added Pin To Net: NetName=3.3V Pin=R12-2
+Added Pin To Net: NetName=DETECT_IN11 Pin=D43-2
+Added Pin To Net: NetName=DETECT_IN11 Pin=D45-2
+Added Pin To Net: NetName=DETECT_IN11 Pin=P4-4
+Added Pin To Net: NetName=DETECT_IN11 Pin=U1-85
+Added Net: Name=DETECT_IN11
+Added Pin To Net: NetName=DETECT_IN12 Pin=D44-2
+Added Pin To Net: NetName=DETECT_IN12 Pin=D46-2
+Added Pin To Net: NetName=DETECT_IN12 Pin=P4-3
+Added Pin To Net: NetName=DETECT_IN12 Pin=U1-35
+Added Net: Name=DETECT_IN12
+Added Pin To Net: NetName=NetD43_1 Pin=D43-1
+Added Pin To Net: NetName=NetD43_1 Pin=R11-1
+Added Net: Name=NetD43_1
+Added Pin To Net: NetName=NetD44_1 Pin=D44-1
+Added Pin To Net: NetName=NetD44_1 Pin=R12-1
+Added Net: Name=NetD44_1
+Added Member To Class: ClassName=cpuledin Member=Component D43 Green
+Added Member To Class: ClassName=cpuledin Member=Component D44 Green
+Added Member To Class: ClassName=cpuledin Member=Component D45 LL4148
+Added Member To Class: ClassName=cpuledin Member=Component D46 LL4148
+Added Member To Class: ClassName=cpuledin Member=Component R11 1K
+Added Member To Class: ClassName=cpuledin Member=Component R12 1K

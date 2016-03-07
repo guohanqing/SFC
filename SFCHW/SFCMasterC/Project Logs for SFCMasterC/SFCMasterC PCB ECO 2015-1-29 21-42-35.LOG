@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=RCC_OSC_OUT Pin=R1-2
+Removed Pin From Net: NetName=RCC_OSC32_OUT Pin=R4-1
+Removed Member From Class: ClassName=cpuinterface Member=R1
+Removed Member From Class: ClassName=cpuinterface Member=R4
+Added Pin To Net: NetName=RCC_OSC_OUT Pin=C33-1
+Added Pin To Net: NetName=RCC_OSC32_OUT Pin=C35-1
+Added Member To Class: ClassName=cpuinterface Member=Component R56 1K

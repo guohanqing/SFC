@@ -1,0 +1,49 @@
+Field=Comment~String~Comment~150|Field=Description~String~Description~269|Field=Designator~String~Designator~110|Field=Footprint~String~Footprint~110|Field=Quantity~Integer~Quantity~111|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~SFCMasterC.PrjPCB|ReportField=ProjectFullPath~E:\SFC\SFCHW\SFCMasterC\SFCMasterC.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [SFCmasterC.PcbDoc]|ReportField=TotalQuantity~204|ReportField=ReportTime~20:49:02|ReportField=ReportDate~2015/1/14|ReportField=ReportDateTime~2015/1/14 20:49:02|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~SFCmasterC.PcbDoc|ReportField=DataSourceFullPath~E:\SFC\SFCHW\SFCMasterC\SFCmasterC.PcbDoc
+0.22uF|Capacitor|C1, C2|CAPC2012M|2
+0.1uF|Capacitor|C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C17, C19, C21, C23, C24, C25, C26, C27, C28, C30, C36, C37, C39, C40, C42, C43, C46, C47, C48, C49, C50, C51, C52, C53, C55, C56, C57, C58, C59|CAPC2012M|42
+10uF|Capacitor|C16, C18, C20, C22, C38, C41, C45, C54, C60|CAPC2012M|9
+1uF|Capacitor|C29, C31|CAPC2012M|2
+20pF|Capacitor|C32, C33|CAPC2012M|2
+15pF|Capacitor|C34, C35|CAPC2012M|2
+Green|Green LED,Output indicate.|D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D26|CD2012-0805|22
+Green|Green LED,Output indicate.|D22|LED5|1
+Red|Red LED,Output indicate.|D23|LED5|1
+LL4148|1 Amp General Purpose Rectifier|D24|CD3216-1206|1
+WCM-2012HS-900T|Conjugate stream coil,pitch 7.62mmx8mm(LxW)|L1|WCM-2012HS-900T|1
+CBG201209U102|EMI FILTERS,DC Resistance max.0.05~1.5 ohms,10 ~ 1000 ohms at 100MHz  Frequency|LR1, LR2, LR3|INDC2012M|3
+Header 20|Header, 20-Pin|P1, P2|HDR1X20|2
+Header 4|Header, 4-Pin|P3|HDR1X4-2.5|1
+Header 5|Header, 5-Pin|P5|HDR1X5H-2.0|1
+Header 3|Header, 3-Pin|P6|HDR1X3|1
+Header 7|Header, 7-Pin|P7|HDR1X7|1
+Header 8|Header, 8-Pin|P8|HDR1X8|1
+Header A1|Header, 1-Pin|P9|HDR1|1
+SS8550|PNP General Purpose Amplifier|Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12, Q13, Q14, Q15, Q16, Q17, Q18, Q19, Q20, Q21, Q23|SOT-23_N|22
+5.1R|Resistor|R1|RESC2012M|1
+10K|Resistor|R2, R3, R9, R10, R11, R16, R17, R18, R19, R26, R27, R28, R29, R30, R31, R38, R39, R40, R41, R42, R43, R47, R48, R49, R50, R51, R52, R55, R61, R62, R63, R64, R66|RESC2012M|33
+0R|Resistor|R4|RESC2012M|1
+100K|Resistor|R5|RESC2012M|1
+1K|Resistor|R6, R7, R8, R12, R13, R14, R15, R20, R21, R22, R23, R24, R25, R32, R33, R34, R35, R36, R37, R44, R45, R46, R54, R56|RESC2012M|24
+100R|Resistor|R53|RESC2012M|1
+300R|Resistor|R57, R58, R59, R60|RESC2012M|4
+3K|Resistor|R65|RESC2012M|1
+SW DPDT|Switch|S1|SOP-6|1
+SW-PB|Push Button ,2mm(L)x2mm(W)x10mm(H)|S2|PBST-2TRS|1
+DS-01|DIP Switch, 1 Position, SPST|S3|DS-01|1
+STM32F4x7VxT|STM32 ARM-based 32-bit MCU with 64 Kbytes Flash, 100-pin LQFP, Industrial Temperature|U1|LQFP100_L|1
+ASM1117-3.3|800mA Low-Dropout Linear Regulator|U2|SOT-223|1
+ASM1117-5.0|800mA Low-Dropout Linear Regulator|U3|SOT-223|1
+REF3025|1.25V 1.8V 2.048V 2.5V 3.0V 3.3V 4.096V reference voltage|U4|SOT23_M|1
+MIC811TU|4-Pin 礟 Voltage Monitors with Manual Reset Input|U5|SOT-143_N|1
+W25P64|32 Mbit, Low Voltage, Serial Flash Memory  With 50MHz SPI Bus Interface|U6|SO8W|1
+AIC1526|Dual USB High-Side Power Switch|U7|SOP-8|1
+USBLC6-2|USB ESD Protection Diode Array,±15kV (air), ±8kV (contact),Working Voltages 5V|U8|SOT23-6_L|1
+XC6206|250mA Low ESR Dropout Linear Regulator|U9|SOT-23_M|1
+TP4056|锂电池充电管理|U10|NSO8_TP4056|1
+ESP-12|SOC Wifi Mode|U11|ESP-12|1
+SP3232E|+3.0V+5V Powered, Multi-Channel RS-232 Driver/Receiver|U12|NSO16_M|1
+SN74LVC2G00|Dual 2-input positive-NAND gate|U13|PDSO-G8|1
+HT7036A-1||U14|SOT89M|1
+USB_MICRO|MicroUSB接口|USB1|USB_MICRO|1
+12MHz@20pF|Crystal Oscillator|Y1|HC-49U|1
+32.768Hz@15pF|Crystal Oscillator|Y2|HC-RTC-H|1

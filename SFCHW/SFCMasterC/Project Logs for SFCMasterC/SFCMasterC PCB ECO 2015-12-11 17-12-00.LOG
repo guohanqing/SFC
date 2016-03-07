@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=3.3V Pin=R13-2
+Removed Pin From Net: NetName=DP_STARTUP_IN Pin=U1-35
+Removed Member From Class: ClassName=cpuledin Member=D1
+Removed Member From Class: ClassName=cpuledin Member=R13
+Added Pin To Net: NetName=ADC_IN0 Pin=P1-19
+Added Pin To Net: NetName=DP_STARTUP_IN Pin=U1-47
+Change Net Name : Old Net Name=DP_STARTUP_IN New Net Name=TIM2_CH3_CAP_IN

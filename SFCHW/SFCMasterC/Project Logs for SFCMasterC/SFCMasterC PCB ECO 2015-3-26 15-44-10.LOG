@@ -1,0 +1,19 @@
+Change Component Comment : Designator=R1 Old Comment=10K New Comment=100K
+Change Component Comment : Designator=R2 Old Comment=10K New Comment=100K
+Change Component Comment : Designator=R3 Old Comment=10K New Comment=100K
+Change Component Comment : Designator=R61 Old Comment=10K New Comment=100K
+Change Component Comment : Designator=R63 Old Comment=10K New Comment=100K
+Change Component Comment : Designator=R64 Old Comment=10K New Comment=100K
+Change Component Comment : Designator=R66 Old Comment=10K New Comment=100K
+Added Component: Designator=R4(RESC2012M)
+Added Component: Designator=R6(RESC2012M)
+Added Component: Designator=R7(RESC2012M)
+Added Pin To Net: NetName=DRV_IO_EN Pin=R4-1
+Added Pin To Net: NetName=3.3V Pin=R4-2
+Added Pin To Net: NetName=PORT_INT Pin=R6-1
+Added Pin To Net: NetName=3.3V Pin=R6-2
+Added Pin To Net: NetName=3.3V Pin=R7-1
+Added Pin To Net: NetName=KEY_INT Pin=R7-2
+Added Member To Class: ClassName=cpuledin Member=Component R4 100K
+Added Member To Class: ClassName=cpuledin Member=Component R6 100K
+Added Member To Class: ClassName=cpuledin Member=Component R7 100K

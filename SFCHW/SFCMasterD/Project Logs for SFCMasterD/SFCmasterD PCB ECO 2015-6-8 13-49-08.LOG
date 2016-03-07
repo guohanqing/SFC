@@ -1,0 +1,11 @@
+Added Component: Designator=D36(CD2012-0805)
+Added Component: Designator=R9(RESC2012M)
+Added Pin To Net: NetName=3.3V Pin=D36-1
+Added Pin To Net: NetName=NetD36_2 Pin=D36-2
+Added Pin To Net: NetName=NetD36_2 Pin=R9-1
+Added Net: Name=NetD36_2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=U2-2
+Added Net: Name=NetR9_2
+Added Member To Class: ClassName=drvcomdp Member=Component D36 Green
+Added Member To Class: ClassName=drvcomdp Member=Component R9 1K

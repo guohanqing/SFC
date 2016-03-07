@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RCT_AF Pin=U1-31
+Removed Pin From Net: NetName=SPI1_LCD_MOSI Pin=U1-91
+Added Pin To Net: NetName=SPI1_LCD_MOSI Pin=U1-31
+Added Pin To Net: NetName=RCT_AF Pin=U1-91

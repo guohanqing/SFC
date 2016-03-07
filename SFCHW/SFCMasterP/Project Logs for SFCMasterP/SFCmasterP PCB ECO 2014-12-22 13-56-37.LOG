@@ -1,0 +1,15 @@
+Change Component DesignItemId : Designator=P2 Old DesignItemId=Header 9 New DesignItemId=Header 10
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X9 New Footprint=HDR1X10
+Change Component Comment : Designator=P2 Old Comment=Header 9 New Comment=Header 10
+Added Component: Designator=BT1(HDR1X2-2.0)
+Added Component: Designator=RT2(CAPRD7.5-11x4A)
+Added Pin To Net: NetName=GND_DRV Pin=BT1-2
+Added Net: Name=GND_DRV
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=RT2-2
+Added Net: Name=NetBT1_1
+Added Pin To Net: NetName=VBAT_DRV Pin=P2-10
+Added Pin To Net: NetName=VBAT_DRV Pin=RT2-1
+Added Net: Name=VBAT_DRV
+Added Member To Class: ClassName=power Member=Component BT1 2400mAh
+Added Member To Class: ClassName=power Member=Component RT2 500mA/30V

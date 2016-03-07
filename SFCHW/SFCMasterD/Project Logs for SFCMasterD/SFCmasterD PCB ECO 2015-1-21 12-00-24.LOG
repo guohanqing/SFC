@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=CN1 Old Footprint=HR911105A(RJ-45) New Footprint=RJ8-HR911105A
+Added Pin To Net: NetName=GNDA Pin=CN1-13
+Added Pin To Net: NetName=GNDA Pin=CN1-14

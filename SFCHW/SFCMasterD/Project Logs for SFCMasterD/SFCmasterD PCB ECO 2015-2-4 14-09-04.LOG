@@ -1,0 +1,31 @@
+Change Component Footprint: Designator=LR1 Old Footprint=INDC2012M New Footprint=INDC3216M
+Change Component Footprint: Designator=LR2 Old Footprint=INDC2012M New Footprint=INDC3216M
+Change Component Footprint: Designator=LR3 Old Footprint=INDC2012M New Footprint=INDC3216M
+Change Component Footprint: Designator=LR4 Old Footprint=INDC2012M New Footprint=INDC3216M
+Change Component Footprint: Designator=LR5 Old Footprint=INDC2012M New Footprint=INDC3216M
+Change Component Footprint: Designator=LR6 Old Footprint=INDC2012M New Footprint=INDC3216M
+Change Component Footprint: Designator=LR7 Old Footprint=INDC2012M New Footprint=INDC3216M
+Change Component Footprint: Designator=LR8 Old Footprint=INDC2012M New Footprint=INDC3216M
+Change Component Footprint: Designator=LR9 Old Footprint=INDC2012M New Footprint=INDC3216M
+Change Component Footprint: Designator=LR10 Old Footprint=INDC2012M New Footprint=INDC3216M
+Change Component Footprint: Designator=LR11 Old Footprint=INDC2012M New Footprint=INDC3216M
+Change Component Footprint: Designator=LR12 Old Footprint=INDC2012M New Footprint=INDC3216M
+Change Component Footprint: Designator=LR13 Old Footprint=INDC2012M New Footprint=INDC3216M
+Change Component Footprint: Designator=LR14 Old Footprint=INDC2012M New Footprint=INDC3216M
+Change Component Footprint: Designator=LR15 Old Footprint=INDC2012M New Footprint=INDC3216M
+Change Component Comment : Designator=LR1 Old Comment=CBG201209U101 New Comment=CBW321609U101T
+Change Component Comment : Designator=LR2 Old Comment=CBG201209U101 New Comment=CBW321609U101T
+Change Component Comment : Designator=LR3 Old Comment=CBG201209U101 New Comment=CBW321609U101T
+Change Component Comment : Designator=LR4 Old Comment=CBG201209U101 New Comment=CBW321609U101T
+Change Component Comment : Designator=LR5 Old Comment=CBG201209U101 New Comment=CBW321609U101T
+Change Component Comment : Designator=LR6 Old Comment=CBG201209U101 New Comment=CBW321609U101T
+Change Component Comment : Designator=LR7 Old Comment=CBG201209U101 New Comment=CBW321609U101T
+Change Component Comment : Designator=LR8 Old Comment=CBG201209U101 New Comment=CBW321609U101T
+Change Component Comment : Designator=LR9 Old Comment=CBG201209U101 New Comment=CBW321609U101T
+Change Component Comment : Designator=LR10 Old Comment=CBG201209U101 New Comment=CBW321609U101T
+Change Component Comment : Designator=LR11 Old Comment=CBG201209U101 New Comment=CBW321609U101T
+Change Component Comment : Designator=LR12 Old Comment=CBG201209U101 New Comment=CBW321609U101T
+Change Component Comment : Designator=LR13 Old Comment=CBG201209U101 New Comment=CBW321609U101T
+Change Component Comment : Designator=LR14 Old Comment=CBG201209U101 New Comment=CBW321609U101T
+Change Component Comment : Designator=LR15 Old Comment=CBG201209U101 New Comment=CBW321609U101T
+Added Member To Class: ClassName=drvinput0 Member=Component R28 4.7K

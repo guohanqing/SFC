@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=24VGNDA Pin=P3-6
+Change Net Name : Old Net Name=TIM2_CH3_CAP_IN New Net Name=DP_TIM_CAP_IN

@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=S1 Old Footprint=PBST-4TS New Footprint=PBST-4T
+Change Component Footprint: Designator=S2 Old Footprint=PBST-4TS New Footprint=PBST-4T
+Change Component Footprint: Designator=S3 Old Footprint=PBST-4TS New Footprint=PBST-4T
+Change Component Footprint: Designator=S4 Old Footprint=PBST-4TS New Footprint=PBST-4T
+Change Component Footprint: Designator=S5 Old Footprint=PBST-4TS New Footprint=PBST-4T
+Change Component Footprint: Designator=S6 Old Footprint=PBST-4TS New Footprint=PBST-4T
+Added Member To Class: ClassName=lcd&key Member=Component S4 SW-PBD
+Added Member To Class: ClassName=lcd&key Member=Component S5 SW-PBD
+Added Member To Class: ClassName=lcd&key Member=Component S6 SW-PBD

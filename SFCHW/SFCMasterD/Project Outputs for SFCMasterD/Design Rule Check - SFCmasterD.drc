@@ -1,0 +1,47 @@
+Protel Design System Design Rule Check
+PCB File : E:\SFC\SFCHW\SFCMasterD\SFCmasterD.PcbDoc
+Date     : 2016/1/11
+Time     : 13:52:50
+
+Processing Rule : Width Constraint (Min=0.25mm) (Max=0.25mm) (Preferred=0.25mm) (WithinRoom('RoomDefinitionU6'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.245mm) (InComponent('U6')),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.25mm) (Max=1.2mm) (Preferred=0.508mm) (InNet('3.3VPHY') or InNet('1.8VPHY') or InNet('AGND') or InNet('3.3V') or InNet('5V') or InNet('5VA') or InNet('1.8VPHY') or InNet('24V') or InNet('FG')or InNet('NetJ1_1') or InNet('GNDA') or InNet('GND') or InNet('VBAT') or InNet('VBAT_SRC') or InNet('VALVE_DRIVER_L') or InNet('VALVE_DRIVER_LO') or InNet('VALVE_DRIVER_N') or InNet('NetD1_2') or InNet('VALVE_DRIVER1_ON') or InNet('VALVE_DRIVER2_ON') or InNet('VALVE_DRIVER3_ON') or InNet('VALVE_DRIVER4_ON') or InNet('VALVE_DRIVER5_ON') or InNet('VALVE_DRIVER6_ON') or InNet('VALVE_DRIVER7_ON') or InNet('VALVE_DRIVER8_ON') or InNet('VALVE_DRIVER9_ON') or InNet('VALVE_DRIVER10_ON') or InNet('VLV_MAIN_DRIVER_ON') or InNet('VLV_DLY_DRIVER_ON')  or InNet('NetLR4_2') or InNet('NetLR5_2') or InNet('NetLR6_2') or InNet('NetLR7_2') or InNet('NetLR8_2') or InNet('NetLR9_2') or InNet('NetLR10_2') or InNet('NetLR11_2') or InNet('NetLR12_2') or InNet('NetLR13_2') or InNet('NetLR14_2') or InNet('NetLR15_2') or InNet('NetD9_1') or InNet('NetD11_1') or InNet('NetD13_1') or InNet('NetD15_1') or InNet('NetD17_1') or InNet('NetD19_1') or InNet('NetD21_1') or InNet('NetD23_1') or InNet('NetD25_1') or InNet('NetD27_1') or InNet('NetD29_1') or InNet('NetD31_1') or InNet('DETECT_PORT1') or InNet('DETECT_PORT2') or InNet('DETECT_PORT3') or InNet('DETECT_PORT4') or InNet('DETECT_PORT5') or InNet('DETECT_PORT6') or InNet('DETECT_PORT7') or InNet('DETECT_PORT8') or InNet('DETECT_PORT9') or InNet('DETECT_PORT10') or InNet('DETECT_PORT11') or InNet('DETECT_PORT12') or InNet('RMT_STARTUP_PORT') or InNet('DP_TIM_CAP_PORT') or InNet('ADC12_PORT') or InNet('ADC13_PORT') or InNet('CANH_PORT') or InNet('CANL_PORT') or InNet('NetJ2_2') or InNet('SHIELD_GND')or InNet('RTS(PIN4)')or InNet('A(PIN8-)')or InNet('B(PIN3+)'))
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.25mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:05

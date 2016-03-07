@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=3.3V Pin=C40-1
+Removed Pin From Net: NetName=GND Pin=C40-2
+Removed Pin From Net: NetName=LCD_SPI1_NSS Pin=P7-3
+Removed Pin From Net: NetName=LCD_SPI1_SCK Pin=P7-4
+Removed Pin From Net: NetName=LCD_SPI1_MOSI Pin=P7-5
+Removed Pin From Net: NetName=LCD_SPI1_A0 Pin=P7-6
+Removed Pin From Net: NetName=LCD_SPI1_BL Pin=P7-7
+Removed Pin From Net: NetName=3.3V Pin=P8-1
+Removed Pin From Net: NetName=GND Pin=P8-2
+Removed Pin From Net: NetName=KEY_UP Pin=P8-3
+Removed Pin From Net: NetName=KEY_DOWN Pin=P8-4
+Removed Pin From Net: NetName=KEY_LEFT Pin=P8-5
+Removed Pin From Net: NetName=KEY_RIGHT Pin=P8-6
+Removed Pin From Net: NetName=KEY_ESC Pin=P8-7
+Removed Pin From Net: NetName=KEY_ENTER Pin=P8-8
+Removed Member From Class: ClassName=cpuinterface Member=C40
+Removed Member From Class: ClassName=cpuinterface Member=P8
+Change Component DesignItemId : Designator=P7 Old DesignItemId=Header 7 New DesignItemId=Header 14
+Change Component Footprint: Designator=P7 Old Footprint=HDR1X7 New Footprint=FPC0.5-14P-A
+Change Component Comment : Designator=P7 Old Comment=Header 7 New Comment=Header 14
+Added Pin To Net: NetName=LCD_SPI1_NSS Pin=P7-4
+Added Pin To Net: NetName=LCD_SPI1_SCK Pin=P7-5
+Added Pin To Net: NetName=LCD_SPI1_MOSI Pin=P7-6
+Added Pin To Net: NetName=LCD_SPI1_A0 Pin=P7-7
+Added Pin To Net: NetName=LCD_SPI1_BL Pin=P7-8
+Added Pin To Net: NetName=KEY_UP Pin=P7-9
+Added Pin To Net: NetName=KEY_DOWN Pin=P7-10
+Added Pin To Net: NetName=KEY_LEFT Pin=P7-11
+Added Pin To Net: NetName=KEY_RIGHT Pin=P7-12
+Added Pin To Net: NetName=KEY_ESC Pin=P7-13
+Added Pin To Net: NetName=KEY_ENTER Pin=P7-14

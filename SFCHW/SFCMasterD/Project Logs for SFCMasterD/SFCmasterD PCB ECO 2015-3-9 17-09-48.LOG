@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=U6 Old Footprint=LQFP48_N New Footprint=LQFP48_L
+Added Member To Class: ClassName=drveth Member=Component C18 0.1uF
+Added Member To Class: ClassName=drveth Member=Component R16 10K

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VBAT_SRC Pin=C24-1
+Removed Pin From Net: NetName=SIG_IN1 Pin=P9-1
+Removed Pin From Net: NetName=SIG_IN2 Pin=P9-2
+Removed Pin From Net: NetName=SIG_IN3 Pin=P9-3
+Removed Pin From Net: NetName=SIG_IN4 Pin=P9-4
+Removed Pin From Net: NetName=SIG_IN5 Pin=P9-5
+Removed Pin From Net: NetName=SIG_IN6 Pin=P9-6
+Removed Member From Class: ClassName=cpuinterface Member=P9
+Added Component: Designator=P4(HDR1X8)
+Added Pin To Net: NetName=24V Pin=P4-1
+Added Pin To Net: NetName=GNDA Pin=P4-2
+Added Pin To Net: NetName=SIG_IN1 Pin=P4-3
+Added Pin To Net: NetName=SIG_IN2 Pin=P4-4
+Added Pin To Net: NetName=SIG_IN3 Pin=P4-5
+Added Pin To Net: NetName=SIG_IN4 Pin=P4-6
+Added Pin To Net: NetName=SIG_IN5 Pin=P4-7
+Added Pin To Net: NetName=SIG_IN6 Pin=P4-8
+Added Member To Class: ClassName=cpuinterface Member=Component P4 Header 8

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=C39-1
+Removed Pin From Net: NetName=3.3V Pin=C39-2
+Removed Member From Class: ClassName=drvcomdp Member=C39
+Added Member To Class: ClassName=drvcomdp Member=Component R5 10K

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=LEVEL_DETECT_L2_IN Pin=D27-2
+Removed Pin From Net: NetName=LEVEL_DETECT_H2_IN Pin=D28-2
+Removed Pin From Net: NetName=LEVEL_DETECT_L1_IN Pin=D29-2
+Removed Pin From Net: NetName=LEVEL_DETECT_H1_IN Pin=D30-2
+Removed Pin From Net: NetName=RMT_STARTUP_IN Pin=D31-2
+Removed Pin From Net: NetName=DP_STARTUP_IN Pin=D32-2
+Added Pin To Net: NetName=DP_STARTUP Pin=D27-2
+Added Pin To Net: NetName=RMT_STARTUP Pin=D28-2
+Added Pin To Net: NetName=LEVEL_DETECT_H1 Pin=D29-2
+Added Pin To Net: NetName=LEVEL_DETECT_L1 Pin=D30-2
+Added Pin To Net: NetName=LEVEL_DETECT_H2 Pin=D31-2
+Added Pin To Net: NetName=LEVEL_DETECT_L2 Pin=D32-2

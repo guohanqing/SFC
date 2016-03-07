@@ -1,0 +1,30 @@
+Import('RTT_ROOT')
+Import('rtconfig')
+from building import *
+
+cwd     = os.path.join(str(Dir('#')), 'drivers')
+#src	= Glob('*.c')
+CPPPATH = [cwd]
+# The set of source files associated with this SConscript file.
+src = Split("""
+board.c
+gpio.c
+stm32f4xx_it.c
+""")
+
+if GetDepend(['RT_USING_SERIAL']):
+	src += ['usart.c']
+	
+if GetDepend(['RT_USING_SPI']):
+	src += ['stm32f20x_40x_spi.c']
+	
+if GetDepend(['RT_USING_LWIP']):
+	src +=['stm32f4xx_eth_driver.c','stm32f4xx_eth.c']
+
+
+if GetDepend(['RT_USING_EMWIN']):
+	src += ['lcd_st7735s.c']
+	
+group = DefineGroup('Drivers', src, depend = [''], CPPPATH = CPPPATH)
+
+Return('group')

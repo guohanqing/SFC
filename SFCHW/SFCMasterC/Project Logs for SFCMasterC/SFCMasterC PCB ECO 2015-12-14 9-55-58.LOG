@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VDRIVER_OUT10 Pin=P2-15
+Removed Pin From Net: NetName=VDRIVER_OUT9 Pin=P2-16
+Added Pin To Net: NetName=VDRIVER_OUT9 Pin=P2-15
+Added Pin To Net: NetName=VDRIVER_OUT10 Pin=P2-16

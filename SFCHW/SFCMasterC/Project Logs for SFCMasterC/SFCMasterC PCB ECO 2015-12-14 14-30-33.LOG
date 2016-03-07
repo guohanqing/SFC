@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VBAT_SRC Pin=P1-17
+Removed Pin From Net: NetName=ETH_PHY_RST Pin=P1-18
+Added Pin To Net: NetName=ETH_PHY_RST Pin=P1-17
+Added Pin To Net: NetName=VBAT_SRC Pin=P1-18

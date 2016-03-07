@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=SPEEDLED2 Pin=CN1-12
+Removed Pin From Net: NetName=SPEEDLED2 Pin=Q9-3
+Removed Pin From Net: NetName=GND Pin=U6-35
+Removed Pin From Net: NetName=GND Pin=U6-36
+Removed Member From Class: ClassName=drveth Member=Q9
+Removed Member From Class: ClassName=drveth Member=R109
+Added Component: Designator=R100(RESC2012M)
+Added Component: Designator=R101(RESC2012M)
+Added Component: Designator=R102(RESC2012M)
+Added Component: Designator=R105(RESC2012M)
+Added Pin To Net: NetName=SPEEDLED2 Pin=CN1-11
+Added Pin To Net: NetName=SPEEDLED2 Pin=R16-2
+Added Pin To Net: NetName=3.3VPHY Pin=R100-1
+Added Pin To Net: NetName=3.3V Pin=R101-1
+Added Pin To Net: NetName=ETH_RMII_INT Pin=R101-2
+Added Pin To Net: NetName=ETH_PHY_RST Pin=R102-1
+Added Pin To Net: NetName=3.3V Pin=R102-2
+Added Pin To Net: NetName=3.3V Pin=R105-1
+Added Pin To Net: NetName=SPEEDLED2 Pin=U6-11
+Added Pin To Net: NetName=NetCN1_12 Pin=CN1-12
+Added Pin To Net: NetName=NetCN1_12 Pin=R21-2
+Added Net: Name=NetCN1_12
+Added Pin To Net: NetName=NetR100_2 Pin=R100-2
+Added Pin To Net: NetName=NetR100_2 Pin=U6-12
+Added Net: Name=NetR100_2
+Added Pin To Net: NetName=NetR105_2 Pin=R105-2
+Added Pin To Net: NetName=NetR105_2 Pin=U6-36
+Added Net: Name=NetR105_2
+Added Member To Class: ClassName=drveth Member=Component R100 10K
+Added Member To Class: ClassName=drveth Member=Component R101 10K
+Added Member To Class: ClassName=drveth Member=Component R102 10K
+Added Member To Class: ClassName=drveth Member=Component R105 10K
